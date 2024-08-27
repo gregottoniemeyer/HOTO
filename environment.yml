@@ -7,6 +7,8 @@ dependencies:
   - jupyter
   - jupyterlab
   - holoviews
+  - geopandas
+  - goes2go
   - bokeh
   - numpy
   - pandas
@@ -18,10 +20,12 @@ dependencies:
   - bottleneck
   - scikit-learn
   - matplotlib
+  - metpy
   - seaborn
   - h5py
   - fsspec
   - s3fs
+  - toml
   - zarr
   - distributed
   - beautifulsoup4
