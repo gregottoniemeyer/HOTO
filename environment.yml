@@ -3,6 +3,7 @@ channels:
   - conda-forge
   - defaults
 dependencies:
+  - arm_pyart
   - cartopy
   - jupyter
   - jupyterlab
