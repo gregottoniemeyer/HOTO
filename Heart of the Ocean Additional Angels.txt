@@ -1,0 +1,11 @@
+CHANNEL 	EVENT   	CLIP NAME                     	START TIME    	END TIME      	DURATION      	STATE
+1       	1       	Don't Hold Back V2 FOR WB 10.01.24 M1 a_bip.L.wav-05	   00:10:39:20	   00:10:47:14	   00:00:07:24	Unmuted
+1       	2       	Don't Hold Back V2 FOR WB 10.01.24 M1 a_bip.L.wav-06	   00:10:47:14	   00:10:51:23	   00:00:04:08	Unmuted
+1       	3       	Don't Hold Back V2 FOR WB 10.01.24 2_bip_1.L.wav-02	   00:10:51:23	   00:10:59:16	   00:00:07:22	Unmuted
+1       	4       	Don't Hold Back V2 FOR WB 10.01.24 2_bip_1.L.wav-03	   00:10:59:16	   00:11:06:18	   00:00:07:01	Unmuted
+1       	5       	Don't Hold Back V2 FOR WB 10.01.24 M1 a_bip.L.wav-08	   00:11:08:23	   00:11:13:11	   00:00:04:18	Unmuted
+1       	6       	Don't Hold Back V2 FOR WB 10.01.24 M1 a_bip.L.wav-10	   00:11:13:11	   00:11:19:00	   00:00:05:18	Unmuted
+1       	7       	Don't Hold Back V2 FOR WB 10.01.24 M1 a_bip.L.wav-11	   00:11:19:00	   00:11:28:24	   00:00:09:24	Unmuted
+
+
+
