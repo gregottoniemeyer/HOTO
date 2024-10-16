@@ -5,6 +5,7 @@ channels:
 dependencies:
   - arm_pyart
   - cartopy
+  - earthaccess
   - jupyter
   - jupyterlab
   - holoviews
