@@ -6,12 +6,12 @@ dependencies:
   - arm_pyart
   - cartopy
   - earthaccess
+  - ephem
   - jupyter
   - jupyterlab
   - holoviews
   - geopandas
   - goes2go
-  - bokeh
   - numpy
   - pandas
   - python
@@ -22,7 +22,6 @@ dependencies:
   - bottleneck
   - scikit-learn
   - matplotlib
-  - metpy
   - seaborn
   - h5py
   - fsspec
@@ -30,8 +29,9 @@ dependencies:
   - toml
   - zarr
   - distributed
-  - beautifulsoup4
   - h5netcdf
   - scipy
   - xmitgcm
+- pip:
+  - nexradaws
 prefix: C:\Users\gentemann\Miniconda3\envs\heart
