@@ -1,12 +1,12 @@
 CHANNEL,EVENT,CLIP NAME,START TIME,END TIME,DURATION,STATE,Frames,Runtime,Beats
-1,1,Heartbeat Tempo Mapped-11.L   ,00:00:03:11,00:00:03:29,00:00:00:17,Unmuted,101,17,1
-1,2,Heartbeat Tempo Mapped-91.L   ,00:00:03:29,00:00:04:07,00:00:00:08,Unmuted,119,8,0
-1,3,Heartbeat Tempo Mapped-92.L   ,00:00:04:07,00:00:04:25,00:00:00:17,Unmuted,127,17,1
-1,4,Heartbeat Tempo Mapped-93.L   ,00:00:04:25,00:00:05:03,00:00:00:08,Unmuted,145,8,0
-1,5,Heartbeat Tempo Mapped-95.L   ,00:00:05:04,00:00:05:21,00:00:00:17,Unmuted,154,17,1
-1,6,Heartbeat Tempo Mapped-96.L   ,00:00:05:21,00:00:05:29,00:00:00:08,Unmuted,171,8,0
-1,7,Heartbeat Tempo Mapped-97.L   ,00:00:06:00,00:00:06:17,00:00:00:17,Unmuted,180,17,1
-1,8,Heartbeat Tempo Mapped-84.L   ,00:00:06:17,00:00:06:25,00:00:00:07,Unmuted,197,7,0
+1,1,Heartbeat Tempo Mapped-11.L   ,00:00:03:11,00:00:03:29,00:00:00:17,Unmuted,101,17,0
+1,2,Heartbeat Tempo Mapped-91.L   ,00:00:03:29,00:00:04:07,00:00:00:08,Unmuted,119,8,1
+1,3,Heartbeat Tempo Mapped-92.L   ,00:00:04:07,00:00:04:25,00:00:00:17,Unmuted,127,17,0
+1,4,Heartbeat Tempo Mapped-93.L   ,00:00:04:25,00:00:05:03,00:00:00:08,Unmuted,145,8,1
+1,5,Heartbeat Tempo Mapped-95.L   ,00:00:05:04,00:00:05:21,00:00:00:17,Unmuted,154,17,0
+1,6,Heartbeat Tempo Mapped-96.L   ,00:00:05:21,00:00:05:29,00:00:00:08,Unmuted,171,8,1
+1,7,Heartbeat Tempo Mapped-97.L   ,00:00:06:00,00:00:06:17,00:00:00:17,Unmuted,180,17,0
+1,8,Heartbeat Tempo Mapped-84.L   ,00:00:06:17,00:00:06:25,00:00:00:07,Unmuted,197,7,1
 1,10,Heartbeat Tempo Mapped-98.L   ,00:00:06:26,00:00:07:13,00:00:00:17,Unmuted,206,17,0
 1,11,Heartbeat Tempo Mapped-99.L   ,00:00:07:13,00:00:07:20,00:00:00:07,Unmuted,223,7,1
 1,12,Heartbeat Tempo Mapped-100.L  ,00:00:07:21,00:00:08:08,00:00:00:17,Unmuted,231,17,0
@@ -15,14 +15,14 @@ CHANNEL,EVENT,CLIP NAME,START TIME,END TIME,DURATION,STATE,Frames,Runtime,Beats
 1,15,Heartbeat Tempo Mapped-102.L  ,00:00:09:04,00:00:09:12,00:00:00:08,Unmuted,274,8,1
 1,16,Heartbeat Tempo Mapped-97.L   ,00:00:09:13,00:00:10:00,00:00:00:17,Unmuted,283,17,0
 1,17,Heartbeat Tempo Mapped-84.L   ,00:00:10:00,00:00:10:08,00:00:00:07,Unmuted,300,7,1
-1,19,Heartbeat Tempo Mapped-98.L   ,00:00:10:08,00:00:10:25,00:00:00:17,Unmuted,308,17,1
-1,20,Heartbeat Tempo Mapped-103.L  ,00:00:10:26,00:00:11:03,00:00:00:07,Unmuted,326,7,0
-1,21,Heartbeat Tempo Mapped-100.L  ,00:00:11:03,00:00:11:21,00:00:00:17,Unmuted,333,17,1
-1,22,Heartbeat Tempo Mapped-104.L  ,00:00:11:21,00:00:11:29,00:00:00:07,Unmuted,351,7,0
-1,23,Heartbeat Tempo Mapped-105.L  ,00:00:11:29,00:00:12:17,00:00:00:17,Unmuted,359,17,1
-1,24,Heartbeat Tempo Mapped-96.L   ,00:00:12:17,00:00:12:25,00:00:00:08,Unmuted,377,8,0
-1,25,Heartbeat Tempo Mapped-97.L   ,00:00:12:25,00:00:13:13,00:00:00:17,Unmuted,385,17,1
-1,26,Heartbeat Tempo Mapped-84.L   ,00:00:13:13,00:00:13:21,00:00:00:07,Unmuted,403,7,0
+1,19,Heartbeat Tempo Mapped-98.L   ,00:00:10:08,00:00:10:25,00:00:00:17,Unmuted,308,17,0
+1,20,Heartbeat Tempo Mapped-103.L  ,00:00:10:26,00:00:11:03,00:00:00:07,Unmuted,326,7,1
+1,21,Heartbeat Tempo Mapped-100.L  ,00:00:11:03,00:00:11:21,00:00:00:17,Unmuted,333,17,0
+1,22,Heartbeat Tempo Mapped-104.L  ,00:00:11:21,00:00:11:29,00:00:00:07,Unmuted,351,7,1
+1,23,Heartbeat Tempo Mapped-105.L  ,00:00:11:29,00:00:12:17,00:00:00:17,Unmuted,359,17,0
+1,24,Heartbeat Tempo Mapped-96.L   ,00:00:12:17,00:00:12:25,00:00:00:08,Unmuted,377,8,1
+1,25,Heartbeat Tempo Mapped-97.L   ,00:00:12:25,00:00:13:13,00:00:00:17,Unmuted,385,17,0
+1,26,Heartbeat Tempo Mapped-84.L   ,00:00:13:13,00:00:13:21,00:00:00:07,Unmuted,403,7,1
 1,28,Heartbeat Tempo Mapped-98.L   ,00:00:13:21,00:00:14:08,00:00:00:17,Unmuted,411,17,0
 1,29,Heartbeat Tempo Mapped-99.L   ,00:00:14:09,00:00:14:16,00:00:00:07,Unmuted,429,7,1
 1,30,Heartbeat Tempo Mapped-100.L  ,00:00:14:16,00:00:15:04,00:00:00:17,Unmuted,436,17,0
@@ -31,14 +31,14 @@ CHANNEL,EVENT,CLIP NAME,START TIME,END TIME,DURATION,STATE,Frames,Runtime,Beats
 1,33,Heartbeat Tempo Mapped-102.L  ,00:00:16:00,00:00:16:08,00:00:00:08,Unmuted,480,8,1
 1,34,Heartbeat Tempo Mapped-97.L   ,00:00:16:08,00:00:16:25,00:00:00:17,Unmuted,488,17,0
 1,35,Heartbeat Tempo Mapped-84.L   ,00:00:16:26,00:00:17:03,00:00:00:07,Unmuted,506,7,1
-1,37,Heartbeat Tempo Mapped-98.L   ,00:00:17:04,00:00:17:21,00:00:00:17,Unmuted,514,17,1
-1,38,Heartbeat Tempo Mapped-99.L   ,00:00:17:21,00:00:17:29,00:00:00:07,Unmuted,531,7,0
-1,39,Heartbeat Tempo Mapped-106.L  ,00:00:17:29,00:00:18:17,00:00:00:17,Unmuted,539,17,1
-1,40,Heartbeat Tempo Mapped-104.L  ,00:00:18:17,00:00:18:25,00:00:00:07,Unmuted,557,7,0
-1,41,Heartbeat Tempo Mapped-95.L   ,00:00:18:25,00:00:19:12,00:00:00:17,Unmuted,565,17,1
-1,42,Heartbeat Tempo Mapped-102.L  ,00:00:19:13,00:00:19:21,00:00:00:08,Unmuted,583,8,0
-1,43,Heartbeat Tempo Mapped-97.L   ,00:00:19:21,00:00:20:08,00:00:00:17,Unmuted,591,17,1
-1,44,Heartbeat Tempo Mapped-84.L   ,00:00:20:09,00:00:20:16,00:00:00:07,Unmuted,609,7,0
+1,37,Heartbeat Tempo Mapped-98.L   ,00:00:17:04,00:00:17:21,00:00:00:17,Unmuted,514,17,0
+1,38,Heartbeat Tempo Mapped-99.L   ,00:00:17:21,00:00:17:29,00:00:00:07,Unmuted,531,7,1
+1,39,Heartbeat Tempo Mapped-106.L  ,00:00:17:29,00:00:18:17,00:00:00:17,Unmuted,539,17,0
+1,40,Heartbeat Tempo Mapped-104.L  ,00:00:18:17,00:00:18:25,00:00:00:07,Unmuted,557,7,1
+1,41,Heartbeat Tempo Mapped-95.L   ,00:00:18:25,00:00:19:12,00:00:00:17,Unmuted,565,17,0
+1,42,Heartbeat Tempo Mapped-102.L  ,00:00:19:13,00:00:19:21,00:00:00:08,Unmuted,583,8,1
+1,43,Heartbeat Tempo Mapped-97.L   ,00:00:19:21,00:00:20:08,00:00:00:17,Unmuted,591,17,0
+1,44,Heartbeat Tempo Mapped-84.L   ,00:00:20:09,00:00:20:16,00:00:00:07,Unmuted,609,7,1
 1,46,Heartbeat Tempo Mapped-98.L   ,00:00:20:17,00:00:21:04,00:00:00:17,Unmuted,617,17,0
 1,47,Heartbeat Tempo Mapped-99.L   ,00:00:21:04,00:00:21:12,00:00:00:07,Unmuted,634,7,1
 1,48,Heartbeat Tempo Mapped-100.L  ,00:00:21:12,00:00:22:00,00:00:00:17,Unmuted,642,17,0
@@ -47,14 +47,14 @@ CHANNEL,EVENT,CLIP NAME,START TIME,END TIME,DURATION,STATE,Frames,Runtime,Beats
 1,51,Heartbeat Tempo Mapped-102.L  ,00:00:22:26,00:00:23:04,00:00:00:08,Unmuted,686,8,1
 1,52,Heartbeat Tempo Mapped-107.L  ,00:00:23:04,00:00:23:21,00:00:00:17,Unmuted,694,17,0
 1,53,Heartbeat Tempo Mapped-84.L   ,00:00:23:21,00:00:23:29,00:00:00:07,Unmuted,711,7,1
-1,55,Heartbeat Tempo Mapped-98.L   ,00:00:24:00,00:00:24:17,00:00:00:17,Unmuted,720,17,1
-1,56,Heartbeat Tempo Mapped-99.L   ,00:00:24:17,00:00:24:25,00:00:00:07,Unmuted,737,7,0
-1,57,Heartbeat Tempo Mapped-106.L  ,00:00:24:25,00:00:25:13,00:00:00:17,Unmuted,745,17,1
-1,58,Heartbeat Tempo Mapped-104.L  ,00:00:25:13,00:00:25:20,00:00:00:07,Unmuted,763,7,0
-1,59,Heartbeat Tempo Mapped-95.L   ,00:00:25:21,00:00:26:08,00:00:00:17,Unmuted,771,17,1
-1,60,Heartbeat Tempo Mapped-102.L  ,00:00:26:08,00:00:26:17,00:00:00:08,Unmuted,788,8,0
-1,61,Heartbeat Tempo Mapped-97.L   ,00:00:26:17,00:00:27:04,00:00:00:17,Unmuted,797,17,1
-1,62,Heartbeat Tempo Mapped-84.L   ,00:00:27:04,00:00:27:12,00:00:00:07,Unmuted,814,7,0
+1,55,Heartbeat Tempo Mapped-98.L   ,00:00:24:00,00:00:24:17,00:00:00:17,Unmuted,720,17,0
+1,56,Heartbeat Tempo Mapped-99.L   ,00:00:24:17,00:00:24:25,00:00:00:07,Unmuted,737,7,1
+1,57,Heartbeat Tempo Mapped-106.L  ,00:00:24:25,00:00:25:13,00:00:00:17,Unmuted,745,17,0
+1,58,Heartbeat Tempo Mapped-104.L  ,00:00:25:13,00:00:25:20,00:00:00:07,Unmuted,763,7,1
+1,59,Heartbeat Tempo Mapped-95.L   ,00:00:25:21,00:00:26:08,00:00:00:17,Unmuted,771,17,0
+1,60,Heartbeat Tempo Mapped-102.L  ,00:00:26:08,00:00:26:17,00:00:00:08,Unmuted,788,8,1
+1,61,Heartbeat Tempo Mapped-97.L   ,00:00:26:17,00:00:27:04,00:00:00:17,Unmuted,797,17,0
+1,62,Heartbeat Tempo Mapped-84.L   ,00:00:27:04,00:00:27:12,00:00:00:07,Unmuted,814,7,1
 1,64,Heartbeat Tempo Mapped-108.L  ,00:00:27:13,00:00:28:00,00:00:00:17,Unmuted,823,17,0
 1,65,Heartbeat Tempo Mapped-103.L  ,00:00:28:00,00:00:28:07,00:00:00:07,Unmuted,840,7,1
 1,66,Heartbeat Tempo Mapped-100.L  ,00:00:28:08,00:00:28:25,00:00:00:17,Unmuted,848,17,0
@@ -63,14 +63,14 @@ CHANNEL,EVENT,CLIP NAME,START TIME,END TIME,DURATION,STATE,Frames,Runtime,Beats
 1,69,Heartbeat Tempo Mapped-96.L   ,00:00:29:21,00:00:29:29,00:00:00:08,Unmuted,891,8,1
 1,70,Heartbeat Tempo Mapped-97.L   ,00:00:30:00,00:00:30:17,00:00:00:17,Unmuted,900,17,0
 1,71,Heartbeat Tempo Mapped-84.L   ,00:00:30:17,00:00:30:25,00:00:00:07,Unmuted,917,7,1
-1,73,Heartbeat Tempo Mapped-98.L   ,00:00:30:26,00:00:31:13,00:00:00:17,Unmuted,926,17,1
-1,74,Heartbeat Tempo Mapped-99.L   ,00:00:31:13,00:00:31:20,00:00:00:07,Unmuted,943,7,0
-1,75,Heartbeat Tempo Mapped-100.L  ,00:00:31:21,00:00:32:08,00:00:00:17,Unmuted,951,17,1
-1,76,Heartbeat Tempo Mapped-101.L  ,00:00:32:09,00:00:32:16,00:00:00:07,Unmuted,969,7,0
-1,77,Heartbeat Tempo Mapped-95.L   ,00:00:32:16,00:00:33:04,00:00:00:17,Unmuted,976,17,1
-1,78,Heartbeat Tempo Mapped-102.L  ,00:00:33:04,00:00:33:12,00:00:00:08,Unmuted,994,8,0
-1,79,Heartbeat Tempo Mapped-97.L   ,00:00:33:13,00:00:34:00,00:00:00:17,Unmuted,1003,17,1
-1,80,Heartbeat Tempo Mapped-84.L   ,00:00:34:00,00:00:34:08,00:00:00:07,Unmuted,1020,7,0
+1,73,Heartbeat Tempo Mapped-98.L   ,00:00:30:26,00:00:31:13,00:00:00:17,Unmuted,926,17,0
+1,74,Heartbeat Tempo Mapped-99.L   ,00:00:31:13,00:00:31:20,00:00:00:07,Unmuted,943,7,1
+1,75,Heartbeat Tempo Mapped-100.L  ,00:00:31:21,00:00:32:08,00:00:00:17,Unmuted,951,17,0
+1,76,Heartbeat Tempo Mapped-101.L  ,00:00:32:09,00:00:32:16,00:00:00:07,Unmuted,969,7,1
+1,77,Heartbeat Tempo Mapped-95.L   ,00:00:32:16,00:00:33:04,00:00:00:17,Unmuted,976,17,0
+1,78,Heartbeat Tempo Mapped-102.L  ,00:00:33:04,00:00:33:12,00:00:00:08,Unmuted,994,8,1
+1,79,Heartbeat Tempo Mapped-97.L   ,00:00:33:13,00:00:34:00,00:00:00:17,Unmuted,1003,17,0
+1,80,Heartbeat Tempo Mapped-84.L   ,00:00:34:00,00:00:34:08,00:00:00:07,Unmuted,1020,7,1
 1,82,Heartbeat Tempo Mapped-98.L   ,00:00:34:08,00:00:34:25,00:00:00:17,Unmuted,1028,17,0
 1,83,Heartbeat Tempo Mapped-103.L  ,00:00:34:26,00:00:35:03,00:00:00:07,Unmuted,1046,7,1
 1,84,Heartbeat Tempo Mapped-100.L  ,00:00:35:03,00:00:35:21,00:00:00:17,Unmuted,1053,17,0
@@ -79,14 +79,14 @@ CHANNEL,EVENT,CLIP NAME,START TIME,END TIME,DURATION,STATE,Frames,Runtime,Beats
 1,87,Heartbeat Tempo Mapped-96.L   ,00:00:36:17,00:00:36:25,00:00:00:08,Unmuted,1097,8,1
 1,88,Heartbeat Tempo Mapped-97.L   ,00:00:36:25,00:00:37:13,00:00:00:17,Unmuted,1105,17,0
 1,89,Heartbeat Tempo Mapped-84.L   ,00:00:37:13,00:00:37:21,00:00:00:07,Unmuted,1123,7,1
-1,91,Heartbeat Tempo Mapped-98.L   ,00:00:37:21,00:00:38:08,00:00:00:17,Unmuted,1131,17,1
-1,92,Heartbeat Tempo Mapped-99.L   ,00:00:38:09,00:00:38:16,00:00:00:07,Unmuted,1149,7,0
-1,93,Heartbeat Tempo Mapped-100.L  ,00:00:38:16,00:00:39:04,00:00:00:17,Unmuted,1156,17,1
-1,94,Heartbeat Tempo Mapped-101.L  ,00:00:39:04,00:00:39:12,00:00:00:07,Unmuted,1174,7,0
-1,95,Heartbeat Tempo Mapped-95.L   ,00:00:39:12,00:00:40:00,00:00:00:17,Unmuted,1182,17,1
-1,96,Heartbeat Tempo Mapped-102.L  ,00:00:40:00,00:00:40:08,00:00:00:08,Unmuted,1200,8,0
-1,97,Heartbeat Tempo Mapped-97.L   ,00:00:40:08,00:00:40:25,00:00:00:17,Unmuted,1208,17,1
-1,98,Heartbeat Tempo Mapped-84.L   ,00:00:40:26,00:00:41:03,00:00:00:07,Unmuted,1226,7,0
+1,91,Heartbeat Tempo Mapped-98.L   ,00:00:37:21,00:00:38:08,00:00:00:17,Unmuted,1131,17,0
+1,92,Heartbeat Tempo Mapped-99.L   ,00:00:38:09,00:00:38:16,00:00:00:07,Unmuted,1149,7,1
+1,93,Heartbeat Tempo Mapped-100.L  ,00:00:38:16,00:00:39:04,00:00:00:17,Unmuted,1156,17,0
+1,94,Heartbeat Tempo Mapped-101.L  ,00:00:39:04,00:00:39:12,00:00:00:07,Unmuted,1174,7,1
+1,95,Heartbeat Tempo Mapped-95.L   ,00:00:39:12,00:00:40:00,00:00:00:17,Unmuted,1182,17,0
+1,96,Heartbeat Tempo Mapped-102.L  ,00:00:40:00,00:00:40:08,00:00:00:08,Unmuted,1200,8,1
+1,97,Heartbeat Tempo Mapped-97.L   ,00:00:40:08,00:00:40:25,00:00:00:17,Unmuted,1208,17,0
+1,98,Heartbeat Tempo Mapped-84.L   ,00:00:40:26,00:00:41:03,00:00:00:07,Unmuted,1226,7,1
 1,100,Heartbeat Tempo Mapped-98.L   ,00:00:41:04,00:00:41:21,00:00:00:17,Unmuted,1234,17,0
 1,101,Heartbeat Tempo Mapped-99.L   ,00:00:41:21,00:00:41:29,00:00:00:07,Unmuted,1251,7,1
 1,102,Heartbeat Tempo Mapped-106.L  ,00:00:41:29,00:00:42:17,00:00:00:17,Unmuted,1259,17,0
@@ -95,14 +95,14 @@ CHANNEL,EVENT,CLIP NAME,START TIME,END TIME,DURATION,STATE,Frames,Runtime,Beats
 1,105,Heartbeat Tempo Mapped-102.L  ,00:00:43:13,00:00:43:21,00:00:00:08,Unmuted,1303,8,1
 1,106,Heartbeat Tempo Mapped-97.L   ,00:00:43:21,00:00:44:08,00:00:00:17,Unmuted,1311,17,0
 1,107,Heartbeat Tempo Mapped-84.L   ,00:00:44:09,00:00:44:16,00:00:00:07,Unmuted,1329,7,1
-1,109,Heartbeat Tempo Mapped-98.L   ,00:00:44:17,00:00:45:04,00:00:00:17,Unmuted,1337,17,1
-1,110,Heartbeat Tempo Mapped-99.L   ,00:00:45:04,00:00:45:12,00:00:00:07,Unmuted,1354,7,0
-1,111,Heartbeat Tempo Mapped-100.L  ,00:00:45:12,00:00:46:00,00:00:00:17,Unmuted,1362,17,1
-1,112,Heartbeat Tempo Mapped-101.L  ,00:00:46:00,00:00:46:08,00:00:00:07,Unmuted,1380,7,0
-1,113,Heartbeat Tempo Mapped-95.L   ,00:00:46:08,00:00:46:25,00:00:00:17,Unmuted,1388,17,1
-1,114,Heartbeat Tempo Mapped-102.L  ,00:00:46:26,00:00:47:04,00:00:00:08,Unmuted,1406,8,0
-1,115,Heartbeat Tempo Mapped-107.L  ,00:00:47:04,00:00:47:21,00:00:00:17,Unmuted,1414,17,1
-1,116,Heartbeat Tempo Mapped-84.L   ,00:00:47:21,00:00:47:29,00:00:00:07,Unmuted,1431,7,0
+1,109,Heartbeat Tempo Mapped-98.L   ,00:00:44:17,00:00:45:04,00:00:00:17,Unmuted,1337,17,0
+1,110,Heartbeat Tempo Mapped-99.L   ,00:00:45:04,00:00:45:12,00:00:00:07,Unmuted,1354,7,1
+1,111,Heartbeat Tempo Mapped-100.L  ,00:00:45:12,00:00:46:00,00:00:00:17,Unmuted,1362,17,0
+1,112,Heartbeat Tempo Mapped-101.L  ,00:00:46:00,00:00:46:08,00:00:00:07,Unmuted,1380,7,1
+1,113,Heartbeat Tempo Mapped-95.L   ,00:00:46:08,00:00:46:25,00:00:00:17,Unmuted,1388,17,0
+1,114,Heartbeat Tempo Mapped-102.L  ,00:00:46:26,00:00:47:04,00:00:00:08,Unmuted,1406,8,1
+1,115,Heartbeat Tempo Mapped-107.L  ,00:00:47:04,00:00:47:21,00:00:00:17,Unmuted,1414,17,0
+1,116,Heartbeat Tempo Mapped-84.L   ,00:00:47:21,00:00:47:29,00:00:00:07,Unmuted,1431,7,1
 1,118,Heartbeat Tempo Mapped-98.L   ,00:00:48:00,00:00:48:17,00:00:00:17,Unmuted,1440,17,0
 1,119,Heartbeat Tempo Mapped-99.L   ,00:00:48:17,00:00:48:25,00:00:00:07,Unmuted,1457,7,1
 1,120,Heartbeat Tempo Mapped-106.L  ,00:00:48:25,00:00:49:13,00:00:00:17,Unmuted,1465,17,0
@@ -111,14 +111,14 @@ CHANNEL,EVENT,CLIP NAME,START TIME,END TIME,DURATION,STATE,Frames,Runtime,Beats
 1,123,Heartbeat Tempo Mapped-102.L  ,00:00:50:08,00:00:50:17,00:00:00:08,Unmuted,1508,8,1
 1,124,Heartbeat Tempo Mapped-97.L   ,00:00:50:17,00:00:51:04,00:00:00:17,Unmuted,1517,17,0
 1,125,Heartbeat Tempo Mapped-84.L   ,00:00:51:04,00:00:51:12,00:00:00:07,Unmuted,1534,7,1
-1,127,Heartbeat Tempo Mapped-108.L  ,00:00:51:13,00:00:52:00,00:00:00:17,Unmuted,1543,17,1
-1,128,Heartbeat Tempo Mapped-103.L  ,00:00:52:00,00:00:52:07,00:00:00:07,Unmuted,1560,7,0
-1,129,Heartbeat Tempo Mapped-100.L  ,00:00:52:08,00:00:52:25,00:00:00:17,Unmuted,1568,17,1
-1,130,Heartbeat Tempo Mapped-101.L  ,00:00:52:26,00:00:53:03,00:00:00:07,Unmuted,1586,7,0
-1,131,Heartbeat Tempo Mapped-95.L   ,00:00:53:04,00:00:53:21,00:00:00:17,Unmuted,1594,17,1
-1,132,Heartbeat Tempo Mapped-96.L   ,00:00:53:21,00:00:53:29,00:00:00:08,Unmuted,1611,8,0
-1,133,Heartbeat Tempo Mapped-97.L   ,00:00:54:00,00:00:54:17,00:00:00:17,Unmuted,1620,17,1
-1,134,Heartbeat Tempo Mapped-84.L   ,00:00:54:17,00:00:54:25,00:00:00:07,Unmuted,1637,7,0
+1,127,Heartbeat Tempo Mapped-108.L  ,00:00:51:13,00:00:52:00,00:00:00:17,Unmuted,1543,17,0
+1,128,Heartbeat Tempo Mapped-103.L  ,00:00:52:00,00:00:52:07,00:00:00:07,Unmuted,1560,7,1
+1,129,Heartbeat Tempo Mapped-100.L  ,00:00:52:08,00:00:52:25,00:00:00:17,Unmuted,1568,17,0
+1,130,Heartbeat Tempo Mapped-101.L  ,00:00:52:26,00:00:53:03,00:00:00:07,Unmuted,1586,7,1
+1,131,Heartbeat Tempo Mapped-95.L   ,00:00:53:04,00:00:53:21,00:00:00:17,Unmuted,1594,17,0
+1,132,Heartbeat Tempo Mapped-96.L   ,00:00:53:21,00:00:53:29,00:00:00:08,Unmuted,1611,8,1
+1,133,Heartbeat Tempo Mapped-97.L   ,00:00:54:00,00:00:54:17,00:00:00:17,Unmuted,1620,17,0
+1,134,Heartbeat Tempo Mapped-84.L   ,00:00:54:17,00:00:54:25,00:00:00:07,Unmuted,1637,7,1
 1,136,Heartbeat Tempo Mapped-98.L   ,00:00:54:26,00:00:55:13,00:00:00:17,Unmuted,1646,17,0
 1,137,Heartbeat Tempo Mapped-99.L   ,00:00:55:13,00:00:55:20,00:00:00:07,Unmuted,1663,7,1
 1,138,Heartbeat Tempo Mapped-100.L  ,00:00:55:21,00:00:56:08,00:00:00:17,Unmuted,1671,17,0
@@ -127,14 +127,14 @@ CHANNEL,EVENT,CLIP NAME,START TIME,END TIME,DURATION,STATE,Frames,Runtime,Beats
 1,141,Heartbeat Tempo Mapped-102.L  ,00:00:57:04,00:00:57:12,00:00:00:08,Unmuted,1714,8,1
 1,142,Heartbeat Tempo Mapped-97.L   ,00:00:57:13,00:00:58:00,00:00:00:17,Unmuted,1723,17,0
 1,143,Heartbeat Tempo Mapped-84.L   ,00:00:58:00,00:00:58:08,00:00:00:07,Unmuted,1740,7,1
-1,145,Heartbeat Tempo Mapped-98.L   ,00:00:58:08,00:00:58:25,00:00:00:17,Unmuted,1748,17,1
-1,146,Heartbeat Tempo Mapped-103.L  ,00:00:58:26,00:00:59:03,00:00:00:07,Unmuted,1766,7,0
-1,147,Heartbeat Tempo Mapped-100.L  ,00:00:59:03,00:00:59:21,00:00:00:17,Unmuted,1773,17,1
-1,148,Heartbeat Tempo Mapped-104.L  ,00:00:59:21,00:00:59:29,00:00:00:07,Unmuted,1791,7,0
-1,149,Heartbeat Tempo Mapped-105.L  ,00:00:59:29,00:01:00:17,00:00:00:17,Unmuted,1799,17,1
-1,150,Heartbeat Tempo Mapped-96.L   ,00:01:00:17,00:01:00:25,00:00:00:08,Unmuted,1817,8,0
-1,151,Heartbeat Tempo Mapped-97.L   ,00:01:00:25,00:01:01:13,00:00:00:17,Unmuted,1825,17,1
-1,152,Heartbeat Tempo Mapped-84.L   ,00:01:01:13,00:01:01:21,00:00:00:07,Unmuted,1843,7,0
+1,145,Heartbeat Tempo Mapped-98.L   ,00:00:58:08,00:00:58:25,00:00:00:17,Unmuted,1748,17,0
+1,146,Heartbeat Tempo Mapped-103.L  ,00:00:58:26,00:00:59:03,00:00:00:07,Unmuted,1766,7,1
+1,147,Heartbeat Tempo Mapped-100.L  ,00:00:59:03,00:00:59:21,00:00:00:17,Unmuted,1773,17,0
+1,148,Heartbeat Tempo Mapped-104.L  ,00:00:59:21,00:00:59:29,00:00:00:07,Unmuted,1791,7,1
+1,149,Heartbeat Tempo Mapped-105.L  ,00:00:59:29,00:01:00:17,00:00:00:17,Unmuted,1799,17,0
+1,150,Heartbeat Tempo Mapped-96.L   ,00:01:00:17,00:01:00:25,00:00:00:08,Unmuted,1817,8,1
+1,151,Heartbeat Tempo Mapped-97.L   ,00:01:00:25,00:01:01:13,00:00:00:17,Unmuted,1825,17,0
+1,152,Heartbeat Tempo Mapped-84.L   ,00:01:01:13,00:01:01:21,00:00:00:07,Unmuted,1843,7,1
 1,154,Heartbeat Tempo Mapped-98.L   ,00:01:01:21,00:01:02:08,00:00:00:17,Unmuted,1851,17,0
 1,155,Heartbeat Tempo Mapped-99.L   ,00:01:02:09,00:01:02:16,00:00:00:07,Unmuted,1869,7,1
 1,156,Heartbeat Tempo Mapped-100.L  ,00:01:02:16,00:01:03:04,00:00:00:17,Unmuted,1876,17,0
@@ -143,14 +143,14 @@ CHANNEL,EVENT,CLIP NAME,START TIME,END TIME,DURATION,STATE,Frames,Runtime,Beats
 1,159,Heartbeat Tempo Mapped-102.L  ,00:01:04:00,00:01:04:08,00:00:00:08,Unmuted,1920,8,1
 1,160,Heartbeat Tempo Mapped-97.L   ,00:01:04:08,00:01:04:25,00:00:00:17,Unmuted,1928,17,0
 1,161,Heartbeat Tempo Mapped-84.L   ,00:01:04:26,00:01:05:03,00:00:00:07,Unmuted,1946,7,1
-1,163,Heartbeat Tempo Mapped-98.L   ,00:01:05:04,00:01:05:21,00:00:00:17,Unmuted,1954,17,1
-1,164,Heartbeat Tempo Mapped-99.L   ,00:01:05:21,00:01:05:29,00:00:00:07,Unmuted,1971,7,0
-1,165,Heartbeat Tempo Mapped-106.L  ,00:01:05:29,00:01:06:17,00:00:00:17,Unmuted,1979,17,1
-1,166,Heartbeat Tempo Mapped-104.L  ,00:01:06:17,00:01:06:25,00:00:00:07,Unmuted,1997,7,0
-1,167,Heartbeat Tempo Mapped-95.L   ,00:01:06:25,00:01:07:12,00:00:00:17,Unmuted,2005,17,1
-1,168,Heartbeat Tempo Mapped-102.L  ,00:01:07:13,00:01:07:21,00:00:00:08,Unmuted,2023,8,0
-1,169,Heartbeat Tempo Mapped-97.L   ,00:01:07:21,00:01:08:08,00:00:00:17,Unmuted,2031,17,1
-1,170,Heartbeat Tempo Mapped-84.L   ,00:01:08:09,00:01:08:16,00:00:00:07,Unmuted,2049,7,0
+1,163,Heartbeat Tempo Mapped-98.L   ,00:01:05:04,00:01:05:21,00:00:00:17,Unmuted,1954,17,0
+1,164,Heartbeat Tempo Mapped-99.L   ,00:01:05:21,00:01:05:29,00:00:00:07,Unmuted,1971,7,1
+1,165,Heartbeat Tempo Mapped-106.L  ,00:01:05:29,00:01:06:17,00:00:00:17,Unmuted,1979,17,0
+1,166,Heartbeat Tempo Mapped-104.L  ,00:01:06:17,00:01:06:25,00:00:00:07,Unmuted,1997,7,1
+1,167,Heartbeat Tempo Mapped-95.L   ,00:01:06:25,00:01:07:12,00:00:00:17,Unmuted,2005,17,0
+1,168,Heartbeat Tempo Mapped-102.L  ,00:01:07:13,00:01:07:21,00:00:00:08,Unmuted,2023,8,1
+1,169,Heartbeat Tempo Mapped-97.L   ,00:01:07:21,00:01:08:08,00:00:00:17,Unmuted,2031,17,0
+1,170,Heartbeat Tempo Mapped-84.L   ,00:01:08:09,00:01:08:16,00:00:00:07,Unmuted,2049,7,1
 1,172,Heartbeat Tempo Mapped-98.L   ,00:01:08:17,00:01:09:04,00:00:00:17,Unmuted,2057,17,0
 1,173,Heartbeat Tempo Mapped-99.L   ,00:01:09:04,00:01:09:12,00:00:00:07,Unmuted,2074,7,1
 1,174,Heartbeat Tempo Mapped-100.L  ,00:01:09:12,00:01:10:00,00:00:00:17,Unmuted,2082,17,0
@@ -159,14 +159,14 @@ CHANNEL,EVENT,CLIP NAME,START TIME,END TIME,DURATION,STATE,Frames,Runtime,Beats
 1,177,Heartbeat Tempo Mapped-102.L  ,00:01:10:26,00:01:11:04,00:00:00:08,Unmuted,2126,8,1
 1,178,Heartbeat Tempo Mapped-107.L  ,00:01:11:04,00:01:11:21,00:00:00:17,Unmuted,2134,17,0
 1,179,Heartbeat Tempo Mapped-84.L   ,00:01:11:21,00:01:11:29,00:00:00:07,Unmuted,2151,7,1
-1,181,Heartbeat Tempo Mapped-98.L   ,00:01:12:00,00:01:12:17,00:00:00:17,Unmuted,2160,17,1
-1,182,Heartbeat Tempo Mapped-99.L   ,00:01:12:17,00:01:12:25,00:00:00:07,Unmuted,2177,7,0
-1,183,Heartbeat Tempo Mapped-106.L  ,00:01:12:25,00:01:13:13,00:00:00:17,Unmuted,2185,17,1
-1,184,Heartbeat Tempo Mapped-104.L  ,00:01:13:13,00:01:13:20,00:00:00:07,Unmuted,2203,7,0
-1,185,Heartbeat Tempo Mapped-95.L   ,00:01:13:21,00:01:14:08,00:00:00:17,Unmuted,2211,17,1
-1,186,Heartbeat Tempo Mapped-102.L  ,00:01:14:08,00:01:14:17,00:00:00:08,Unmuted,2228,8,0
-1,187,Heartbeat Tempo Mapped-97.L   ,00:01:14:17,00:01:15:04,00:00:00:17,Unmuted,2237,17,1
-1,188,Heartbeat Tempo Mapped-84.L   ,00:01:15:04,00:01:15:12,00:00:00:07,Unmuted,2254,7,0
+1,181,Heartbeat Tempo Mapped-98.L   ,00:01:12:00,00:01:12:17,00:00:00:17,Unmuted,2160,17,0
+1,182,Heartbeat Tempo Mapped-99.L   ,00:01:12:17,00:01:12:25,00:00:00:07,Unmuted,2177,7,1
+1,183,Heartbeat Tempo Mapped-106.L  ,00:01:12:25,00:01:13:13,00:00:00:17,Unmuted,2185,17,0
+1,184,Heartbeat Tempo Mapped-104.L  ,00:01:13:13,00:01:13:20,00:00:00:07,Unmuted,2203,7,1
+1,185,Heartbeat Tempo Mapped-95.L   ,00:01:13:21,00:01:14:08,00:00:00:17,Unmuted,2211,17,0
+1,186,Heartbeat Tempo Mapped-102.L  ,00:01:14:08,00:01:14:17,00:00:00:08,Unmuted,2228,8,1
+1,187,Heartbeat Tempo Mapped-97.L   ,00:01:14:17,00:01:15:04,00:00:00:17,Unmuted,2237,17,0
+1,188,Heartbeat Tempo Mapped-84.L   ,00:01:15:04,00:01:15:12,00:00:00:07,Unmuted,2254,7,1
 1,190,Heartbeat Tempo Mapped-108.L  ,00:01:15:13,00:01:16:00,00:00:00:17,Unmuted,2263,17,0
 1,191,Heartbeat Tempo Mapped-103.L  ,00:01:16:00,00:01:16:07,00:00:00:07,Unmuted,2280,7,1
 1,192,Heartbeat Tempo Mapped-100.L  ,00:01:16:08,00:01:16:25,00:00:00:17,Unmuted,2288,17,0
@@ -175,14 +175,14 @@ CHANNEL,EVENT,CLIP NAME,START TIME,END TIME,DURATION,STATE,Frames,Runtime,Beats
 1,195,Heartbeat Tempo Mapped-96.L   ,00:01:17:21,00:01:17:29,00:00:00:08,Unmuted,2331,8,1
 1,196,Heartbeat Tempo Mapped-97.L   ,00:01:18:00,00:01:18:17,00:00:00:17,Unmuted,2340,17,0
 1,197,Heartbeat Tempo Mapped-84.L   ,00:01:18:17,00:01:18:25,00:00:00:07,Unmuted,2357,7,1
-1,199,Heartbeat Tempo Mapped-98.L   ,00:01:18:26,00:01:19:13,00:00:00:17,Unmuted,2366,17,1
-1,200,Heartbeat Tempo Mapped-99.L   ,00:01:19:13,00:01:19:20,00:00:00:07,Unmuted,2383,7,0
-1,201,Heartbeat Tempo Mapped-100.L  ,00:01:19:21,00:01:20:08,00:00:00:17,Unmuted,2391,17,1
-1,202,Heartbeat Tempo Mapped-101.L  ,00:01:20:09,00:01:20:16,00:00:00:07,Unmuted,2409,7,0
-1,203,Heartbeat Tempo Mapped-95.L   ,00:01:20:16,00:01:21:04,00:00:00:17,Unmuted,2416,17,1
-1,204,Heartbeat Tempo Mapped-102.L  ,00:01:21:04,00:01:21:12,00:00:00:08,Unmuted,2434,8,0
-1,205,Heartbeat Tempo Mapped-97.L   ,00:01:21:13,00:01:22:00,00:00:00:17,Unmuted,2443,17,1
-1,206,Heartbeat Tempo Mapped-84.L   ,00:01:22:00,00:01:22:08,00:00:00:07,Unmuted,2460,7,0
+1,199,Heartbeat Tempo Mapped-98.L   ,00:01:18:26,00:01:19:13,00:00:00:17,Unmuted,2366,17,0
+1,200,Heartbeat Tempo Mapped-99.L   ,00:01:19:13,00:01:19:20,00:00:00:07,Unmuted,2383,7,1
+1,201,Heartbeat Tempo Mapped-100.L  ,00:01:19:21,00:01:20:08,00:00:00:17,Unmuted,2391,17,0
+1,202,Heartbeat Tempo Mapped-101.L  ,00:01:20:09,00:01:20:16,00:00:00:07,Unmuted,2409,7,1
+1,203,Heartbeat Tempo Mapped-95.L   ,00:01:20:16,00:01:21:04,00:00:00:17,Unmuted,2416,17,0
+1,204,Heartbeat Tempo Mapped-102.L  ,00:01:21:04,00:01:21:12,00:00:00:08,Unmuted,2434,8,1
+1,205,Heartbeat Tempo Mapped-97.L   ,00:01:21:13,00:01:22:00,00:00:00:17,Unmuted,2443,17,0
+1,206,Heartbeat Tempo Mapped-84.L   ,00:01:22:00,00:01:22:08,00:00:00:07,Unmuted,2460,7,1
 1,208,Heartbeat Tempo Mapped-98.L   ,00:01:22:08,00:01:22:25,00:00:00:17,Unmuted,2468,17,0
 1,209,Heartbeat Tempo Mapped-103.L  ,00:01:22:26,00:01:23:03,00:00:00:07,Unmuted,2486,7,1
 1,210,Heartbeat Tempo Mapped-100.L  ,00:01:23:03,00:01:23:21,00:00:00:17,Unmuted,2493,17,0
@@ -191,14 +191,14 @@ CHANNEL,EVENT,CLIP NAME,START TIME,END TIME,DURATION,STATE,Frames,Runtime,Beats
 1,213,Heartbeat Tempo Mapped-96.L   ,00:01:24:17,00:01:24:25,00:00:00:08,Unmuted,2537,8,1
 1,214,Heartbeat Tempo Mapped-97.L   ,00:01:24:25,00:01:25:13,00:00:00:17,Unmuted,2545,17,0
 1,215,Heartbeat Tempo Mapped-84.L   ,00:01:25:13,00:01:25:21,00:00:00:07,Unmuted,2563,7,1
-1,217,Heartbeat Tempo Mapped-98.L   ,00:01:25:21,00:01:26:08,00:00:00:17,Unmuted,2571,17,1
-1,218,Heartbeat Tempo Mapped-99.L   ,00:01:26:09,00:01:26:16,00:00:00:07,Unmuted,2589,7,0
-1,219,Heartbeat Tempo Mapped-100.L  ,00:01:26:16,00:01:27:04,00:00:00:17,Unmuted,2596,17,1
-1,220,Heartbeat Tempo Mapped-101.L  ,00:01:27:04,00:01:27:12,00:00:00:07,Unmuted,2614,7,0
-1,221,Heartbeat Tempo Mapped-95.L   ,00:01:27:12,00:01:28:00,00:00:00:17,Unmuted,2622,17,1
-1,222,Heartbeat Tempo Mapped-102.L  ,00:01:28:00,00:01:28:08,00:00:00:08,Unmuted,2640,8,0
-1,223,Heartbeat Tempo Mapped-97.L   ,00:01:28:08,00:01:28:25,00:00:00:17,Unmuted,2648,17,1
-1,224,Heartbeat Tempo Mapped-84.L   ,00:01:28:26,00:01:29:03,00:00:00:07,Unmuted,2666,7,0
+1,217,Heartbeat Tempo Mapped-98.L   ,00:01:25:21,00:01:26:08,00:00:00:17,Unmuted,2571,17,0
+1,218,Heartbeat Tempo Mapped-99.L   ,00:01:26:09,00:01:26:16,00:00:00:07,Unmuted,2589,7,1
+1,219,Heartbeat Tempo Mapped-100.L  ,00:01:26:16,00:01:27:04,00:00:00:17,Unmuted,2596,17,0
+1,220,Heartbeat Tempo Mapped-101.L  ,00:01:27:04,00:01:27:12,00:00:00:07,Unmuted,2614,7,1
+1,221,Heartbeat Tempo Mapped-95.L   ,00:01:27:12,00:01:28:00,00:00:00:17,Unmuted,2622,17,0
+1,222,Heartbeat Tempo Mapped-102.L  ,00:01:28:00,00:01:28:08,00:00:00:08,Unmuted,2640,8,1
+1,223,Heartbeat Tempo Mapped-97.L   ,00:01:28:08,00:01:28:25,00:00:00:17,Unmuted,2648,17,0
+1,224,Heartbeat Tempo Mapped-84.L   ,00:01:28:26,00:01:29:03,00:00:00:07,Unmuted,2666,7,1
 1,226,Heartbeat Tempo Mapped-98.L   ,00:01:29:04,00:01:29:21,00:00:00:17,Unmuted,2674,17,0
 1,227,Heartbeat Tempo Mapped-99.L   ,00:01:29:21,00:01:29:29,00:00:00:07,Unmuted,2691,7,1
 1,228,Heartbeat Tempo Mapped-106.L  ,00:01:29:29,00:01:30:17,00:00:00:17,Unmuted,2699,17,0
@@ -207,14 +207,14 @@ CHANNEL,EVENT,CLIP NAME,START TIME,END TIME,DURATION,STATE,Frames,Runtime,Beats
 1,231,Heartbeat Tempo Mapped-102.L  ,00:01:31:13,00:01:31:21,00:00:00:08,Unmuted,2743,8,1
 1,232,Heartbeat Tempo Mapped-97.L   ,00:01:31:21,00:01:32:08,00:00:00:17,Unmuted,2751,17,0
 1,233,Heartbeat Tempo Mapped-84.L   ,00:01:32:09,00:01:32:16,00:00:00:07,Unmuted,2769,7,1
-1,235,Heartbeat Tempo Mapped-98.L   ,00:01:32:17,00:01:33:04,00:00:00:17,Unmuted,2777,17,1
-1,236,Heartbeat Tempo Mapped-99.L   ,00:01:33:04,00:01:33:12,00:00:00:07,Unmuted,2794,7,0
-1,237,Heartbeat Tempo Mapped-100.L  ,00:01:33:12,00:01:34:00,00:00:00:17,Unmuted,2802,17,1
-1,238,Heartbeat Tempo Mapped-101.L  ,00:01:34:00,00:01:34:08,00:00:00:07,Unmuted,2820,7,0
-1,239,Heartbeat Tempo Mapped-95.L   ,00:01:34:08,00:01:34:25,00:00:00:17,Unmuted,2828,17,1
-1,240,Heartbeat Tempo Mapped-102.L  ,00:01:34:26,00:01:35:04,00:00:00:08,Unmuted,2846,8,0
-1,241,Heartbeat Tempo Mapped-107.L  ,00:01:35:04,00:01:35:21,00:00:00:17,Unmuted,2854,17,1
-1,242,Heartbeat Tempo Mapped-84.L   ,00:01:35:21,00:01:35:29,00:00:00:07,Unmuted,2871,7,0
+1,235,Heartbeat Tempo Mapped-98.L   ,00:01:32:17,00:01:33:04,00:00:00:17,Unmuted,2777,17,0
+1,236,Heartbeat Tempo Mapped-99.L   ,00:01:33:04,00:01:33:12,00:00:00:07,Unmuted,2794,7,1
+1,237,Heartbeat Tempo Mapped-100.L  ,00:01:33:12,00:01:34:00,00:00:00:17,Unmuted,2802,17,0
+1,238,Heartbeat Tempo Mapped-101.L  ,00:01:34:00,00:01:34:08,00:00:00:07,Unmuted,2820,7,1
+1,239,Heartbeat Tempo Mapped-95.L   ,00:01:34:08,00:01:34:25,00:00:00:17,Unmuted,2828,17,0
+1,240,Heartbeat Tempo Mapped-102.L  ,00:01:34:26,00:01:35:04,00:00:00:08,Unmuted,2846,8,1
+1,241,Heartbeat Tempo Mapped-107.L  ,00:01:35:04,00:01:35:21,00:00:00:17,Unmuted,2854,17,0
+1,242,Heartbeat Tempo Mapped-84.L   ,00:01:35:21,00:01:35:29,00:00:00:07,Unmuted,2871,7,1
 1,244,Heartbeat Tempo Mapped-98.L   ,00:01:36:00,00:01:36:17,00:00:00:17,Unmuted,2880,17,0
 1,245,Heartbeat Tempo Mapped-99.L   ,00:01:36:17,00:01:36:25,00:00:00:07,Unmuted,2897,7,1
 1,246,Heartbeat Tempo Mapped-106.L  ,00:01:36:25,00:01:37:13,00:00:00:17,Unmuted,2905,17,0
@@ -223,14 +223,14 @@ CHANNEL,EVENT,CLIP NAME,START TIME,END TIME,DURATION,STATE,Frames,Runtime,Beats
 1,249,Heartbeat Tempo Mapped-102.L  ,00:01:38:08,00:01:38:17,00:00:00:08,Unmuted,2948,8,1
 1,250,Heartbeat Tempo Mapped-97.L   ,00:01:38:17,00:01:39:04,00:00:00:17,Unmuted,2957,17,0
 1,251,Heartbeat Tempo Mapped-84.L   ,00:01:39:04,00:01:39:12,00:00:00:07,Unmuted,2974,7,1
-1,253,Heartbeat Tempo Mapped-108.L  ,00:01:39:13,00:01:40:00,00:00:00:17,Unmuted,2983,17,1
-1,254,Heartbeat Tempo Mapped-103.L  ,00:01:40:00,00:01:40:07,00:00:00:07,Unmuted,3000,7,0
-1,255,Heartbeat Tempo Mapped-100.L  ,00:01:40:08,00:01:40:25,00:00:00:17,Unmuted,3008,17,1
-1,256,Heartbeat Tempo Mapped-101.L  ,00:01:40:26,00:01:41:03,00:00:00:07,Unmuted,3026,7,0
-1,257,Heartbeat Tempo Mapped-95.L   ,00:01:41:04,00:01:41:21,00:00:00:17,Unmuted,3034,17,1
-1,258,Heartbeat Tempo Mapped-96.L   ,00:01:41:21,00:01:41:29,00:00:00:08,Unmuted,3051,8,0
-1,259,Heartbeat Tempo Mapped-97.L   ,00:01:42:00,00:01:42:17,00:00:00:17,Unmuted,3060,17,1
-1,260,Heartbeat Tempo Mapped-84.L   ,00:01:42:17,00:01:42:25,00:00:00:07,Unmuted,3077,7,0
+1,253,Heartbeat Tempo Mapped-108.L  ,00:01:39:13,00:01:40:00,00:00:00:17,Unmuted,2983,17,0
+1,254,Heartbeat Tempo Mapped-103.L  ,00:01:40:00,00:01:40:07,00:00:00:07,Unmuted,3000,7,1
+1,255,Heartbeat Tempo Mapped-100.L  ,00:01:40:08,00:01:40:25,00:00:00:17,Unmuted,3008,17,0
+1,256,Heartbeat Tempo Mapped-101.L  ,00:01:40:26,00:01:41:03,00:00:00:07,Unmuted,3026,7,1
+1,257,Heartbeat Tempo Mapped-95.L   ,00:01:41:04,00:01:41:21,00:00:00:17,Unmuted,3034,17,0
+1,258,Heartbeat Tempo Mapped-96.L   ,00:01:41:21,00:01:41:29,00:00:00:08,Unmuted,3051,8,1
+1,259,Heartbeat Tempo Mapped-97.L   ,00:01:42:00,00:01:42:17,00:00:00:17,Unmuted,3060,17,0
+1,260,Heartbeat Tempo Mapped-84.L   ,00:01:42:17,00:01:42:25,00:00:00:07,Unmuted,3077,7,1
 1,262,Heartbeat Tempo Mapped-98.L   ,00:01:42:26,00:01:43:13,00:00:00:17,Unmuted,3086,17,0
 1,263,Heartbeat Tempo Mapped-99.L   ,00:01:43:13,00:01:43:20,00:00:00:07,Unmuted,3103,7,1
 1,264,Heartbeat Tempo Mapped-100.L  ,00:01:43:21,00:01:44:08,00:00:00:17,Unmuted,3111,17,0
@@ -239,14 +239,14 @@ CHANNEL,EVENT,CLIP NAME,START TIME,END TIME,DURATION,STATE,Frames,Runtime,Beats
 1,267,Heartbeat Tempo Mapped-102.L  ,00:01:45:04,00:01:45:12,00:00:00:08,Unmuted,3154,8,1
 1,268,Heartbeat Tempo Mapped-97.L   ,00:01:45:13,00:01:46:00,00:00:00:17,Unmuted,3163,17,0
 1,269,Heartbeat Tempo Mapped-84.L   ,00:01:46:00,00:01:46:08,00:00:00:07,Unmuted,3180,7,1
-1,271,Heartbeat Tempo Mapped-98.L   ,00:01:46:08,00:01:46:25,00:00:00:17,Unmuted,3188,17,1
-1,272,Heartbeat Tempo Mapped-103.L  ,00:01:46:26,00:01:47:03,00:00:00:07,Unmuted,3206,7,0
-1,273,Heartbeat Tempo Mapped-100.L  ,00:01:47:03,00:01:47:21,00:00:00:17,Unmuted,3213,17,1
-1,274,Heartbeat Tempo Mapped-104.L  ,00:01:47:21,00:01:47:29,00:00:00:07,Unmuted,3231,7,0
-1,275,Heartbeat Tempo Mapped-105.L  ,00:01:47:29,00:01:48:17,00:00:00:17,Unmuted,3239,17,1
-1,276,Heartbeat Tempo Mapped-96.L   ,00:01:48:17,00:01:48:25,00:00:00:08,Unmuted,3257,8,0
-1,277,Heartbeat Tempo Mapped-97.L   ,00:01:48:25,00:01:49:13,00:00:00:17,Unmuted,3265,17,1
-1,278,Heartbeat Tempo Mapped-84.L   ,00:01:49:13,00:01:49:21,00:00:00:07,Unmuted,3283,7,0
+1,271,Heartbeat Tempo Mapped-98.L   ,00:01:46:08,00:01:46:25,00:00:00:17,Unmuted,3188,17,0
+1,272,Heartbeat Tempo Mapped-103.L  ,00:01:46:26,00:01:47:03,00:00:00:07,Unmuted,3206,7,1
+1,273,Heartbeat Tempo Mapped-100.L  ,00:01:47:03,00:01:47:21,00:00:00:17,Unmuted,3213,17,0
+1,274,Heartbeat Tempo Mapped-104.L  ,00:01:47:21,00:01:47:29,00:00:00:07,Unmuted,3231,7,1
+1,275,Heartbeat Tempo Mapped-105.L  ,00:01:47:29,00:01:48:17,00:00:00:17,Unmuted,3239,17,0
+1,276,Heartbeat Tempo Mapped-96.L   ,00:01:48:17,00:01:48:25,00:00:00:08,Unmuted,3257,8,1
+1,277,Heartbeat Tempo Mapped-97.L   ,00:01:48:25,00:01:49:13,00:00:00:17,Unmuted,3265,17,0
+1,278,Heartbeat Tempo Mapped-84.L   ,00:01:49:13,00:01:49:21,00:00:00:07,Unmuted,3283,7,1
 1,280,Heartbeat Tempo Mapped-98.L   ,00:01:49:21,00:01:50:08,00:00:00:17,Unmuted,3291,17,0
 1,281,Heartbeat Tempo Mapped-99.L   ,00:01:50:09,00:01:50:16,00:00:00:07,Unmuted,3309,7,1
 1,282,Heartbeat Tempo Mapped-100.L  ,00:01:50:16,00:01:51:04,00:00:00:17,Unmuted,3316,17,0
@@ -255,14 +255,14 @@ CHANNEL,EVENT,CLIP NAME,START TIME,END TIME,DURATION,STATE,Frames,Runtime,Beats
 1,285,Heartbeat Tempo Mapped-102.L  ,00:01:52:00,00:01:52:08,00:00:00:08,Unmuted,3360,8,1
 1,286,Heartbeat Tempo Mapped-97.L   ,00:01:52:08,00:01:52:25,00:00:00:17,Unmuted,3368,17,0
 1,287,Heartbeat Tempo Mapped-84.L   ,00:01:52:26,00:01:53:03,00:00:00:07,Unmuted,3386,7,1
-1,289,Heartbeat Tempo Mapped-98.L   ,00:01:53:04,00:01:53:21,00:00:00:17,Unmuted,3394,17,1
-1,290,Heartbeat Tempo Mapped-99.L   ,00:01:53:21,00:01:53:29,00:00:00:07,Unmuted,3411,7,0
-1,291,Heartbeat Tempo Mapped-106.L  ,00:01:53:29,00:01:54:17,00:00:00:17,Unmuted,3419,17,1
-1,292,Heartbeat Tempo Mapped-104.L  ,00:01:54:17,00:01:54:25,00:00:00:07,Unmuted,3437,7,0
-1,293,Heartbeat Tempo Mapped-95.L   ,00:01:54:25,00:01:55:12,00:00:00:17,Unmuted,3445,17,1
-1,294,Heartbeat Tempo Mapped-102.L  ,00:01:55:13,00:01:55:21,00:00:00:08,Unmuted,3463,8,0
-1,295,Heartbeat Tempo Mapped-97.L   ,00:01:55:21,00:01:56:08,00:00:00:17,Unmuted,3471,17,1
-1,296,Heartbeat Tempo Mapped-84.L   ,00:01:56:09,00:01:56:16,00:00:00:07,Unmuted,3489,7,0
+1,289,Heartbeat Tempo Mapped-98.L   ,00:01:53:04,00:01:53:21,00:00:00:17,Unmuted,3394,17,0
+1,290,Heartbeat Tempo Mapped-99.L   ,00:01:53:21,00:01:53:29,00:00:00:07,Unmuted,3411,7,1
+1,291,Heartbeat Tempo Mapped-106.L  ,00:01:53:29,00:01:54:17,00:00:00:17,Unmuted,3419,17,0
+1,292,Heartbeat Tempo Mapped-104.L  ,00:01:54:17,00:01:54:25,00:00:00:07,Unmuted,3437,7,1
+1,293,Heartbeat Tempo Mapped-95.L   ,00:01:54:25,00:01:55:12,00:00:00:17,Unmuted,3445,17,0
+1,294,Heartbeat Tempo Mapped-102.L  ,00:01:55:13,00:01:55:21,00:00:00:08,Unmuted,3463,8,1
+1,295,Heartbeat Tempo Mapped-97.L   ,00:01:55:21,00:01:56:08,00:00:00:17,Unmuted,3471,17,0
+1,296,Heartbeat Tempo Mapped-84.L   ,00:01:56:09,00:01:56:16,00:00:00:07,Unmuted,3489,7,1
 1,298,Heartbeat Tempo Mapped-98.L   ,00:01:56:17,00:01:57:04,00:00:00:17,Unmuted,3497,17,0
 1,299,Heartbeat Tempo Mapped-99.L   ,00:01:57:04,00:01:57:12,00:00:00:07,Unmuted,3514,7,1
 1,300,Heartbeat Tempo Mapped-100.L  ,00:01:57:12,00:01:58:00,00:00:00:17,Unmuted,3522,17,0
@@ -271,14 +271,14 @@ CHANNEL,EVENT,CLIP NAME,START TIME,END TIME,DURATION,STATE,Frames,Runtime,Beats
 1,303,Heartbeat Tempo Mapped-102.L  ,00:01:58:26,00:01:59:04,00:00:00:08,Unmuted,3566,8,1
 1,304,Heartbeat Tempo Mapped-107.L  ,00:01:59:04,00:01:59:21,00:00:00:17,Unmuted,3574,17,0
 1,305,Heartbeat Tempo Mapped-84.L   ,00:01:59:21,00:01:59:29,00:00:00:07,Unmuted,3591,7,1
-1,307,Heartbeat Tempo Mapped-98.L   ,00:02:00:00,00:02:00:17,00:00:00:17,Unmuted,3600,17,1
-1,308,Heartbeat Tempo Mapped-99.L   ,00:02:00:17,00:02:00:25,00:00:00:07,Unmuted,3617,7,0
-1,309,Heartbeat Tempo Mapped-106.L  ,00:02:00:25,00:02:01:13,00:00:00:17,Unmuted,3625,17,1
-1,310,Heartbeat Tempo Mapped-104.L  ,00:02:01:13,00:02:01:20,00:00:00:07,Unmuted,3643,7,0
-1,311,Heartbeat Tempo Mapped-95.L   ,00:02:01:21,00:02:02:08,00:00:00:17,Unmuted,3651,17,1
-1,312,Heartbeat Tempo Mapped-102.L  ,00:02:02:08,00:02:02:17,00:00:00:08,Unmuted,3668,8,0
-1,313,Heartbeat Tempo Mapped-97.L   ,00:02:02:17,00:02:03:04,00:00:00:17,Unmuted,3677,17,1
-1,314,Heartbeat Tempo Mapped-84.L   ,00:02:03:04,00:02:03:12,00:00:00:07,Unmuted,3694,7,0
+1,307,Heartbeat Tempo Mapped-98.L   ,00:02:00:00,00:02:00:17,00:00:00:17,Unmuted,3600,17,0
+1,308,Heartbeat Tempo Mapped-99.L   ,00:02:00:17,00:02:00:25,00:00:00:07,Unmuted,3617,7,1
+1,309,Heartbeat Tempo Mapped-106.L  ,00:02:00:25,00:02:01:13,00:00:00:17,Unmuted,3625,17,0
+1,310,Heartbeat Tempo Mapped-104.L  ,00:02:01:13,00:02:01:20,00:00:00:07,Unmuted,3643,7,1
+1,311,Heartbeat Tempo Mapped-95.L   ,00:02:01:21,00:02:02:08,00:00:00:17,Unmuted,3651,17,0
+1,312,Heartbeat Tempo Mapped-102.L  ,00:02:02:08,00:02:02:17,00:00:00:08,Unmuted,3668,8,1
+1,313,Heartbeat Tempo Mapped-97.L   ,00:02:02:17,00:02:03:04,00:00:00:17,Unmuted,3677,17,0
+1,314,Heartbeat Tempo Mapped-84.L   ,00:02:03:04,00:02:03:12,00:00:00:07,Unmuted,3694,7,1
 1,316,Heartbeat Tempo Mapped-108.L  ,00:02:03:13,00:02:04:00,00:00:00:17,Unmuted,3703,17,0
 1,317,Heartbeat Tempo Mapped-103.L  ,00:02:04:00,00:02:04:07,00:00:00:07,Unmuted,3720,7,1
 1,318,Heartbeat Tempo Mapped-100.L  ,00:02:04:08,00:02:04:25,00:00:00:17,Unmuted,3728,17,0
@@ -287,14 +287,14 @@ CHANNEL,EVENT,CLIP NAME,START TIME,END TIME,DURATION,STATE,Frames,Runtime,Beats
 1,321,Heartbeat Tempo Mapped-96.L   ,00:02:05:21,00:02:05:29,00:00:00:08,Unmuted,3771,8,1
 1,322,Heartbeat Tempo Mapped-97.L   ,00:02:06:00,00:02:06:17,00:00:00:17,Unmuted,3780,17,0
 1,323,Heartbeat Tempo Mapped-84.L   ,00:02:06:17,00:02:06:25,00:00:00:07,Unmuted,3797,7,1
-1,325,Heartbeat Tempo Mapped-98.L   ,00:02:06:26,00:02:07:13,00:00:00:17,Unmuted,3806,17,1
-1,326,Heartbeat Tempo Mapped-99.L   ,00:02:07:13,00:02:07:20,00:00:00:07,Unmuted,3823,7,0
-1,327,Heartbeat Tempo Mapped-100.L  ,00:02:07:21,00:02:08:08,00:00:00:17,Unmuted,3831,17,1
-1,328,Heartbeat Tempo Mapped-101.L  ,00:02:08:09,00:02:08:16,00:00:00:07,Unmuted,3849,7,0
-1,329,Heartbeat Tempo Mapped-95.L   ,00:02:08:16,00:02:09:04,00:00:00:17,Unmuted,3856,17,1
-1,330,Heartbeat Tempo Mapped-102.L  ,00:02:09:04,00:02:09:12,00:00:00:08,Unmuted,3874,8,0
-1,331,Heartbeat Tempo Mapped-97.L   ,00:02:09:13,00:02:10:00,00:00:00:17,Unmuted,3883,17,1
-1,332,Heartbeat Tempo Mapped-84.L   ,00:02:10:00,00:02:10:08,00:00:00:07,Unmuted,3900,7,0
+1,325,Heartbeat Tempo Mapped-98.L   ,00:02:06:26,00:02:07:13,00:00:00:17,Unmuted,3806,17,0
+1,326,Heartbeat Tempo Mapped-99.L   ,00:02:07:13,00:02:07:20,00:00:00:07,Unmuted,3823,7,1
+1,327,Heartbeat Tempo Mapped-100.L  ,00:02:07:21,00:02:08:08,00:00:00:17,Unmuted,3831,17,0
+1,328,Heartbeat Tempo Mapped-101.L  ,00:02:08:09,00:02:08:16,00:00:00:07,Unmuted,3849,7,1
+1,329,Heartbeat Tempo Mapped-95.L   ,00:02:08:16,00:02:09:04,00:00:00:17,Unmuted,3856,17,0
+1,330,Heartbeat Tempo Mapped-102.L  ,00:02:09:04,00:02:09:12,00:00:00:08,Unmuted,3874,8,1
+1,331,Heartbeat Tempo Mapped-97.L   ,00:02:09:13,00:02:10:00,00:00:00:17,Unmuted,3883,17,0
+1,332,Heartbeat Tempo Mapped-84.L   ,00:02:10:00,00:02:10:08,00:00:00:07,Unmuted,3900,7,1
 1,334,Heartbeat Tempo Mapped-98.L   ,00:02:10:08,00:02:10:25,00:00:00:17,Unmuted,3908,17,0
 1,335,Heartbeat Tempo Mapped-103.L  ,00:02:10:26,00:02:11:03,00:00:00:07,Unmuted,3926,7,1
 1,336,Heartbeat Tempo Mapped-100.L  ,00:02:11:03,00:02:11:21,00:00:00:17,Unmuted,3933,17,0
@@ -303,14 +303,14 @@ CHANNEL,EVENT,CLIP NAME,START TIME,END TIME,DURATION,STATE,Frames,Runtime,Beats
 1,339,Heartbeat Tempo Mapped-96.L   ,00:02:12:17,00:02:12:25,00:00:00:08,Unmuted,3977,8,1
 1,340,Heartbeat Tempo Mapped-97.L   ,00:02:12:25,00:02:13:13,00:00:00:17,Unmuted,3985,17,0
 1,341,Heartbeat Tempo Mapped-84.L   ,00:02:13:13,00:02:13:21,00:00:00:07,Unmuted,4003,7,1
-1,343,Heartbeat Tempo Mapped-98.L   ,00:02:13:21,00:02:14:08,00:00:00:17,Unmuted,4011,17,1
-1,344,Heartbeat Tempo Mapped-99.L   ,00:02:14:09,00:02:14:16,00:00:00:07,Unmuted,4029,7,0
-1,345,Heartbeat Tempo Mapped-100.L  ,00:02:14:16,00:02:15:04,00:00:00:17,Unmuted,4036,17,1
-1,346,Heartbeat Tempo Mapped-101.L  ,00:02:15:04,00:02:15:12,00:00:00:07,Unmuted,4054,7,0
-1,347,Heartbeat Tempo Mapped-95.L   ,00:02:15:12,00:02:16:00,00:00:00:17,Unmuted,4062,17,1
-1,348,Heartbeat Tempo Mapped-102.L  ,00:02:16:00,00:02:16:08,00:00:00:08,Unmuted,4080,8,0
-1,349,Heartbeat Tempo Mapped-97.L   ,00:02:16:08,00:02:16:25,00:00:00:17,Unmuted,4088,17,1
-1,350,Heartbeat Tempo Mapped-84.L   ,00:02:16:26,00:02:17:03,00:00:00:07,Unmuted,4106,7,0
+1,343,Heartbeat Tempo Mapped-98.L   ,00:02:13:21,00:02:14:08,00:00:00:17,Unmuted,4011,17,0
+1,344,Heartbeat Tempo Mapped-99.L   ,00:02:14:09,00:02:14:16,00:00:00:07,Unmuted,4029,7,1
+1,345,Heartbeat Tempo Mapped-100.L  ,00:02:14:16,00:02:15:04,00:00:00:17,Unmuted,4036,17,0
+1,346,Heartbeat Tempo Mapped-101.L  ,00:02:15:04,00:02:15:12,00:00:00:07,Unmuted,4054,7,1
+1,347,Heartbeat Tempo Mapped-95.L   ,00:02:15:12,00:02:16:00,00:00:00:17,Unmuted,4062,17,0
+1,348,Heartbeat Tempo Mapped-102.L  ,00:02:16:00,00:02:16:08,00:00:00:08,Unmuted,4080,8,1
+1,349,Heartbeat Tempo Mapped-97.L   ,00:02:16:08,00:02:16:25,00:00:00:17,Unmuted,4088,17,0
+1,350,Heartbeat Tempo Mapped-84.L   ,00:02:16:26,00:02:17:03,00:00:00:07,Unmuted,4106,7,1
 1,352,Heartbeat Tempo Mapped-98.L   ,00:02:17:04,00:02:17:21,00:00:00:17,Unmuted,4114,17,0
 1,353,Heartbeat Tempo Mapped-99.L   ,00:02:17:21,00:02:17:29,00:00:00:07,Unmuted,4131,7,1
 1,354,Heartbeat Tempo Mapped-106.L  ,00:02:17:29,00:02:18:17,00:00:00:17,Unmuted,4139,17,0
@@ -319,14 +319,14 @@ CHANNEL,EVENT,CLIP NAME,START TIME,END TIME,DURATION,STATE,Frames,Runtime,Beats
 1,357,Heartbeat Tempo Mapped-102.L  ,00:02:19:13,00:02:19:21,00:00:00:08,Unmuted,4183,8,1
 1,358,Heartbeat Tempo Mapped-97.L   ,00:02:19:21,00:02:20:08,00:00:00:17,Unmuted,4191,17,0
 1,359,Heartbeat Tempo Mapped-84.L   ,00:02:20:09,00:02:20:16,00:00:00:07,Unmuted,4209,7,1
-1,361,Heartbeat Tempo Mapped-98.L   ,00:02:20:17,00:02:21:04,00:00:00:17,Unmuted,4217,17,1
-1,362,Heartbeat Tempo Mapped-99.L   ,00:02:21:04,00:02:21:12,00:00:00:07,Unmuted,4234,7,0
-1,363,Heartbeat Tempo Mapped-100.L  ,00:02:21:12,00:02:22:00,00:00:00:17,Unmuted,4242,17,1
-1,364,Heartbeat Tempo Mapped-101.L  ,00:02:22:00,00:02:22:08,00:00:00:07,Unmuted,4260,7,0
-1,365,Heartbeat Tempo Mapped-95.L   ,00:02:22:08,00:02:22:25,00:00:00:17,Unmuted,4268,17,1
-1,366,Heartbeat Tempo Mapped-102.L  ,00:02:22:26,00:02:23:04,00:00:00:08,Unmuted,4286,8,0
-1,367,Heartbeat Tempo Mapped-107.L  ,00:02:23:04,00:02:23:21,00:00:00:17,Unmuted,4294,17,1
-1,368,Heartbeat Tempo Mapped-84.L   ,00:02:23:21,00:02:23:29,00:00:00:07,Unmuted,4311,7,0
+1,361,Heartbeat Tempo Mapped-98.L   ,00:02:20:17,00:02:21:04,00:00:00:17,Unmuted,4217,17,0
+1,362,Heartbeat Tempo Mapped-99.L   ,00:02:21:04,00:02:21:12,00:00:00:07,Unmuted,4234,7,1
+1,363,Heartbeat Tempo Mapped-100.L  ,00:02:21:12,00:02:22:00,00:00:00:17,Unmuted,4242,17,0
+1,364,Heartbeat Tempo Mapped-101.L  ,00:02:22:00,00:02:22:08,00:00:00:07,Unmuted,4260,7,1
+1,365,Heartbeat Tempo Mapped-95.L   ,00:02:22:08,00:02:22:25,00:00:00:17,Unmuted,4268,17,0
+1,366,Heartbeat Tempo Mapped-102.L  ,00:02:22:26,00:02:23:04,00:00:00:08,Unmuted,4286,8,1
+1,367,Heartbeat Tempo Mapped-107.L  ,00:02:23:04,00:02:23:21,00:00:00:17,Unmuted,4294,17,0
+1,368,Heartbeat Tempo Mapped-84.L   ,00:02:23:21,00:02:23:29,00:00:00:07,Unmuted,4311,7,1
 1,370,Heartbeat Tempo Mapped-98.L   ,00:02:24:00,00:02:24:17,00:00:00:17,Unmuted,4320,17,0
 1,371,Heartbeat Tempo Mapped-99.L   ,00:02:24:17,00:02:24:25,00:00:00:07,Unmuted,4337,7,1
 1,372,Heartbeat Tempo Mapped-106.L  ,00:02:24:25,00:02:25:13,00:00:00:17,Unmuted,4345,17,0
@@ -335,14 +335,14 @@ CHANNEL,EVENT,CLIP NAME,START TIME,END TIME,DURATION,STATE,Frames,Runtime,Beats
 1,375,Heartbeat Tempo Mapped-102.L  ,00:02:26:08,00:02:26:17,00:00:00:08,Unmuted,4388,8,1
 1,376,Heartbeat Tempo Mapped-97.L   ,00:02:26:17,00:02:27:04,00:00:00:17,Unmuted,4397,17,0
 1,377,Heartbeat Tempo Mapped-84.L   ,00:02:27:04,00:02:27:12,00:00:00:07,Unmuted,4414,7,1
-1,379,Heartbeat Tempo Mapped-108.L  ,00:02:27:13,00:02:28:00,00:00:00:17,Unmuted,4423,17,1
-1,380,Heartbeat Tempo Mapped-103.L  ,00:02:28:00,00:02:28:07,00:00:00:07,Unmuted,4440,7,0
-1,381,Heartbeat Tempo Mapped-100.L  ,00:02:28:08,00:02:28:25,00:00:00:17,Unmuted,4448,17,1
-1,382,Heartbeat Tempo Mapped-101.L  ,00:02:28:26,00:02:29:03,00:00:00:07,Unmuted,4466,7,0
-1,383,Heartbeat Tempo Mapped-95.L   ,00:02:29:04,00:02:29:21,00:00:00:17,Unmuted,4474,17,1
-1,384,Heartbeat Tempo Mapped-96.L   ,00:02:29:21,00:02:29:29,00:00:00:08,Unmuted,4491,8,0
-1,385,Heartbeat Tempo Mapped-97.L   ,00:02:30:00,00:02:30:17,00:00:00:17,Unmuted,4500,17,1
-1,386,Heartbeat Tempo Mapped-84.L   ,00:02:30:17,00:02:30:25,00:00:00:07,Unmuted,4517,7,0
+1,379,Heartbeat Tempo Mapped-108.L  ,00:02:27:13,00:02:28:00,00:00:00:17,Unmuted,4423,17,0
+1,380,Heartbeat Tempo Mapped-103.L  ,00:02:28:00,00:02:28:07,00:00:00:07,Unmuted,4440,7,1
+1,381,Heartbeat Tempo Mapped-100.L  ,00:02:28:08,00:02:28:25,00:00:00:17,Unmuted,4448,17,0
+1,382,Heartbeat Tempo Mapped-101.L  ,00:02:28:26,00:02:29:03,00:00:00:07,Unmuted,4466,7,1
+1,383,Heartbeat Tempo Mapped-95.L   ,00:02:29:04,00:02:29:21,00:00:00:17,Unmuted,4474,17,0
+1,384,Heartbeat Tempo Mapped-96.L   ,00:02:29:21,00:02:29:29,00:00:00:08,Unmuted,4491,8,1
+1,385,Heartbeat Tempo Mapped-97.L   ,00:02:30:00,00:02:30:17,00:00:00:17,Unmuted,4500,17,0
+1,386,Heartbeat Tempo Mapped-84.L   ,00:02:30:17,00:02:30:25,00:00:00:07,Unmuted,4517,7,1
 1,388,Heartbeat Tempo Mapped-98.L   ,00:02:30:26,00:02:31:13,00:00:00:17,Unmuted,4526,17,0
 1,389,Heartbeat Tempo Mapped-99.L   ,00:02:31:13,00:02:31:20,00:00:00:07,Unmuted,4543,7,1
 1,390,Heartbeat Tempo Mapped-100.L  ,00:02:31:21,00:02:32:08,00:00:00:17,Unmuted,4551,17,0
@@ -351,14 +351,14 @@ CHANNEL,EVENT,CLIP NAME,START TIME,END TIME,DURATION,STATE,Frames,Runtime,Beats
 1,393,Heartbeat Tempo Mapped-102.L  ,00:02:33:04,00:02:33:12,00:00:00:08,Unmuted,4594,8,1
 1,394,Heartbeat Tempo Mapped-97.L   ,00:02:33:13,00:02:34:00,00:00:00:17,Unmuted,4603,17,0
 1,395,Heartbeat Tempo Mapped-84.L   ,00:02:34:00,00:02:34:08,00:00:00:07,Unmuted,4620,7,1
-1,397,Heartbeat Tempo Mapped-98.L   ,00:02:34:08,00:02:34:25,00:00:00:17,Unmuted,4628,17,1
-1,398,Heartbeat Tempo Mapped-103.L  ,00:02:34:26,00:02:35:03,00:00:00:07,Unmuted,4646,7,0
-1,399,Heartbeat Tempo Mapped-100.L  ,00:02:35:03,00:02:35:21,00:00:00:17,Unmuted,4653,17,1
-1,400,Heartbeat Tempo Mapped-104.L  ,00:02:35:21,00:02:35:29,00:00:00:07,Unmuted,4671,7,0
-1,401,Heartbeat Tempo Mapped-105.L  ,00:02:35:29,00:02:36:17,00:00:00:17,Unmuted,4679,17,1
-1,402,Heartbeat Tempo Mapped-96.L   ,00:02:36:17,00:02:36:25,00:00:00:08,Unmuted,4697,8,0
-1,403,Heartbeat Tempo Mapped-97.L   ,00:02:36:25,00:02:37:13,00:00:00:17,Unmuted,4705,17,1
-1,404,Heartbeat Tempo Mapped-84.L   ,00:02:37:13,00:02:37:21,00:00:00:07,Unmuted,4723,7,0
+1,397,Heartbeat Tempo Mapped-98.L   ,00:02:34:08,00:02:34:25,00:00:00:17,Unmuted,4628,17,0
+1,398,Heartbeat Tempo Mapped-103.L  ,00:02:34:26,00:02:35:03,00:00:00:07,Unmuted,4646,7,1
+1,399,Heartbeat Tempo Mapped-100.L  ,00:02:35:03,00:02:35:21,00:00:00:17,Unmuted,4653,17,0
+1,400,Heartbeat Tempo Mapped-104.L  ,00:02:35:21,00:02:35:29,00:00:00:07,Unmuted,4671,7,1
+1,401,Heartbeat Tempo Mapped-105.L  ,00:02:35:29,00:02:36:17,00:00:00:17,Unmuted,4679,17,0
+1,402,Heartbeat Tempo Mapped-96.L   ,00:02:36:17,00:02:36:25,00:00:00:08,Unmuted,4697,8,1
+1,403,Heartbeat Tempo Mapped-97.L   ,00:02:36:25,00:02:37:13,00:00:00:17,Unmuted,4705,17,0
+1,404,Heartbeat Tempo Mapped-84.L   ,00:02:37:13,00:02:37:21,00:00:00:07,Unmuted,4723,7,1
 1,406,Heartbeat Tempo Mapped-98.L   ,00:02:37:21,00:02:38:08,00:00:00:17,Unmuted,4731,17,0
 1,407,Heartbeat Tempo Mapped-99.L   ,00:02:38:09,00:02:38:16,00:00:00:07,Unmuted,4749,7,1
 1,408,Heartbeat Tempo Mapped-100.L  ,00:02:38:16,00:02:39:04,00:00:00:17,Unmuted,4756,17,0
@@ -367,14 +367,14 @@ CHANNEL,EVENT,CLIP NAME,START TIME,END TIME,DURATION,STATE,Frames,Runtime,Beats
 1,411,Heartbeat Tempo Mapped-102.L  ,00:02:40:00,00:02:40:08,00:00:00:08,Unmuted,4800,8,1
 1,412,Heartbeat Tempo Mapped-97.L   ,00:02:40:08,00:02:40:25,00:00:00:17,Unmuted,4808,17,0
 1,413,Heartbeat Tempo Mapped-84.L   ,00:02:40:26,00:02:41:03,00:00:00:07,Unmuted,4826,7,1
-1,415,Heartbeat Tempo Mapped-98.L   ,00:02:41:04,00:02:41:21,00:00:00:17,Unmuted,4834,17,1
-1,416,Heartbeat Tempo Mapped-99.L   ,00:02:41:21,00:02:41:29,00:00:00:07,Unmuted,4851,7,0
-1,417,Heartbeat Tempo Mapped-106.L  ,00:02:41:29,00:02:42:17,00:00:00:17,Unmuted,4859,17,1
-1,418,Heartbeat Tempo Mapped-104.L  ,00:02:42:17,00:02:42:25,00:00:00:07,Unmuted,4877,7,0
-1,419,Heartbeat Tempo Mapped-95.L   ,00:02:42:25,00:02:43:12,00:00:00:17,Unmuted,4885,17,1
-1,420,Heartbeat Tempo Mapped-102.L  ,00:02:43:13,00:02:43:21,00:00:00:08,Unmuted,4903,8,0
-1,421,Heartbeat Tempo Mapped-97.L   ,00:02:43:21,00:02:44:08,00:00:00:17,Unmuted,4911,17,1
-1,422,Heartbeat Tempo Mapped-84.L   ,00:02:44:09,00:02:44:16,00:00:00:07,Unmuted,4929,7,0
+1,415,Heartbeat Tempo Mapped-98.L   ,00:02:41:04,00:02:41:21,00:00:00:17,Unmuted,4834,17,0
+1,416,Heartbeat Tempo Mapped-99.L   ,00:02:41:21,00:02:41:29,00:00:00:07,Unmuted,4851,7,1
+1,417,Heartbeat Tempo Mapped-106.L  ,00:02:41:29,00:02:42:17,00:00:00:17,Unmuted,4859,17,0
+1,418,Heartbeat Tempo Mapped-104.L  ,00:02:42:17,00:02:42:25,00:00:00:07,Unmuted,4877,7,1
+1,419,Heartbeat Tempo Mapped-95.L   ,00:02:42:25,00:02:43:12,00:00:00:17,Unmuted,4885,17,0
+1,420,Heartbeat Tempo Mapped-102.L  ,00:02:43:13,00:02:43:21,00:00:00:08,Unmuted,4903,8,1
+1,421,Heartbeat Tempo Mapped-97.L   ,00:02:43:21,00:02:44:08,00:00:00:17,Unmuted,4911,17,0
+1,422,Heartbeat Tempo Mapped-84.L   ,00:02:44:09,00:02:44:16,00:00:00:07,Unmuted,4929,7,1
 1,424,Heartbeat Tempo Mapped-98.L   ,00:02:44:17,00:02:45:04,00:00:00:17,Unmuted,4937,17,0
 1,425,Heartbeat Tempo Mapped-99.L   ,00:02:45:04,00:02:45:12,00:00:00:07,Unmuted,4954,7,1
 1,426,Heartbeat Tempo Mapped-100.L  ,00:02:45:12,00:02:46:00,00:00:00:17,Unmuted,4962,17,0
@@ -383,14 +383,14 @@ CHANNEL,EVENT,CLIP NAME,START TIME,END TIME,DURATION,STATE,Frames,Runtime,Beats
 1,429,Heartbeat Tempo Mapped-102.L  ,00:02:46:26,00:02:47:04,00:00:00:08,Unmuted,5006,8,1
 1,430,Heartbeat Tempo Mapped-107.L  ,00:02:47:04,00:02:47:21,00:00:00:17,Unmuted,5014,17,0
 1,431,Heartbeat Tempo Mapped-84.L   ,00:02:47:21,00:02:47:29,00:00:00:07,Unmuted,5031,7,1
-1,433,Heartbeat Tempo Mapped-98.L   ,00:02:48:00,00:02:48:17,00:00:00:17,Unmuted,5040,17,1
-1,434,Heartbeat Tempo Mapped-99.L   ,00:02:48:17,00:02:48:25,00:00:00:07,Unmuted,5057,7,0
-1,435,Heartbeat Tempo Mapped-106.L  ,00:02:48:25,00:02:49:13,00:00:00:17,Unmuted,5065,17,1
-1,436,Heartbeat Tempo Mapped-104.L  ,00:02:49:13,00:02:49:20,00:00:00:07,Unmuted,5083,7,0
-1,437,Heartbeat Tempo Mapped-95.L   ,00:02:49:21,00:02:50:08,00:00:00:17,Unmuted,5091,17,1
-1,438,Heartbeat Tempo Mapped-102.L  ,00:02:50:08,00:02:50:17,00:00:00:08,Unmuted,5108,8,0
-1,439,Heartbeat Tempo Mapped-97.L   ,00:02:50:17,00:02:51:04,00:00:00:17,Unmuted,5117,17,1
-1,440,Heartbeat Tempo Mapped-84.L   ,00:02:51:04,00:02:51:12,00:00:00:07,Unmuted,5134,7,0
+1,433,Heartbeat Tempo Mapped-98.L   ,00:02:48:00,00:02:48:17,00:00:00:17,Unmuted,5040,17,0
+1,434,Heartbeat Tempo Mapped-99.L   ,00:02:48:17,00:02:48:25,00:00:00:07,Unmuted,5057,7,1
+1,435,Heartbeat Tempo Mapped-106.L  ,00:02:48:25,00:02:49:13,00:00:00:17,Unmuted,5065,17,0
+1,436,Heartbeat Tempo Mapped-104.L  ,00:02:49:13,00:02:49:20,00:00:00:07,Unmuted,5083,7,1
+1,437,Heartbeat Tempo Mapped-95.L   ,00:02:49:21,00:02:50:08,00:00:00:17,Unmuted,5091,17,0
+1,438,Heartbeat Tempo Mapped-102.L  ,00:02:50:08,00:02:50:17,00:00:00:08,Unmuted,5108,8,1
+1,439,Heartbeat Tempo Mapped-97.L   ,00:02:50:17,00:02:51:04,00:00:00:17,Unmuted,5117,17,0
+1,440,Heartbeat Tempo Mapped-84.L   ,00:02:51:04,00:02:51:12,00:00:00:07,Unmuted,5134,7,1
 1,442,Heartbeat Tempo Mapped-108.L  ,00:02:51:13,00:02:52:00,00:00:00:17,Unmuted,5143,17,0
 1,443,Heartbeat Tempo Mapped-103.L  ,00:02:52:00,00:02:52:07,00:00:00:07,Unmuted,5160,7,1
 1,444,Heartbeat Tempo Mapped-100.L  ,00:02:52:08,00:02:52:25,00:00:00:17,Unmuted,5168,17,0
@@ -399,14 +399,14 @@ CHANNEL,EVENT,CLIP NAME,START TIME,END TIME,DURATION,STATE,Frames,Runtime,Beats
 1,447,Heartbeat Tempo Mapped-96.L   ,00:02:53:21,00:02:53:29,00:00:00:08,Unmuted,5211,8,1
 1,448,Heartbeat Tempo Mapped-97.L   ,00:02:54:00,00:02:54:17,00:00:00:17,Unmuted,5220,17,0
 1,449,Heartbeat Tempo Mapped-84.L   ,00:02:54:17,00:02:54:25,00:00:00:07,Unmuted,5237,7,1
-1,451,Heartbeat Tempo Mapped-98.L   ,00:02:54:26,00:02:55:13,00:00:00:17,Unmuted,5246,17,1
-1,452,Heartbeat Tempo Mapped-99.L   ,00:02:55:13,00:02:55:20,00:00:00:07,Unmuted,5263,7,0
-1,453,Heartbeat Tempo Mapped-100.L  ,00:02:55:21,00:02:56:08,00:00:00:17,Unmuted,5271,17,1
-1,454,Heartbeat Tempo Mapped-101.L  ,00:02:56:09,00:02:56:16,00:00:00:07,Unmuted,5289,7,0
-1,455,Heartbeat Tempo Mapped-95.L   ,00:02:56:16,00:02:57:04,00:00:00:17,Unmuted,5296,17,1
-1,456,Heartbeat Tempo Mapped-102.L  ,00:02:57:04,00:02:57:12,00:00:00:08,Unmuted,5314,8,0
-1,457,Heartbeat Tempo Mapped-97.L   ,00:02:57:13,00:02:58:00,00:00:00:17,Unmuted,5323,17,1
-1,458,Heartbeat Tempo Mapped-84.L   ,00:02:58:00,00:02:58:08,00:00:00:07,Unmuted,5340,7,0
+1,451,Heartbeat Tempo Mapped-98.L   ,00:02:54:26,00:02:55:13,00:00:00:17,Unmuted,5246,17,0
+1,452,Heartbeat Tempo Mapped-99.L   ,00:02:55:13,00:02:55:20,00:00:00:07,Unmuted,5263,7,1
+1,453,Heartbeat Tempo Mapped-100.L  ,00:02:55:21,00:02:56:08,00:00:00:17,Unmuted,5271,17,0
+1,454,Heartbeat Tempo Mapped-101.L  ,00:02:56:09,00:02:56:16,00:00:00:07,Unmuted,5289,7,1
+1,455,Heartbeat Tempo Mapped-95.L   ,00:02:56:16,00:02:57:04,00:00:00:17,Unmuted,5296,17,0
+1,456,Heartbeat Tempo Mapped-102.L  ,00:02:57:04,00:02:57:12,00:00:00:08,Unmuted,5314,8,1
+1,457,Heartbeat Tempo Mapped-97.L   ,00:02:57:13,00:02:58:00,00:00:00:17,Unmuted,5323,17,0
+1,458,Heartbeat Tempo Mapped-84.L   ,00:02:58:00,00:02:58:08,00:00:00:07,Unmuted,5340,7,1
 1,460,Heartbeat Tempo Mapped-98.L   ,00:02:58:08,00:02:58:25,00:00:00:17,Unmuted,5348,17,0
 1,461,Heartbeat Tempo Mapped-103.L  ,00:02:58:26,00:02:59:03,00:00:00:07,Unmuted,5366,7,1
 1,462,Heartbeat Tempo Mapped-100.L  ,00:02:59:03,00:02:59:21,00:00:00:17,Unmuted,5373,17,0
@@ -415,14 +415,14 @@ CHANNEL,EVENT,CLIP NAME,START TIME,END TIME,DURATION,STATE,Frames,Runtime,Beats
 1,465,Heartbeat Tempo Mapped-96.L   ,00:03:00:17,00:03:00:25,00:00:00:08,Unmuted,5417,8,1
 1,466,Heartbeat Tempo Mapped-97.L   ,00:03:00:25,00:03:01:13,00:00:00:17,Unmuted,5425,17,0
 1,467,Heartbeat Tempo Mapped-84.L   ,00:03:01:13,00:03:01:21,00:00:00:07,Unmuted,5443,7,1
-1,469,Heartbeat Tempo Mapped-98.L   ,00:03:01:21,00:03:02:08,00:00:00:17,Unmuted,5451,17,1
-1,470,Heartbeat Tempo Mapped-99.L   ,00:03:02:09,00:03:02:16,00:00:00:07,Unmuted,5469,7,0
-1,471,Heartbeat Tempo Mapped-100.L  ,00:03:02:16,00:03:03:04,00:00:00:17,Unmuted,5476,17,1
-1,472,Heartbeat Tempo Mapped-101.L  ,00:03:03:04,00:03:03:12,00:00:00:07,Unmuted,5494,7,0
-1,473,Heartbeat Tempo Mapped-109.L  ,00:03:03:12,00:03:04:00,00:00:00:17,Unmuted,5502,17,1
-1,474,Heartbeat Tempo Mapped-110.L  ,00:03:04:00,00:03:04:08,00:00:00:08,Unmuted,5520,8,0
-1,475,Heartbeat Tempo Mapped-111.L  ,00:03:04:08,00:03:04:25,00:00:00:17,Unmuted,5528,17,1
-1,476,Heartbeat Tempo Mapped-87.L   ,00:03:04:26,00:03:05:03,00:00:00:07,Unmuted,5546,7,0
+1,469,Heartbeat Tempo Mapped-98.L   ,00:03:01:21,00:03:02:08,00:00:00:17,Unmuted,5451,17,0
+1,470,Heartbeat Tempo Mapped-99.L   ,00:03:02:09,00:03:02:16,00:00:00:07,Unmuted,5469,7,1
+1,471,Heartbeat Tempo Mapped-100.L  ,00:03:02:16,00:03:03:04,00:00:00:17,Unmuted,5476,17,0
+1,472,Heartbeat Tempo Mapped-101.L  ,00:03:03:04,00:03:03:12,00:00:00:07,Unmuted,5494,7,1
+1,473,Heartbeat Tempo Mapped-109.L  ,00:03:03:12,00:03:04:00,00:00:00:17,Unmuted,5502,17,0
+1,474,Heartbeat Tempo Mapped-110.L  ,00:03:04:00,00:03:04:08,00:00:00:08,Unmuted,5520,8,1
+1,475,Heartbeat Tempo Mapped-111.L  ,00:03:04:08,00:03:04:25,00:00:00:17,Unmuted,5528,17,0
+1,476,Heartbeat Tempo Mapped-87.L   ,00:03:04:26,00:03:05:03,00:00:00:07,Unmuted,5546,7,1
 1,478,Heartbeat Tempo Mapped-112.L  ,00:03:05:04,00:03:05:21,00:00:00:17,Unmuted,5554,17,0
 1,479,Heartbeat Tempo Mapped-113.L  ,00:03:05:21,00:03:05:29,00:00:00:07,Unmuted,5571,7,1
 1,480,Heartbeat Tempo Mapped-114.L  ,00:03:05:29,00:03:06:17,00:00:00:17,Unmuted,5579,17,0
@@ -431,14 +431,14 @@ CHANNEL,EVENT,CLIP NAME,START TIME,END TIME,DURATION,STATE,Frames,Runtime,Beats
 1,483,Heartbeat Tempo Mapped-117.L  ,00:03:07:13,00:03:07:21,00:00:00:08,Unmuted,5623,8,1
 1,484,Heartbeat Tempo Mapped-118.L  ,00:03:07:21,00:03:08:09,00:00:00:17,Unmuted,5631,17,0
 1,485,Heartbeat Tempo Mapped-88.L   ,00:03:08:09,00:03:08:17,00:00:00:07,Unmuted,5649,7,1
-1,487,Heartbeat Tempo Mapped-119.L  ,00:03:08:17,00:03:09:04,00:00:00:17,Unmuted,5657,17,1
-1,488,Heartbeat Tempo Mapped-43.L   ,00:03:09:05,00:03:09:12,00:00:00:07,Unmuted,5675,7,0
-1,489,Heartbeat Tempo Mapped-44.L   ,00:03:09:12,00:03:10:00,00:00:00:17,Unmuted,5682,17,1
-1,490,Heartbeat Tempo Mapped-45.L   ,00:03:10:01,00:03:10:08,00:00:00:07,Unmuted,5701,7,0
-1,491,Heartbeat Tempo Mapped-120.L  ,00:03:10:09,00:03:10:26,00:00:00:17,Unmuted,5709,17,1
-1,492,Heartbeat Tempo Mapped-121.L  ,00:03:10:26,00:03:11:05,00:00:00:08,Unmuted,5726,8,0
-1,493,Heartbeat Tempo Mapped-122.L  ,00:03:11:05,00:03:11:22,00:00:00:17,Unmuted,5735,17,1
-1,494,Heartbeat Tempo Mapped-46.L   ,00:03:11:22,00:03:12:00,00:00:00:07,Unmuted,5752,7,0
+1,487,Heartbeat Tempo Mapped-119.L  ,00:03:08:17,00:03:09:04,00:00:00:17,Unmuted,5657,17,0
+1,488,Heartbeat Tempo Mapped-43.L   ,00:03:09:05,00:03:09:12,00:00:00:07,Unmuted,5675,7,1
+1,489,Heartbeat Tempo Mapped-44.L   ,00:03:09:12,00:03:10:00,00:00:00:17,Unmuted,5682,17,0
+1,490,Heartbeat Tempo Mapped-45.L   ,00:03:10:01,00:03:10:08,00:00:00:07,Unmuted,5701,7,1
+1,491,Heartbeat Tempo Mapped-120.L  ,00:03:10:09,00:03:10:26,00:00:00:17,Unmuted,5709,17,0
+1,492,Heartbeat Tempo Mapped-121.L  ,00:03:10:26,00:03:11:05,00:00:00:08,Unmuted,5726,8,1
+1,493,Heartbeat Tempo Mapped-122.L  ,00:03:11:05,00:03:11:22,00:00:00:17,Unmuted,5735,17,0
+1,494,Heartbeat Tempo Mapped-46.L   ,00:03:11:22,00:03:12:00,00:00:00:07,Unmuted,5752,7,1
 1,496,Heartbeat Tempo Mapped-124.L  ,00:03:12:01,00:03:12:18,00:00:00:17,Unmuted,5761,17,0
 1,497,Heartbeat Tempo Mapped-47.L   ,00:03:12:18,00:03:12:26,00:00:00:07,Unmuted,5778,7,1
 1,498,Heartbeat Tempo Mapped-48.L   ,00:03:12:26,00:03:13:14,00:00:00:17,Unmuted,5786,17,0
@@ -447,22 +447,22 @@ CHANNEL,EVENT,CLIP NAME,START TIME,END TIME,DURATION,STATE,Frames,Runtime,Beats
 1,501,Heartbeat Tempo Mapped-51.L   ,00:03:14:10,00:03:14:18,00:00:00:08,Unmuted,5830,8,1
 1,502,Heartbeat Tempo Mapped-52.L   ,00:03:14:19,00:03:15:06,00:00:00:17,Unmuted,5839,17,0
 1,503,Heartbeat Tempo Mapped-53.L   ,00:03:15:06,00:03:15:14,00:00:00:08,Unmuted,5856,8,1
-1,505,Heartbeat Tempo Mapped-42.L   ,00:03:15:15,00:03:16:02,00:00:00:17,Unmuted,5865,17,1
-1,506,Heartbeat Tempo Mapped-126.L  ,00:03:16:03,00:03:16:10,00:00:00:07,Unmuted,5883,7,0
-1,507,Heartbeat Tempo Mapped-54.L   ,00:03:16:10,00:03:16:28,00:00:00:17,Unmuted,5890,17,1
-1,508,Heartbeat Tempo Mapped-127.L  ,00:03:16:29,00:03:17:06,00:00:00:07,Unmuted,5909,7,0
-1,509,Heartbeat Tempo Mapped-55.L   ,00:03:17:06,00:03:17:24,00:00:00:17,Unmuted,5916,17,1
-1,510,Heartbeat Tempo Mapped-56.L   ,00:03:17:24,00:03:18:03,00:00:00:08,Unmuted,5934,8,0
-1,511,Heartbeat Tempo Mapped-57.L   ,00:03:18:03,00:03:18:20,00:00:00:17,Unmuted,5943,17,1
-1,512,Heartbeat Tempo Mapped-58.L   ,00:03:18:20,00:03:18:28,00:00:00:07,Unmuted,5960,7,0
-1,513,Heartbeat Tempo Mapped-94.L   ,00:03:18:29,00:03:19:16,00:00:00:17,Unmuted,5969,17,1
-1,514,Heartbeat Tempo Mapped-128.L  ,00:03:19:17,00:03:19:24,00:00:00:07,Unmuted,5987,7,0
-1,515,Heartbeat Tempo Mapped-59.L   ,00:03:19:24,00:03:20:12,00:00:00:17,Unmuted,5994,17,1
-1,516,Heartbeat Tempo Mapped-129.L  ,00:03:20:13,00:03:20:20,00:00:00:07,Unmuted,6013,7,0
-1,517,Heartbeat Tempo Mapped-60.L   ,00:03:20:21,00:03:21:08,00:00:00:17,Unmuted,6021,17,1
-1,518,Heartbeat Tempo Mapped-130.L  ,00:03:21:09,00:03:21:17,00:00:00:07,Unmuted,6039,7,0
-1,519,Heartbeat Tempo Mapped-61.L   ,00:03:21:17,00:03:22:05,00:00:00:17,Unmuted,6047,17,1
-1,520,Heartbeat Tempo Mapped-40.L   ,00:03:22:05,00:03:22:13,00:00:00:07,Unmuted,6065,7,0
+1,505,Heartbeat Tempo Mapped-42.L   ,00:03:15:15,00:03:16:02,00:00:00:17,Unmuted,5865,17,0
+1,506,Heartbeat Tempo Mapped-126.L  ,00:03:16:03,00:03:16:10,00:00:00:07,Unmuted,5883,7,1
+1,507,Heartbeat Tempo Mapped-54.L   ,00:03:16:10,00:03:16:28,00:00:00:17,Unmuted,5890,17,0
+1,508,Heartbeat Tempo Mapped-127.L  ,00:03:16:29,00:03:17:06,00:00:00:07,Unmuted,5909,7,1
+1,509,Heartbeat Tempo Mapped-55.L   ,00:03:17:06,00:03:17:24,00:00:00:17,Unmuted,5916,17,0
+1,510,Heartbeat Tempo Mapped-56.L   ,00:03:17:24,00:03:18:03,00:00:00:08,Unmuted,5934,8,1
+1,511,Heartbeat Tempo Mapped-57.L   ,00:03:18:03,00:03:18:20,00:00:00:17,Unmuted,5943,17,0
+1,512,Heartbeat Tempo Mapped-58.L   ,00:03:18:20,00:03:18:28,00:00:00:07,Unmuted,5960,7,1
+1,513,Heartbeat Tempo Mapped-94.L   ,00:03:18:29,00:03:19:16,00:00:00:17,Unmuted,5969,17,0
+1,514,Heartbeat Tempo Mapped-128.L  ,00:03:19:17,00:03:19:24,00:00:00:07,Unmuted,5987,7,1
+1,515,Heartbeat Tempo Mapped-59.L   ,00:03:19:24,00:03:20:12,00:00:00:17,Unmuted,5994,17,0
+1,516,Heartbeat Tempo Mapped-129.L  ,00:03:20:13,00:03:20:20,00:00:00:07,Unmuted,6013,7,1
+1,517,Heartbeat Tempo Mapped-60.L   ,00:03:20:21,00:03:21:08,00:00:00:17,Unmuted,6021,17,0
+1,518,Heartbeat Tempo Mapped-130.L  ,00:03:21:09,00:03:21:17,00:00:00:07,Unmuted,6039,7,1
+1,519,Heartbeat Tempo Mapped-61.L   ,00:03:21:17,00:03:22:05,00:00:00:17,Unmuted,6047,17,0
+1,520,Heartbeat Tempo Mapped-40.L   ,00:03:22:05,00:03:22:13,00:00:00:07,Unmuted,6065,7,1
 1,522,Heartbeat Tempo Mapped-42.L   ,00:03:22:14,00:03:23:01,00:00:00:16,Unmuted,6074,16,0
 1,523,Heartbeat Tempo Mapped-131.L  ,00:03:23:02,00:03:23:09,00:00:00:07,Unmuted,6092,7,1
 1,524,Heartbeat Tempo Mapped-62.L   ,00:03:23:09,00:03:23:27,00:00:00:18,Unmuted,6099,18,0
@@ -471,14 +471,14 @@ CHANNEL,EVENT,CLIP NAME,START TIME,END TIME,DURATION,STATE,Frames,Runtime,Beats
 1,527,Heartbeat Tempo Mapped-133.L  ,00:03:24:24,00:03:25:02,00:00:00:07,Unmuted,6144,7,1
 1,528,Heartbeat Tempo Mapped-64.L   ,00:03:25:02,00:03:25:20,00:00:00:17,Unmuted,6152,17,0
 1,529,Heartbeat Tempo Mapped-40.L   ,00:03:25:20,00:03:25:28,00:00:00:07,Unmuted,6170,7,1
-1,531,Heartbeat Tempo Mapped-42.L   ,00:03:25:29,00:03:26:16,00:00:00:16,Unmuted,6179,16,1
-1,532,Heartbeat Tempo Mapped-34.L   ,00:03:26:17,00:03:26:24,00:00:00:07,Unmuted,6197,7,0
-1,533,Heartbeat Tempo Mapped-35.L   ,00:03:26:25,00:03:27:12,00:00:00:17,Unmuted,6205,17,1
-1,534,Heartbeat Tempo Mapped-36.L   ,00:03:27:13,00:03:27:20,00:00:00:07,Unmuted,6223,7,0
-1,535,Heartbeat Tempo Mapped-37.L   ,00:03:27:21,00:03:28:08,00:00:00:17,Unmuted,6231,17,1
-1,536,Heartbeat Tempo Mapped-38.L   ,00:03:28:09,00:03:28:17,00:00:00:07,Unmuted,6249,7,0
-1,537,Heartbeat Tempo Mapped-39.L   ,00:03:28:18,00:03:29:05,00:00:00:17,Unmuted,6258,17,1
-1,538,Heartbeat Tempo Mapped-40.L   ,00:03:29:06,00:03:29:13,00:00:00:07,Unmuted,6276,7,0
+1,531,Heartbeat Tempo Mapped-42.L   ,00:03:25:29,00:03:26:16,00:00:00:16,Unmuted,6179,16,0
+1,532,Heartbeat Tempo Mapped-34.L   ,00:03:26:17,00:03:26:24,00:00:00:07,Unmuted,6197,7,1
+1,533,Heartbeat Tempo Mapped-35.L   ,00:03:26:25,00:03:27:12,00:00:00:17,Unmuted,6205,17,0
+1,534,Heartbeat Tempo Mapped-36.L   ,00:03:27:13,00:03:27:20,00:00:00:07,Unmuted,6223,7,1
+1,535,Heartbeat Tempo Mapped-37.L   ,00:03:27:21,00:03:28:08,00:00:00:17,Unmuted,6231,17,0
+1,536,Heartbeat Tempo Mapped-38.L   ,00:03:28:09,00:03:28:17,00:00:00:07,Unmuted,6249,7,1
+1,537,Heartbeat Tempo Mapped-39.L   ,00:03:28:18,00:03:29:05,00:00:00:17,Unmuted,6258,17,0
+1,538,Heartbeat Tempo Mapped-40.L   ,00:03:29:06,00:03:29:13,00:00:00:07,Unmuted,6276,7,1
 1,540,Heartbeat Tempo Mapped-42.L   ,00:03:29:14,00:03:30:01,00:00:00:16,Unmuted,6284,16,0
 1,541,Heartbeat Tempo Mapped-34.L   ,00:03:30:02,00:03:30:09,00:00:00:07,Unmuted,6302,7,1
 1,542,Heartbeat Tempo Mapped-35.L   ,00:03:30:10,00:03:30:28,00:00:00:17,Unmuted,6310,17,0
@@ -487,14 +487,14 @@ CHANNEL,EVENT,CLIP NAME,START TIME,END TIME,DURATION,STATE,Frames,Runtime,Beats
 1,545,Heartbeat Tempo Mapped-38.L   ,00:03:31:25,00:03:32:03,00:00:00:07,Unmuted,6355,7,1
 1,546,Heartbeat Tempo Mapped-39.L   ,00:03:32:04,00:03:32:21,00:00:00:17,Unmuted,6364,17,0
 1,547,Heartbeat Tempo Mapped-40.L   ,00:03:32:22,00:03:32:29,00:00:00:07,Unmuted,6382,7,1
-1,549,Heartbeat Tempo Mapped-42.L   ,00:03:33:00,00:03:33:17,00:00:00:16,Unmuted,6390,16,1
-1,550,Heartbeat Tempo Mapped-34.L   ,00:03:33:18,00:03:33:25,00:00:00:07,Unmuted,6408,7,0
-1,551,Heartbeat Tempo Mapped-35.L   ,00:03:33:26,00:03:34:14,00:00:00:17,Unmuted,6416,17,1
-1,552,Heartbeat Tempo Mapped-36.L   ,00:03:34:15,00:03:34:22,00:00:00:07,Unmuted,6435,7,0
-1,553,Heartbeat Tempo Mapped-37.L   ,00:03:34:23,00:03:35:10,00:00:00:17,Unmuted,6443,17,1
-1,554,Heartbeat Tempo Mapped-38.L   ,00:03:35:11,00:03:35:19,00:00:00:07,Unmuted,6461,7,0
-1,555,Heartbeat Tempo Mapped-39.L   ,00:03:35:20,00:03:36:07,00:00:00:17,Unmuted,6470,17,1
-1,556,Heartbeat Tempo Mapped-40.L   ,00:03:36:08,00:03:36:15,00:00:00:07,Unmuted,6488,7,0
+1,549,Heartbeat Tempo Mapped-42.L   ,00:03:33:00,00:03:33:17,00:00:00:16,Unmuted,6390,16,0
+1,550,Heartbeat Tempo Mapped-34.L   ,00:03:33:18,00:03:33:25,00:00:00:07,Unmuted,6408,7,1
+1,551,Heartbeat Tempo Mapped-35.L   ,00:03:33:26,00:03:34:14,00:00:00:17,Unmuted,6416,17,0
+1,552,Heartbeat Tempo Mapped-36.L   ,00:03:34:15,00:03:34:22,00:00:00:07,Unmuted,6435,7,1
+1,553,Heartbeat Tempo Mapped-37.L   ,00:03:34:23,00:03:35:10,00:00:00:17,Unmuted,6443,17,0
+1,554,Heartbeat Tempo Mapped-38.L   ,00:03:35:11,00:03:35:19,00:00:00:07,Unmuted,6461,7,1
+1,555,Heartbeat Tempo Mapped-39.L   ,00:03:35:20,00:03:36:07,00:00:00:17,Unmuted,6470,17,0
+1,556,Heartbeat Tempo Mapped-40.L   ,00:03:36:08,00:03:36:15,00:00:00:07,Unmuted,6488,7,1
 1,558,Heartbeat Tempo Mapped-42.L   ,00:03:36:16,00:03:37:03,00:00:00:16,Unmuted,6496,16,0
 1,559,Heartbeat Tempo Mapped-34.L   ,00:03:37:04,00:03:37:12,00:00:00:07,Unmuted,6514,7,1
 1,560,Heartbeat Tempo Mapped-35.L   ,00:03:37:12,00:03:38:00,00:00:00:17,Unmuted,6522,17,0
@@ -503,14 +503,14 @@ CHANNEL,EVENT,CLIP NAME,START TIME,END TIME,DURATION,STATE,Frames,Runtime,Beats
 1,563,Heartbeat Tempo Mapped-38.L   ,00:03:38:27,00:03:39:05,00:00:00:07,Unmuted,6567,7,1
 1,564,Heartbeat Tempo Mapped-39.L   ,00:03:39:06,00:03:39:23,00:00:00:17,Unmuted,6576,17,0
 1,565,Heartbeat Tempo Mapped-40.L   ,00:03:39:24,00:03:40:02,00:00:00:07,Unmuted,6594,7,1
-1,567,Heartbeat Tempo Mapped-42.L   ,00:03:40:03,00:03:40:20,00:00:00:16,Unmuted,6603,16,1
-1,568,Heartbeat Tempo Mapped-34.L   ,00:03:40:21,00:03:40:28,00:00:00:07,Unmuted,6621,7,0
-1,569,Heartbeat Tempo Mapped-35.L   ,00:03:40:29,00:03:41:17,00:00:00:17,Unmuted,6629,17,1
-1,570,Heartbeat Tempo Mapped-36.L   ,00:03:41:18,00:03:41:25,00:00:00:07,Unmuted,6648,7,0
-1,571,Heartbeat Tempo Mapped-37.L   ,00:03:41:26,00:03:42:13,00:00:00:17,Unmuted,6656,17,1
-1,572,Heartbeat Tempo Mapped-38.L   ,00:03:42:14,00:03:42:22,00:00:00:07,Unmuted,6674,7,0
-1,573,Heartbeat Tempo Mapped-39.L   ,00:03:42:23,00:03:43:10,00:00:00:17,Unmuted,6683,17,1
-1,574,Heartbeat Tempo Mapped-40.L   ,00:03:43:11,00:03:43:19,00:00:00:07,Unmuted,6701,7,0
+1,567,Heartbeat Tempo Mapped-42.L   ,00:03:40:03,00:03:40:20,00:00:00:16,Unmuted,6603,16,0
+1,568,Heartbeat Tempo Mapped-34.L   ,00:03:40:21,00:03:40:28,00:00:00:07,Unmuted,6621,7,1
+1,569,Heartbeat Tempo Mapped-35.L   ,00:03:40:29,00:03:41:17,00:00:00:17,Unmuted,6629,17,0
+1,570,Heartbeat Tempo Mapped-36.L   ,00:03:41:18,00:03:41:25,00:00:00:07,Unmuted,6648,7,1
+1,571,Heartbeat Tempo Mapped-37.L   ,00:03:41:26,00:03:42:13,00:00:00:17,Unmuted,6656,17,0
+1,572,Heartbeat Tempo Mapped-38.L   ,00:03:42:14,00:03:42:22,00:00:00:07,Unmuted,6674,7,1
+1,573,Heartbeat Tempo Mapped-39.L   ,00:03:42:23,00:03:43:10,00:00:00:17,Unmuted,6683,17,0
+1,574,Heartbeat Tempo Mapped-40.L   ,00:03:43:11,00:03:43:19,00:00:00:07,Unmuted,6701,7,1
 1,576,Heartbeat Tempo Mapped-42.L   ,00:03:43:20,00:03:44:07,00:00:00:16,Unmuted,6710,16,0
 1,577,Heartbeat Tempo Mapped-34.L   ,00:03:44:08,00:03:44:15,00:00:00:07,Unmuted,6728,7,1
 1,578,Heartbeat Tempo Mapped-35.L   ,00:03:44:16,00:03:45:04,00:00:00:17,Unmuted,6736,17,0
@@ -519,14 +519,14 @@ CHANNEL,EVENT,CLIP NAME,START TIME,END TIME,DURATION,STATE,Frames,Runtime,Beats
 1,581,Heartbeat Tempo Mapped-38.L   ,00:03:46:01,00:03:46:09,00:00:00:07,Unmuted,6781,7,1
 1,582,Heartbeat Tempo Mapped-39.L   ,00:03:46:10,00:03:46:27,00:00:00:17,Unmuted,6790,17,0
 1,583,Heartbeat Tempo Mapped-40.L   ,00:03:46:28,00:03:47:06,00:00:00:07,Unmuted,6808,7,1
-1,585,Heartbeat Tempo Mapped-42.L   ,00:03:47:07,00:03:47:24,00:00:00:16,Unmuted,6817,16,1
-1,586,Heartbeat Tempo Mapped-34.L   ,00:03:47:25,00:03:48:03,00:00:00:07,Unmuted,6835,7,0
-1,587,Heartbeat Tempo Mapped-35.L   ,00:03:48:03,00:03:48:21,00:00:00:17,Unmuted,6843,17,1
-1,588,Heartbeat Tempo Mapped-36.L   ,00:03:48:22,00:03:49:00,00:00:00:07,Unmuted,6862,7,0
-1,589,Heartbeat Tempo Mapped-37.L   ,00:03:49:01,00:03:49:18,00:00:00:17,Unmuted,6871,17,1
-1,590,Heartbeat Tempo Mapped-38.L   ,00:03:49:19,00:03:49:27,00:00:00:07,Unmuted,6889,7,0
-1,591,Heartbeat Tempo Mapped-39.L   ,00:03:49:28,00:03:50:15,00:00:00:17,Unmuted,6898,17,1
-1,592,Heartbeat Tempo Mapped-40.L   ,00:03:50:16,00:03:50:24,00:00:00:07,Unmuted,6916,7,0
+1,585,Heartbeat Tempo Mapped-42.L   ,00:03:47:07,00:03:47:24,00:00:00:16,Unmuted,6817,16,0
+1,586,Heartbeat Tempo Mapped-34.L   ,00:03:47:25,00:03:48:03,00:00:00:07,Unmuted,6835,7,1
+1,587,Heartbeat Tempo Mapped-35.L   ,00:03:48:03,00:03:48:21,00:00:00:17,Unmuted,6843,17,0
+1,588,Heartbeat Tempo Mapped-36.L   ,00:03:48:22,00:03:49:00,00:00:00:07,Unmuted,6862,7,1
+1,589,Heartbeat Tempo Mapped-37.L   ,00:03:49:01,00:03:49:18,00:00:00:17,Unmuted,6871,17,0
+1,590,Heartbeat Tempo Mapped-38.L   ,00:03:49:19,00:03:49:27,00:00:00:07,Unmuted,6889,7,1
+1,591,Heartbeat Tempo Mapped-39.L   ,00:03:49:28,00:03:50:15,00:00:00:17,Unmuted,6898,17,0
+1,592,Heartbeat Tempo Mapped-40.L   ,00:03:50:16,00:03:50:24,00:00:00:07,Unmuted,6916,7,1
 1,594,Heartbeat Tempo Mapped-42.L   ,00:03:50:25,00:03:51:12,00:00:00:16,Unmuted,6925,16,0
 1,595,Heartbeat Tempo Mapped-34.L   ,00:03:51:13,00:03:51:20,00:00:00:07,Unmuted,6943,7,1
 1,596,Heartbeat Tempo Mapped-35.L   ,00:03:51:21,00:03:52:09,00:00:00:17,Unmuted,6951,17,0
@@ -535,14 +535,14 @@ CHANNEL,EVENT,CLIP NAME,START TIME,END TIME,DURATION,STATE,Frames,Runtime,Beats
 1,599,Heartbeat Tempo Mapped-38.L   ,00:03:53:07,00:03:53:15,00:00:00:07,Unmuted,6997,7,1
 1,600,Heartbeat Tempo Mapped-39.L   ,00:03:53:16,00:03:54:03,00:00:00:17,Unmuted,7006,17,0
 1,601,Heartbeat Tempo Mapped-40.L   ,00:03:54:04,00:03:54:12,00:00:00:07,Unmuted,7024,7,1
-1,603,Heartbeat Tempo Mapped-42.L   ,00:03:54:13,00:03:55:00,00:00:00:16,Unmuted,7033,16,1
-1,604,Heartbeat Tempo Mapped-34.L   ,00:03:55:01,00:03:55:09,00:00:00:07,Unmuted,7051,7,0
-1,605,Heartbeat Tempo Mapped-35.L   ,00:03:55:10,00:03:55:27,00:00:00:17,Unmuted,7060,17,1
-1,606,Heartbeat Tempo Mapped-36.L   ,00:03:55:29,00:03:56:06,00:00:00:07,Unmuted,7079,7,0
-1,607,Heartbeat Tempo Mapped-37.L   ,00:03:56:07,00:03:56:24,00:00:00:17,Unmuted,7087,17,1
-1,608,Heartbeat Tempo Mapped-38.L   ,00:03:56:25,00:03:57:03,00:00:00:07,Unmuted,7105,7,0
-1,609,Heartbeat Tempo Mapped-39.L   ,00:03:57:04,00:03:57:21,00:00:00:17,Unmuted,7114,17,1
-1,610,Heartbeat Tempo Mapped-40.L   ,00:03:57:23,00:03:58:00,00:00:00:07,Unmuted,7133,7,0
+1,603,Heartbeat Tempo Mapped-42.L   ,00:03:54:13,00:03:55:00,00:00:00:16,Unmuted,7033,16,0
+1,604,Heartbeat Tempo Mapped-34.L   ,00:03:55:01,00:03:55:09,00:00:00:07,Unmuted,7051,7,1
+1,605,Heartbeat Tempo Mapped-35.L   ,00:03:55:10,00:03:55:27,00:00:00:17,Unmuted,7060,17,0
+1,606,Heartbeat Tempo Mapped-36.L   ,00:03:55:29,00:03:56:06,00:00:00:07,Unmuted,7079,7,1
+1,607,Heartbeat Tempo Mapped-37.L   ,00:03:56:07,00:03:56:24,00:00:00:17,Unmuted,7087,17,0
+1,608,Heartbeat Tempo Mapped-38.L   ,00:03:56:25,00:03:57:03,00:00:00:07,Unmuted,7105,7,1
+1,609,Heartbeat Tempo Mapped-39.L   ,00:03:57:04,00:03:57:21,00:00:00:17,Unmuted,7114,17,0
+1,610,Heartbeat Tempo Mapped-40.L   ,00:03:57:23,00:03:58:00,00:00:00:07,Unmuted,7133,7,1
 1,612,Heartbeat Tempo Mapped-42.L   ,00:03:58:02,00:03:58:18,00:00:00:16,Unmuted,7142,16,0
 1,613,Heartbeat Tempo Mapped-34.L   ,00:03:58:20,00:03:58:27,00:00:00:07,Unmuted,7160,7,1
 1,614,Heartbeat Tempo Mapped-35.L   ,00:03:58:28,00:03:59:16,00:00:00:17,Unmuted,7168,17,0
@@ -551,14 +551,14 @@ CHANNEL,EVENT,CLIP NAME,START TIME,END TIME,DURATION,STATE,Frames,Runtime,Beats
 1,617,Heartbeat Tempo Mapped-38.L   ,00:04:00:14,00:04:00:22,00:00:00:07,Unmuted,7214,7,1
 1,618,Heartbeat Tempo Mapped-39.L   ,00:04:00:23,00:04:01:10,00:00:00:17,Unmuted,7223,17,0
 1,619,Heartbeat Tempo Mapped-40.L   ,00:04:01:12,00:04:01:19,00:00:00:07,Unmuted,7242,7,1
-1,621,Heartbeat Tempo Mapped-42.L   ,00:04:01:20,00:04:02:07,00:00:00:16,Unmuted,7250,16,1
-1,622,Heartbeat Tempo Mapped-34.L   ,00:04:02:09,00:04:02:16,00:00:00:07,Unmuted,7269,7,0
-1,623,Heartbeat Tempo Mapped-35.L   ,00:04:02:17,00:04:03:05,00:00:00:17,Unmuted,7277,17,1
-1,624,Heartbeat Tempo Mapped-36.L   ,00:04:03:06,00:04:03:14,00:00:00:07,Unmuted,7296,7,0
-1,625,Heartbeat Tempo Mapped-37.L   ,00:04:03:15,00:04:04:02,00:00:00:17,Unmuted,7305,17,1
-1,626,Heartbeat Tempo Mapped-38.L   ,00:04:04:03,00:04:04:11,00:00:00:07,Unmuted,7323,7,0
-1,627,Heartbeat Tempo Mapped-39.L   ,00:04:04:12,00:04:04:29,00:00:00:17,Unmuted,7332,17,1
-1,628,Heartbeat Tempo Mapped-40.L   ,00:04:05:01,00:04:05:09,00:00:00:07,Unmuted,7351,7,0
+1,621,Heartbeat Tempo Mapped-42.L   ,00:04:01:20,00:04:02:07,00:00:00:16,Unmuted,7250,16,0
+1,622,Heartbeat Tempo Mapped-34.L   ,00:04:02:09,00:04:02:16,00:00:00:07,Unmuted,7269,7,1
+1,623,Heartbeat Tempo Mapped-35.L   ,00:04:02:17,00:04:03:05,00:00:00:17,Unmuted,7277,17,0
+1,624,Heartbeat Tempo Mapped-36.L   ,00:04:03:06,00:04:03:14,00:00:00:07,Unmuted,7296,7,1
+1,625,Heartbeat Tempo Mapped-37.L   ,00:04:03:15,00:04:04:02,00:00:00:17,Unmuted,7305,17,0
+1,626,Heartbeat Tempo Mapped-38.L   ,00:04:04:03,00:04:04:11,00:00:00:07,Unmuted,7323,7,1
+1,627,Heartbeat Tempo Mapped-39.L   ,00:04:04:12,00:04:04:29,00:00:00:17,Unmuted,7332,17,0
+1,628,Heartbeat Tempo Mapped-40.L   ,00:04:05:01,00:04:05:09,00:00:00:07,Unmuted,7351,7,1
 1,630,Heartbeat Tempo Mapped-42.L   ,00:04:05:10,00:04:05:27,00:00:00:16,Unmuted,7360,16,0
 1,631,Heartbeat Tempo Mapped-34.L   ,00:04:05:28,00:04:06:06,00:00:00:07,Unmuted,7378,7,1
 1,632,Heartbeat Tempo Mapped-35.L   ,00:04:06:07,00:04:06:24,00:00:00:17,Unmuted,7387,17,0
@@ -567,14 +567,14 @@ CHANNEL,EVENT,CLIP NAME,START TIME,END TIME,DURATION,STATE,Frames,Runtime,Beats
 1,635,Heartbeat Tempo Mapped-38.L   ,00:04:07:23,00:04:08:01,00:00:00:07,Unmuted,7433,7,1
 1,636,Heartbeat Tempo Mapped-39.L   ,00:04:08:02,00:04:08:19,00:00:00:17,Unmuted,7442,17,0
 1,637,Heartbeat Tempo Mapped-40.L   ,00:04:08:21,00:04:08:28,00:00:00:07,Unmuted,7461,7,1
-1,639,Heartbeat Tempo Mapped-42.L   ,00:04:09:00,00:04:09:16,00:00:00:16,Unmuted,7470,16,1
-1,640,Heartbeat Tempo Mapped-34.L   ,00:04:09:18,00:04:09:25,00:00:00:07,Unmuted,7488,7,0
-1,641,Heartbeat Tempo Mapped-35.L   ,00:04:09:26,00:04:10:14,00:00:00:17,Unmuted,7496,17,1
-1,642,Heartbeat Tempo Mapped-36.L   ,00:04:10:16,00:04:10:23,00:00:00:07,Unmuted,7516,7,0
-1,643,Heartbeat Tempo Mapped-37.L   ,00:04:10:24,00:04:11:11,00:00:00:17,Unmuted,7524,17,1
-1,644,Heartbeat Tempo Mapped-38.L   ,00:04:11:13,00:04:11:21,00:00:00:07,Unmuted,7543,7,0
-1,645,Heartbeat Tempo Mapped-39.L   ,00:04:11:22,00:04:12:09,00:00:00:17,Unmuted,7552,17,1
-1,646,Heartbeat Tempo Mapped-40.L   ,00:04:12:11,00:04:12:18,00:00:00:07,Unmuted,7571,7,0
+1,639,Heartbeat Tempo Mapped-42.L   ,00:04:09:00,00:04:09:16,00:00:00:16,Unmuted,7470,16,0
+1,640,Heartbeat Tempo Mapped-34.L   ,00:04:09:18,00:04:09:25,00:00:00:07,Unmuted,7488,7,1
+1,641,Heartbeat Tempo Mapped-35.L   ,00:04:09:26,00:04:10:14,00:00:00:17,Unmuted,7496,17,0
+1,642,Heartbeat Tempo Mapped-36.L   ,00:04:10:16,00:04:10:23,00:00:00:07,Unmuted,7516,7,1
+1,643,Heartbeat Tempo Mapped-37.L   ,00:04:10:24,00:04:11:11,00:00:00:17,Unmuted,7524,17,0
+1,644,Heartbeat Tempo Mapped-38.L   ,00:04:11:13,00:04:11:21,00:00:00:07,Unmuted,7543,7,1
+1,645,Heartbeat Tempo Mapped-39.L   ,00:04:11:22,00:04:12:09,00:00:00:17,Unmuted,7552,17,0
+1,646,Heartbeat Tempo Mapped-40.L   ,00:04:12:11,00:04:12:18,00:00:00:07,Unmuted,7571,7,1
 1,648,Heartbeat Tempo Mapped-42.L   ,00:04:12:20,00:04:13:07,00:00:00:16,Unmuted,7580,16,0
 1,649,Heartbeat Tempo Mapped-34.L   ,00:04:13:08,00:04:13:16,00:00:00:07,Unmuted,7598,7,1
 1,650,Heartbeat Tempo Mapped-35.L   ,00:04:13:17,00:04:14:04,00:00:00:17,Unmuted,7607,17,0
@@ -583,14 +583,14 @@ CHANNEL,EVENT,CLIP NAME,START TIME,END TIME,DURATION,STATE,Frames,Runtime,Beats
 1,653,Heartbeat Tempo Mapped-38.L   ,00:04:15:03,00:04:15:11,00:00:00:07,Unmuted,7653,7,1
 1,654,Heartbeat Tempo Mapped-39.L   ,00:04:15:13,00:04:16:00,00:00:00:17,Unmuted,7663,17,0
 1,655,Heartbeat Tempo Mapped-40.L   ,00:04:16:01,00:04:16:09,00:00:00:07,Unmuted,7681,7,1
-1,657,Heartbeat Tempo Mapped-42.L   ,00:04:16:10,00:04:16:27,00:00:00:16,Unmuted,7690,16,1
-1,658,Heartbeat Tempo Mapped-34.L   ,00:04:16:29,00:04:17:06,00:00:00:07,Unmuted,7709,7,0
-1,659,Heartbeat Tempo Mapped-35.L   ,00:04:17:07,00:04:17:25,00:00:00:17,Unmuted,7717,17,1
-1,660,Heartbeat Tempo Mapped-36.L   ,00:04:17:27,00:04:18:04,00:00:00:07,Unmuted,7737,7,0
-1,661,Heartbeat Tempo Mapped-37.L   ,00:04:18:05,00:04:18:23,00:00:00:17,Unmuted,7745,17,1
-1,662,Heartbeat Tempo Mapped-38.L   ,00:04:18:24,00:04:19:02,00:00:00:07,Unmuted,7764,7,0
-1,663,Heartbeat Tempo Mapped-39.L   ,00:04:19:03,00:04:19:20,00:00:00:17,Unmuted,7773,17,1
-1,664,Heartbeat Tempo Mapped-40.L   ,00:04:19:22,00:04:20:00,00:00:00:07,Unmuted,7792,7,0
+1,657,Heartbeat Tempo Mapped-42.L   ,00:04:16:10,00:04:16:27,00:00:00:16,Unmuted,7690,16,0
+1,658,Heartbeat Tempo Mapped-34.L   ,00:04:16:29,00:04:17:06,00:00:00:07,Unmuted,7709,7,1
+1,659,Heartbeat Tempo Mapped-35.L   ,00:04:17:07,00:04:17:25,00:00:00:17,Unmuted,7717,17,0
+1,660,Heartbeat Tempo Mapped-36.L   ,00:04:17:27,00:04:18:04,00:00:00:07,Unmuted,7737,7,1
+1,661,Heartbeat Tempo Mapped-37.L   ,00:04:18:05,00:04:18:23,00:00:00:17,Unmuted,7745,17,0
+1,662,Heartbeat Tempo Mapped-38.L   ,00:04:18:24,00:04:19:02,00:00:00:07,Unmuted,7764,7,1
+1,663,Heartbeat Tempo Mapped-39.L   ,00:04:19:03,00:04:19:20,00:00:00:17,Unmuted,7773,17,0
+1,664,Heartbeat Tempo Mapped-40.L   ,00:04:19:22,00:04:20:00,00:00:00:07,Unmuted,7792,7,1
 1,666,Heartbeat Tempo Mapped-42.L   ,00:04:20:01,00:04:20:18,00:00:00:16,Unmuted,7801,16,0
 1,667,Heartbeat Tempo Mapped-34.L   ,00:04:20:20,00:04:20:27,00:00:00:07,Unmuted,7820,7,1
 1,668,Heartbeat Tempo Mapped-35.L   ,00:04:20:28,00:04:21:16,00:00:00:17,Unmuted,7828,17,0
@@ -599,14 +599,14 @@ CHANNEL,EVENT,CLIP NAME,START TIME,END TIME,DURATION,STATE,Frames,Runtime,Beats
 1,671,Heartbeat Tempo Mapped-38.L   ,00:04:22:16,00:04:22:24,00:00:00:07,Unmuted,7876,7,1
 1,672,Heartbeat Tempo Mapped-39.L   ,00:04:22:25,00:04:23:12,00:00:00:17,Unmuted,7885,17,0
 1,673,Heartbeat Tempo Mapped-40.L   ,00:04:23:14,00:04:23:21,00:00:00:07,Unmuted,7904,7,1
-1,675,Heartbeat Tempo Mapped-42.L   ,00:04:23:23,00:04:24:10,00:00:00:16,Unmuted,7913,16,1
-1,676,Heartbeat Tempo Mapped-34.L   ,00:04:24:12,00:04:24:19,00:00:00:07,Unmuted,7932,7,0
-1,677,Heartbeat Tempo Mapped-35.L   ,00:04:24:20,00:04:25:07,00:00:00:17,Unmuted,7940,17,1
-1,678,Heartbeat Tempo Mapped-36.L   ,00:04:25:09,00:04:25:17,00:00:00:07,Unmuted,7959,7,0
-1,679,Heartbeat Tempo Mapped-37.L   ,00:04:25:18,00:04:26:05,00:00:00:17,Unmuted,7968,17,1
-1,680,Heartbeat Tempo Mapped-38.L   ,00:04:26:07,00:04:26:15,00:00:00:07,Unmuted,7987,7,0
-1,681,Heartbeat Tempo Mapped-39.L   ,00:04:26:16,00:04:27:03,00:00:00:17,Unmuted,7996,17,1
-1,682,Heartbeat Tempo Mapped-40.L   ,00:04:27:05,00:04:27:13,00:00:00:07,Unmuted,8015,7,0
+1,675,Heartbeat Tempo Mapped-42.L   ,00:04:23:23,00:04:24:10,00:00:00:16,Unmuted,7913,16,0
+1,676,Heartbeat Tempo Mapped-34.L   ,00:04:24:12,00:04:24:19,00:00:00:07,Unmuted,7932,7,1
+1,677,Heartbeat Tempo Mapped-35.L   ,00:04:24:20,00:04:25:07,00:00:00:17,Unmuted,7940,17,0
+1,678,Heartbeat Tempo Mapped-36.L   ,00:04:25:09,00:04:25:17,00:00:00:07,Unmuted,7959,7,1
+1,679,Heartbeat Tempo Mapped-37.L   ,00:04:25:18,00:04:26:05,00:00:00:17,Unmuted,7968,17,0
+1,680,Heartbeat Tempo Mapped-38.L   ,00:04:26:07,00:04:26:15,00:00:00:07,Unmuted,7987,7,1
+1,681,Heartbeat Tempo Mapped-39.L   ,00:04:26:16,00:04:27:03,00:00:00:17,Unmuted,7996,17,0
+1,682,Heartbeat Tempo Mapped-40.L   ,00:04:27:05,00:04:27:13,00:00:00:07,Unmuted,8015,7,1
 1,684,Heartbeat Tempo Mapped-42.L   ,00:04:27:14,00:04:28:01,00:00:00:16,Unmuted,8024,16,0
 1,685,Heartbeat Tempo Mapped-34.L   ,00:04:28:03,00:04:28:11,00:00:00:07,Unmuted,8043,7,1
 1,686,Heartbeat Tempo Mapped-35.L   ,00:04:28:12,00:04:28:29,00:00:00:17,Unmuted,8052,17,0
@@ -615,14 +615,14 @@ CHANNEL,EVENT,CLIP NAME,START TIME,END TIME,DURATION,STATE,Frames,Runtime,Beats
 1,689,Heartbeat Tempo Mapped-38.L   ,00:04:29:29,00:04:30:07,00:00:00:07,Unmuted,8099,7,1
 1,690,Heartbeat Tempo Mapped-39.L   ,00:04:30:09,00:04:30:26,00:00:00:17,Unmuted,8109,17,0
 1,691,Heartbeat Tempo Mapped-40.L   ,00:04:30:28,00:04:31:05,00:00:00:07,Unmuted,8128,7,1
-1,693,Heartbeat Tempo Mapped-42.L   ,00:04:31:07,00:04:31:24,00:00:00:16,Unmuted,8137,16,1
-1,694,Heartbeat Tempo Mapped-34.L   ,00:04:31:26,00:04:32:03,00:00:00:07,Unmuted,8156,7,0
-1,695,Heartbeat Tempo Mapped-35.L   ,00:04:32:04,00:04:32:22,00:00:00:17,Unmuted,8164,17,1
-1,696,Heartbeat Tempo Mapped-36.L   ,00:04:32:24,00:04:33:01,00:00:00:07,Unmuted,8184,7,0
-1,697,Heartbeat Tempo Mapped-37.L   ,00:04:33:02,00:04:33:20,00:00:00:17,Unmuted,8192,17,1
-1,698,Heartbeat Tempo Mapped-38.L   ,00:04:33:22,00:04:34:00,00:00:00:07,Unmuted,8212,7,0
-1,699,Heartbeat Tempo Mapped-39.L   ,00:04:34:01,00:04:34:18,00:00:00:17,Unmuted,8221,17,1
-1,700,Heartbeat Tempo Mapped-40.L   ,00:04:34:20,00:04:34:28,00:00:00:07,Unmuted,8240,7,0
+1,693,Heartbeat Tempo Mapped-42.L   ,00:04:31:07,00:04:31:24,00:00:00:16,Unmuted,8137,16,0
+1,694,Heartbeat Tempo Mapped-34.L   ,00:04:31:26,00:04:32:03,00:00:00:07,Unmuted,8156,7,1
+1,695,Heartbeat Tempo Mapped-35.L   ,00:04:32:04,00:04:32:22,00:00:00:17,Unmuted,8164,17,0
+1,696,Heartbeat Tempo Mapped-36.L   ,00:04:32:24,00:04:33:01,00:00:00:07,Unmuted,8184,7,1
+1,697,Heartbeat Tempo Mapped-37.L   ,00:04:33:02,00:04:33:20,00:00:00:17,Unmuted,8192,17,0
+1,698,Heartbeat Tempo Mapped-38.L   ,00:04:33:22,00:04:34:00,00:00:00:07,Unmuted,8212,7,1
+1,699,Heartbeat Tempo Mapped-39.L   ,00:04:34:01,00:04:34:18,00:00:00:17,Unmuted,8221,17,0
+1,700,Heartbeat Tempo Mapped-40.L   ,00:04:34:20,00:04:34:28,00:00:00:07,Unmuted,8240,7,1
 1,702,Heartbeat Tempo Mapped-42.L   ,00:04:34:29,00:04:35:16,00:00:00:16,Unmuted,8249,16,0
 1,703,Heartbeat Tempo Mapped-34.L   ,00:04:35:18,00:04:35:26,00:00:00:07,Unmuted,8268,7,1
 1,704,Heartbeat Tempo Mapped-35.L   ,00:04:35:27,00:04:36:15,00:00:00:17,Unmuted,8277,17,0
@@ -631,14 +631,14 @@ CHANNEL,EVENT,CLIP NAME,START TIME,END TIME,DURATION,STATE,Frames,Runtime,Beats
 1,707,Heartbeat Tempo Mapped-38.L   ,00:04:37:15,00:04:37:23,00:00:00:07,Unmuted,8325,7,1
 1,708,Heartbeat Tempo Mapped-39.L   ,00:04:37:24,00:04:38:11,00:00:00:17,Unmuted,8334,17,0
 1,709,Heartbeat Tempo Mapped-40.L   ,00:04:38:13,00:04:38:21,00:00:00:07,Unmuted,8353,7,1
-1,711,Heartbeat Tempo Mapped-42.L   ,00:04:38:22,00:04:39:09,00:00:00:16,Unmuted,8362,16,1
-1,712,Heartbeat Tempo Mapped-34.L   ,00:04:39:12,00:04:39:19,00:00:00:07,Unmuted,8382,7,0
-1,713,Heartbeat Tempo Mapped-35.L   ,00:04:39:20,00:04:40:08,00:00:00:17,Unmuted,8390,17,1
-1,714,Heartbeat Tempo Mapped-36.L   ,00:04:40:10,00:04:40:17,00:00:00:07,Unmuted,8410,7,0
-1,715,Heartbeat Tempo Mapped-37.L   ,00:04:40:19,00:04:41:06,00:00:00:17,Unmuted,8419,17,1
-1,716,Heartbeat Tempo Mapped-38.L   ,00:04:41:08,00:04:41:16,00:00:00:07,Unmuted,8438,7,0
-1,717,Heartbeat Tempo Mapped-39.L   ,00:04:41:18,00:04:42:05,00:00:00:17,Unmuted,8448,17,1
-1,718,Heartbeat Tempo Mapped-40.L   ,00:04:42:07,00:04:42:14,00:00:00:07,Unmuted,8467,7,0
+1,711,Heartbeat Tempo Mapped-42.L   ,00:04:38:22,00:04:39:09,00:00:00:16,Unmuted,8362,16,0
+1,712,Heartbeat Tempo Mapped-34.L   ,00:04:39:12,00:04:39:19,00:00:00:07,Unmuted,8382,7,1
+1,713,Heartbeat Tempo Mapped-35.L   ,00:04:39:20,00:04:40:08,00:00:00:17,Unmuted,8390,17,0
+1,714,Heartbeat Tempo Mapped-36.L   ,00:04:40:10,00:04:40:17,00:00:00:07,Unmuted,8410,7,1
+1,715,Heartbeat Tempo Mapped-37.L   ,00:04:40:19,00:04:41:06,00:00:00:17,Unmuted,8419,17,0
+1,716,Heartbeat Tempo Mapped-38.L   ,00:04:41:08,00:04:41:16,00:00:00:07,Unmuted,8438,7,1
+1,717,Heartbeat Tempo Mapped-39.L   ,00:04:41:18,00:04:42:05,00:00:00:17,Unmuted,8448,17,0
+1,718,Heartbeat Tempo Mapped-40.L   ,00:04:42:07,00:04:42:14,00:00:00:07,Unmuted,8467,7,1
 1,720,Heartbeat Tempo Mapped-42.L   ,00:04:42:16,00:04:43:03,00:00:00:16,Unmuted,8476,16,0
 1,721,Heartbeat Tempo Mapped-34.L   ,00:04:43:05,00:04:43:12,00:00:00:07,Unmuted,8495,7,1
 1,722,Heartbeat Tempo Mapped-35.L   ,00:04:43:14,00:04:44:01,00:00:00:17,Unmuted,8504,17,0
@@ -647,14 +647,14 @@ CHANNEL,EVENT,CLIP NAME,START TIME,END TIME,DURATION,STATE,Frames,Runtime,Beats
 1,725,Heartbeat Tempo Mapped-38.L   ,00:04:45:02,00:04:45:10,00:00:00:07,Unmuted,8552,7,1
 1,726,Heartbeat Tempo Mapped-39.L   ,00:04:45:11,00:04:45:28,00:00:00:17,Unmuted,8561,17,0
 1,727,Heartbeat Tempo Mapped-40.L   ,00:04:46:01,00:04:46:08,00:00:00:07,Unmuted,8581,7,1
-1,729,Heartbeat Tempo Mapped-42.L   ,00:04:46:10,00:04:46:27,00:00:00:16,Unmuted,8590,16,1
-1,730,Heartbeat Tempo Mapped-34.L   ,00:04:46:29,00:04:47:06,00:00:00:07,Unmuted,8609,7,0
-1,731,Heartbeat Tempo Mapped-35.L   ,00:04:47:08,00:04:47:25,00:00:00:17,Unmuted,8618,17,1
-1,732,Heartbeat Tempo Mapped-36.L   ,00:04:47:28,00:04:48:05,00:00:00:07,Unmuted,8638,7,0
-1,733,Heartbeat Tempo Mapped-37.L   ,00:04:48:07,00:04:48:24,00:00:00:17,Unmuted,8647,17,1
-1,734,Heartbeat Tempo Mapped-38.L   ,00:04:48:26,00:04:49:04,00:00:00:07,Unmuted,8666,7,0
-1,735,Heartbeat Tempo Mapped-39.L   ,00:04:49:06,00:04:49:23,00:00:00:17,Unmuted,8676,17,1
-1,736,Heartbeat Tempo Mapped-40.L   ,00:04:49:25,00:04:50:03,00:00:00:07,Unmuted,8695,7,0
+1,729,Heartbeat Tempo Mapped-42.L   ,00:04:46:10,00:04:46:27,00:00:00:16,Unmuted,8590,16,0
+1,730,Heartbeat Tempo Mapped-34.L   ,00:04:46:29,00:04:47:06,00:00:00:07,Unmuted,8609,7,1
+1,731,Heartbeat Tempo Mapped-35.L   ,00:04:47:08,00:04:47:25,00:00:00:17,Unmuted,8618,17,0
+1,732,Heartbeat Tempo Mapped-36.L   ,00:04:47:28,00:04:48:05,00:00:00:07,Unmuted,8638,7,1
+1,733,Heartbeat Tempo Mapped-37.L   ,00:04:48:07,00:04:48:24,00:00:00:17,Unmuted,8647,17,0
+1,734,Heartbeat Tempo Mapped-38.L   ,00:04:48:26,00:04:49:04,00:00:00:07,Unmuted,8666,7,1
+1,735,Heartbeat Tempo Mapped-39.L   ,00:04:49:06,00:04:49:23,00:00:00:17,Unmuted,8676,17,0
+1,736,Heartbeat Tempo Mapped-40.L   ,00:04:49:25,00:04:50:03,00:00:00:07,Unmuted,8695,7,1
 1,738,Heartbeat Tempo Mapped-42.L   ,00:04:50:04,00:04:50:21,00:00:00:16,Unmuted,8704,16,0
 1,739,Heartbeat Tempo Mapped-34.L   ,00:04:50:24,00:04:51:01,00:00:00:07,Unmuted,8724,7,1
 1,740,Heartbeat Tempo Mapped-35.L   ,00:04:51:02,00:04:51:20,00:00:00:17,Unmuted,8732,17,0
@@ -663,14 +663,14 @@ CHANNEL,EVENT,CLIP NAME,START TIME,END TIME,DURATION,STATE,Frames,Runtime,Beats
 1,743,Heartbeat Tempo Mapped-38.L   ,00:04:52:21,00:04:52:29,00:00:00:07,Unmuted,8781,7,1
 1,744,Heartbeat Tempo Mapped-39.L   ,00:04:53:00,00:04:53:17,00:00:00:17,Unmuted,8790,17,0
 1,745,Heartbeat Tempo Mapped-40.L   ,00:04:53:20,00:04:53:27,00:00:00:07,Unmuted,8810,7,1
-1,747,Heartbeat Tempo Mapped-42.L   ,00:04:53:29,00:04:54:16,00:00:00:16,Unmuted,8819,16,1
-1,748,Heartbeat Tempo Mapped-34.L   ,00:04:54:19,00:04:54:26,00:00:00:07,Unmuted,8839,7,0
-1,749,Heartbeat Tempo Mapped-35.L   ,00:04:54:27,00:04:55:15,00:00:00:17,Unmuted,8847,17,1
-1,750,Heartbeat Tempo Mapped-36.L   ,00:04:55:18,00:04:55:25,00:00:00:07,Unmuted,8868,7,0
-1,751,Heartbeat Tempo Mapped-37.L   ,00:04:55:26,00:04:56:14,00:00:00:17,Unmuted,8876,17,1
-1,752,Heartbeat Tempo Mapped-38.L   ,00:04:56:16,00:04:56:24,00:00:00:07,Unmuted,8896,7,0
-1,753,Heartbeat Tempo Mapped-39.L   ,00:04:56:26,00:04:57:13,00:00:00:17,Unmuted,8906,17,1
-1,754,Heartbeat Tempo Mapped-40.L   ,00:04:57:15,00:04:57:23,00:00:00:07,Unmuted,8925,7,0
+1,747,Heartbeat Tempo Mapped-42.L   ,00:04:53:29,00:04:54:16,00:00:00:16,Unmuted,8819,16,0
+1,748,Heartbeat Tempo Mapped-34.L   ,00:04:54:19,00:04:54:26,00:00:00:07,Unmuted,8839,7,1
+1,749,Heartbeat Tempo Mapped-35.L   ,00:04:54:27,00:04:55:15,00:00:00:17,Unmuted,8847,17,0
+1,750,Heartbeat Tempo Mapped-36.L   ,00:04:55:18,00:04:55:25,00:00:00:07,Unmuted,8868,7,1
+1,751,Heartbeat Tempo Mapped-37.L   ,00:04:55:26,00:04:56:14,00:00:00:17,Unmuted,8876,17,0
+1,752,Heartbeat Tempo Mapped-38.L   ,00:04:56:16,00:04:56:24,00:00:00:07,Unmuted,8896,7,1
+1,753,Heartbeat Tempo Mapped-39.L   ,00:04:56:26,00:04:57:13,00:00:00:17,Unmuted,8906,17,0
+1,754,Heartbeat Tempo Mapped-40.L   ,00:04:57:15,00:04:57:23,00:00:00:07,Unmuted,8925,7,1
 1,756,Heartbeat Tempo Mapped-42.L   ,00:04:57:24,00:04:58:11,00:00:00:16,Unmuted,8934,16,0
 1,757,Heartbeat Tempo Mapped-34.L   ,00:04:58:14,00:04:58:21,00:00:00:07,Unmuted,8954,7,1
 1,758,Heartbeat Tempo Mapped-35.L   ,00:04:58:23,00:04:59:10,00:00:00:17,Unmuted,8963,17,0
@@ -679,14 +679,14 @@ CHANNEL,EVENT,CLIP NAME,START TIME,END TIME,DURATION,STATE,Frames,Runtime,Beats
 1,761,Heartbeat Tempo Mapped-38.L   ,00:05:00:12,00:05:00:20,00:00:00:07,Unmuted,9012,7,1
 1,762,Heartbeat Tempo Mapped-39.L   ,00:05:00:21,00:05:01:08,00:00:00:17,Unmuted,9021,17,0
 1,763,Heartbeat Tempo Mapped-40.L   ,00:05:01:11,00:05:01:18,00:00:00:07,Unmuted,9041,7,1
-1,765,Heartbeat Tempo Mapped-42.L   ,00:05:01:20,00:05:02:07,00:00:00:16,Unmuted,9050,16,1
-1,766,Heartbeat Tempo Mapped-34.L   ,00:05:02:10,00:05:02:17,00:00:00:07,Unmuted,9070,7,0
-1,767,Heartbeat Tempo Mapped-35.L   ,00:05:02:19,00:05:03:06,00:00:00:17,Unmuted,9079,17,1
-1,768,Heartbeat Tempo Mapped-36.L   ,00:05:03:09,00:05:03:16,00:00:00:07,Unmuted,9099,7,0
-1,769,Heartbeat Tempo Mapped-37.L   ,00:05:03:18,00:05:04:05,00:00:00:17,Unmuted,9108,17,1
-1,770,Heartbeat Tempo Mapped-38.L   ,00:05:04:08,00:05:04:16,00:00:00:07,Unmuted,9128,7,0
-1,771,Heartbeat Tempo Mapped-39.L   ,00:05:04:17,00:05:05:04,00:00:00:17,Unmuted,9137,17,1
-1,772,Heartbeat Tempo Mapped-40.L   ,00:05:05:07,00:05:05:15,00:00:00:07,Unmuted,9157,7,0
+1,765,Heartbeat Tempo Mapped-42.L   ,00:05:01:20,00:05:02:07,00:00:00:16,Unmuted,9050,16,0
+1,766,Heartbeat Tempo Mapped-34.L   ,00:05:02:10,00:05:02:17,00:00:00:07,Unmuted,9070,7,1
+1,767,Heartbeat Tempo Mapped-35.L   ,00:05:02:19,00:05:03:06,00:00:00:17,Unmuted,9079,17,0
+1,768,Heartbeat Tempo Mapped-36.L   ,00:05:03:09,00:05:03:16,00:00:00:07,Unmuted,9099,7,1
+1,769,Heartbeat Tempo Mapped-37.L   ,00:05:03:18,00:05:04:05,00:00:00:17,Unmuted,9108,17,0
+1,770,Heartbeat Tempo Mapped-38.L   ,00:05:04:08,00:05:04:16,00:00:00:07,Unmuted,9128,7,1
+1,771,Heartbeat Tempo Mapped-39.L   ,00:05:04:17,00:05:05:04,00:00:00:17,Unmuted,9137,17,0
+1,772,Heartbeat Tempo Mapped-40.L   ,00:05:05:07,00:05:05:15,00:00:00:07,Unmuted,9157,7,1
 1,774,Heartbeat Tempo Mapped-42.L   ,00:05:05:16,00:05:06:03,00:00:00:16,Unmuted,9166,16,0
 1,775,Heartbeat Tempo Mapped-34.L   ,00:05:06:06,00:05:06:13,00:00:00:07,Unmuted,9186,7,1
 1,776,Heartbeat Tempo Mapped-35.L   ,00:05:06:15,00:05:07:03,00:00:00:17,Unmuted,9195,17,0
@@ -695,14 +695,14 @@ CHANNEL,EVENT,CLIP NAME,START TIME,END TIME,DURATION,STATE,Frames,Runtime,Beats
 1,779,Heartbeat Tempo Mapped-38.L   ,00:05:08:04,00:05:08:12,00:00:00:07,Unmuted,9244,7,1
 1,780,Heartbeat Tempo Mapped-39.L   ,00:05:08:14,00:05:09:01,00:00:00:17,Unmuted,9254,17,0
 1,781,Heartbeat Tempo Mapped-40.L   ,00:05:09:04,00:05:09:11,00:00:00:07,Unmuted,9274,7,1
-1,783,Heartbeat Tempo Mapped-42.L   ,00:05:09:13,00:05:10:00,00:00:00:16,Unmuted,9283,16,1
-1,784,Heartbeat Tempo Mapped-34.L   ,00:05:10:03,00:05:10:10,00:00:00:07,Unmuted,9303,7,0
-1,785,Heartbeat Tempo Mapped-35.L   ,00:05:10:12,00:05:10:29,00:00:00:17,Unmuted,9312,17,1
-1,786,Heartbeat Tempo Mapped-36.L   ,00:05:11:02,00:05:11:10,00:00:00:07,Unmuted,9332,7,0
-1,787,Heartbeat Tempo Mapped-37.L   ,00:05:11:11,00:05:11:28,00:00:00:17,Unmuted,9341,17,1
-1,788,Heartbeat Tempo Mapped-38.L   ,00:05:12:01,00:05:12:09,00:00:00:07,Unmuted,9361,7,0
-1,789,Heartbeat Tempo Mapped-39.L   ,00:05:12:11,00:05:12:28,00:00:00:17,Unmuted,9371,17,1
-1,790,Heartbeat Tempo Mapped-40.L   ,00:05:13:01,00:05:13:08,00:00:00:07,Unmuted,9391,7,0
+1,783,Heartbeat Tempo Mapped-42.L   ,00:05:09:13,00:05:10:00,00:00:00:16,Unmuted,9283,16,0
+1,784,Heartbeat Tempo Mapped-34.L   ,00:05:10:03,00:05:10:10,00:00:00:07,Unmuted,9303,7,1
+1,785,Heartbeat Tempo Mapped-35.L   ,00:05:10:12,00:05:10:29,00:00:00:17,Unmuted,9312,17,0
+1,786,Heartbeat Tempo Mapped-36.L   ,00:05:11:02,00:05:11:10,00:00:00:07,Unmuted,9332,7,1
+1,787,Heartbeat Tempo Mapped-37.L   ,00:05:11:11,00:05:11:28,00:00:00:17,Unmuted,9341,17,0
+1,788,Heartbeat Tempo Mapped-38.L   ,00:05:12:01,00:05:12:09,00:00:00:07,Unmuted,9361,7,1
+1,789,Heartbeat Tempo Mapped-39.L   ,00:05:12:11,00:05:12:28,00:00:00:17,Unmuted,9371,17,0
+1,790,Heartbeat Tempo Mapped-40.L   ,00:05:13:01,00:05:13:08,00:00:00:07,Unmuted,9391,7,1
 1,792,Heartbeat Tempo Mapped-42.L   ,00:05:13:10,00:05:13:27,00:00:00:16,Unmuted,9400,16,0
 1,793,Heartbeat Tempo Mapped-34.L   ,00:05:14:00,00:05:14:07,00:00:00:07,Unmuted,9420,7,1
 1,794,Heartbeat Tempo Mapped-35.L   ,00:05:14:09,00:05:14:27,00:00:00:17,Unmuted,9429,17,0
@@ -711,14 +711,14 @@ CHANNEL,EVENT,CLIP NAME,START TIME,END TIME,DURATION,STATE,Frames,Runtime,Beats
 1,797,Heartbeat Tempo Mapped-38.L   ,00:05:15:29,00:05:16:07,00:00:00:07,Unmuted,9479,7,1
 1,798,Heartbeat Tempo Mapped-39.L   ,00:05:16:08,00:05:16:25,00:00:00:17,Unmuted,9488,17,0
 1,799,Heartbeat Tempo Mapped-40.L   ,00:05:16:28,00:05:17:06,00:00:00:07,Unmuted,9508,7,1
-1,801,Heartbeat Tempo Mapped-42.L   ,00:05:17:08,00:05:17:25,00:00:00:16,Unmuted,9518,16,1
-1,802,Heartbeat Tempo Mapped-34.L   ,00:05:17:28,00:05:18:05,00:00:00:07,Unmuted,9538,7,0
-1,803,Heartbeat Tempo Mapped-35.L   ,00:05:18:07,00:05:18:24,00:00:00:17,Unmuted,9547,17,1
-1,804,Heartbeat Tempo Mapped-36.L   ,00:05:18:27,00:05:19:05,00:00:00:07,Unmuted,9567,7,0
-1,805,Heartbeat Tempo Mapped-37.L   ,00:05:19:06,00:05:19:24,00:00:00:17,Unmuted,9576,17,1
-1,806,Heartbeat Tempo Mapped-38.L   ,00:05:19:27,00:05:20:05,00:00:00:07,Unmuted,9597,7,0
-1,807,Heartbeat Tempo Mapped-39.L   ,00:05:20:06,00:05:20:23,00:00:00:17,Unmuted,9606,17,1
-1,808,Heartbeat Tempo Mapped-40.L   ,00:05:20:26,00:05:21:04,00:00:00:07,Unmuted,9626,7,0
+1,801,Heartbeat Tempo Mapped-42.L   ,00:05:17:08,00:05:17:25,00:00:00:16,Unmuted,9518,16,0
+1,802,Heartbeat Tempo Mapped-34.L   ,00:05:17:28,00:05:18:05,00:00:00:07,Unmuted,9538,7,1
+1,803,Heartbeat Tempo Mapped-35.L   ,00:05:18:07,00:05:18:24,00:00:00:17,Unmuted,9547,17,0
+1,804,Heartbeat Tempo Mapped-36.L   ,00:05:18:27,00:05:19:05,00:00:00:07,Unmuted,9567,7,1
+1,805,Heartbeat Tempo Mapped-37.L   ,00:05:19:06,00:05:19:24,00:00:00:17,Unmuted,9576,17,0
+1,806,Heartbeat Tempo Mapped-38.L   ,00:05:19:27,00:05:20:05,00:00:00:07,Unmuted,9597,7,1
+1,807,Heartbeat Tempo Mapped-39.L   ,00:05:20:06,00:05:20:23,00:00:00:17,Unmuted,9606,17,0
+1,808,Heartbeat Tempo Mapped-40.L   ,00:05:20:26,00:05:21:04,00:00:00:07,Unmuted,9626,7,1
 1,810,Heartbeat Tempo Mapped-42.L   ,00:05:21:06,00:05:21:23,00:00:00:16,Unmuted,9636,16,0
 1,811,Heartbeat Tempo Mapped-34.L   ,00:05:21:26,00:05:22:03,00:00:00:07,Unmuted,9656,7,1
 1,812,Heartbeat Tempo Mapped-35.L   ,00:05:22:05,00:05:22:22,00:00:00:17,Unmuted,9665,17,0
@@ -727,14 +727,14 @@ CHANNEL,EVENT,CLIP NAME,START TIME,END TIME,DURATION,STATE,Frames,Runtime,Beats
 1,815,Heartbeat Tempo Mapped-38.L   ,00:05:23:25,00:05:24:03,00:00:00:07,Unmuted,9715,7,1
 1,816,Heartbeat Tempo Mapped-39.L   ,00:05:24:05,00:05:24:22,00:00:00:17,Unmuted,9725,17,0
 1,817,Heartbeat Tempo Mapped-40.L   ,00:05:24:25,00:05:25:02,00:00:00:07,Unmuted,9745,7,1
-1,819,Heartbeat Tempo Mapped-42.L   ,00:05:25:04,00:05:25:21,00:00:00:16,Unmuted,9754,16,1
-1,820,Heartbeat Tempo Mapped-34.L   ,00:05:25:25,00:05:26:02,00:00:00:07,Unmuted,9775,7,0
-1,821,Heartbeat Tempo Mapped-35.L   ,00:05:26:04,00:05:26:21,00:00:00:17,Unmuted,9784,17,1
-1,822,Heartbeat Tempo Mapped-36.L   ,00:05:26:24,00:05:27:02,00:00:00:07,Unmuted,9804,7,0
-1,823,Heartbeat Tempo Mapped-37.L   ,00:05:27:03,00:05:27:21,00:00:00:17,Unmuted,9813,17,1
-1,824,Heartbeat Tempo Mapped-38.L   ,00:05:27:24,00:05:28:02,00:00:00:07,Unmuted,9834,7,0
-1,825,Heartbeat Tempo Mapped-39.L   ,00:05:28:04,00:05:28:21,00:00:00:17,Unmuted,9844,17,1
-1,826,Heartbeat Tempo Mapped-40.L   ,00:05:28:24,00:05:29:01,00:00:00:07,Unmuted,9864,7,0
+1,819,Heartbeat Tempo Mapped-42.L   ,00:05:25:04,00:05:25:21,00:00:00:16,Unmuted,9754,16,0
+1,820,Heartbeat Tempo Mapped-34.L   ,00:05:25:25,00:05:26:02,00:00:00:07,Unmuted,9775,7,1
+1,821,Heartbeat Tempo Mapped-35.L   ,00:05:26:04,00:05:26:21,00:00:00:17,Unmuted,9784,17,0
+1,822,Heartbeat Tempo Mapped-36.L   ,00:05:26:24,00:05:27:02,00:00:00:07,Unmuted,9804,7,1
+1,823,Heartbeat Tempo Mapped-37.L   ,00:05:27:03,00:05:27:21,00:00:00:17,Unmuted,9813,17,0
+1,824,Heartbeat Tempo Mapped-38.L   ,00:05:27:24,00:05:28:02,00:00:00:07,Unmuted,9834,7,1
+1,825,Heartbeat Tempo Mapped-39.L   ,00:05:28:04,00:05:28:21,00:00:00:17,Unmuted,9844,17,0
+1,826,Heartbeat Tempo Mapped-40.L   ,00:05:28:24,00:05:29:01,00:00:00:07,Unmuted,9864,7,1
 1,828,Heartbeat Tempo Mapped-42.L   ,00:05:29:03,00:05:29:20,00:00:00:16,Unmuted,9873,16,0
 1,829,Heartbeat Tempo Mapped-34.L   ,00:05:29:24,00:05:30:01,00:00:00:07,Unmuted,9894,7,1
 1,830,Heartbeat Tempo Mapped-35.L   ,00:05:30:03,00:05:30:20,00:00:00:17,Unmuted,9903,17,0
@@ -743,14 +743,14 @@ CHANNEL,EVENT,CLIP NAME,START TIME,END TIME,DURATION,STATE,Frames,Runtime,Beats
 1,833,Heartbeat Tempo Mapped-38.L   ,00:05:31:23,00:05:32:01,00:00:00:07,Unmuted,9953,7,1
 1,834,Heartbeat Tempo Mapped-39.L   ,00:05:32:03,00:05:32:20,00:00:00:17,Unmuted,9963,17,0
 1,835,Heartbeat Tempo Mapped-40.L   ,00:05:32:23,00:05:33:01,00:00:00:07,Unmuted,9983,7,1
-1,837,Heartbeat Tempo Mapped-42.L   ,00:05:33:03,00:05:33:20,00:00:00:16,Unmuted,9993,16,1
-1,838,Heartbeat Tempo Mapped-34.L   ,00:05:33:23,00:05:34:00,00:00:00:07,Unmuted,10013,7,0
-1,839,Heartbeat Tempo Mapped-35.L   ,00:05:34:02,00:05:34:20,00:00:00:17,Unmuted,10022,17,1
-1,840,Heartbeat Tempo Mapped-36.L   ,00:05:34:23,00:05:35:01,00:00:00:07,Unmuted,10043,7,0
-1,841,Heartbeat Tempo Mapped-37.L   ,00:05:35:02,00:05:35:20,00:00:00:17,Unmuted,10052,17,1
-1,842,Heartbeat Tempo Mapped-38.L   ,00:05:35:23,00:05:36:01,00:00:00:07,Unmuted,10073,7,0
-1,843,Heartbeat Tempo Mapped-39.L   ,00:05:36:03,00:05:36:20,00:00:00:17,Unmuted,10083,17,1
-1,844,Heartbeat Tempo Mapped-40.L   ,00:05:36:23,00:05:37:01,00:00:00:07,Unmuted,10103,7,0
+1,837,Heartbeat Tempo Mapped-42.L   ,00:05:33:03,00:05:33:20,00:00:00:16,Unmuted,9993,16,0
+1,838,Heartbeat Tempo Mapped-34.L   ,00:05:33:23,00:05:34:00,00:00:00:07,Unmuted,10013,7,1
+1,839,Heartbeat Tempo Mapped-35.L   ,00:05:34:02,00:05:34:20,00:00:00:17,Unmuted,10022,17,0
+1,840,Heartbeat Tempo Mapped-36.L   ,00:05:34:23,00:05:35:01,00:00:00:07,Unmuted,10043,7,1
+1,841,Heartbeat Tempo Mapped-37.L   ,00:05:35:02,00:05:35:20,00:00:00:17,Unmuted,10052,17,0
+1,842,Heartbeat Tempo Mapped-38.L   ,00:05:35:23,00:05:36:01,00:00:00:07,Unmuted,10073,7,1
+1,843,Heartbeat Tempo Mapped-39.L   ,00:05:36:03,00:05:36:20,00:00:00:17,Unmuted,10083,17,0
+1,844,Heartbeat Tempo Mapped-40.L   ,00:05:36:23,00:05:37:01,00:00:00:07,Unmuted,10103,7,1
 1,846,Heartbeat Tempo Mapped-42.L   ,00:05:37:03,00:05:37:20,00:00:00:16,Unmuted,10113,16,0
 1,847,Heartbeat Tempo Mapped-34.L   ,00:05:37:23,00:05:38:01,00:00:00:07,Unmuted,10133,7,1
 1,848,Heartbeat Tempo Mapped-35.L   ,00:05:38:02,00:05:38:20,00:00:00:17,Unmuted,10142,17,0
@@ -759,14 +759,14 @@ CHANNEL,EVENT,CLIP NAME,START TIME,END TIME,DURATION,STATE,Frames,Runtime,Beats
 1,851,Heartbeat Tempo Mapped-38.L   ,00:05:39:23,00:05:40:01,00:00:00:07,Unmuted,10193,7,1
 1,852,Heartbeat Tempo Mapped-39.L   ,00:05:40:03,00:05:40:20,00:00:00:17,Unmuted,10203,17,0
 1,853,Heartbeat Tempo Mapped-40.L   ,00:05:40:24,00:05:41:01,00:00:00:07,Unmuted,10224,7,1
-1,855,Heartbeat Tempo Mapped-42.L   ,00:05:41:03,00:05:41:20,00:00:00:16,Unmuted,10233,16,1
-1,856,Heartbeat Tempo Mapped-34.L   ,00:05:41:24,00:05:42:01,00:00:00:07,Unmuted,10254,7,0
-1,857,Heartbeat Tempo Mapped-35.L   ,00:05:42:03,00:05:42:21,00:00:00:17,Unmuted,10263,17,1
-1,858,Heartbeat Tempo Mapped-36.L   ,00:05:42:24,00:05:43:02,00:00:00:07,Unmuted,10284,7,0
-1,859,Heartbeat Tempo Mapped-37.L   ,00:05:43:03,00:05:43:21,00:00:00:17,Unmuted,10293,17,1
-1,860,Heartbeat Tempo Mapped-38.L   ,00:05:43:24,00:05:44:02,00:00:00:07,Unmuted,10314,7,0
-1,861,Heartbeat Tempo Mapped-39.L   ,00:05:44:04,00:05:44:21,00:00:00:17,Unmuted,10324,17,1
-1,862,Heartbeat Tempo Mapped-40.L   ,00:05:44:25,00:05:45:02,00:00:00:07,Unmuted,10345,7,0
+1,855,Heartbeat Tempo Mapped-42.L   ,00:05:41:03,00:05:41:20,00:00:00:16,Unmuted,10233,16,0
+1,856,Heartbeat Tempo Mapped-34.L   ,00:05:41:24,00:05:42:01,00:00:00:07,Unmuted,10254,7,1
+1,857,Heartbeat Tempo Mapped-35.L   ,00:05:42:03,00:05:42:21,00:00:00:17,Unmuted,10263,17,0
+1,858,Heartbeat Tempo Mapped-36.L   ,00:05:42:24,00:05:43:02,00:00:00:07,Unmuted,10284,7,1
+1,859,Heartbeat Tempo Mapped-37.L   ,00:05:43:03,00:05:43:21,00:00:00:17,Unmuted,10293,17,0
+1,860,Heartbeat Tempo Mapped-38.L   ,00:05:43:24,00:05:44:02,00:00:00:07,Unmuted,10314,7,1
+1,861,Heartbeat Tempo Mapped-39.L   ,00:05:44:04,00:05:44:21,00:00:00:17,Unmuted,10324,17,0
+1,862,Heartbeat Tempo Mapped-40.L   ,00:05:44:25,00:05:45:02,00:00:00:07,Unmuted,10345,7,1
 1,864,Heartbeat Tempo Mapped-42.L   ,00:05:45:04,00:05:45:21,00:00:00:16,Unmuted,10354,16,0
 1,865,Heartbeat Tempo Mapped-34.L   ,00:05:45:25,00:05:46:02,00:00:00:07,Unmuted,10375,7,1
 1,866,Heartbeat Tempo Mapped-35.L   ,00:05:46:04,00:05:46:22,00:00:00:17,Unmuted,10384,17,0
@@ -775,14 +775,14 @@ CHANNEL,EVENT,CLIP NAME,START TIME,END TIME,DURATION,STATE,Frames,Runtime,Beats
 1,869,Heartbeat Tempo Mapped-38.L   ,00:05:47:26,00:05:48:03,00:00:00:07,Unmuted,10436,7,1
 1,870,Heartbeat Tempo Mapped-39.L   ,00:05:48:06,00:05:48:23,00:00:00:17,Unmuted,10446,17,0
 1,871,Heartbeat Tempo Mapped-40.L   ,00:05:48:26,00:05:49:04,00:00:00:07,Unmuted,10466,7,1
-1,873,Heartbeat Tempo Mapped-42.L   ,00:05:49:06,00:05:49:23,00:00:00:16,Unmuted,10476,16,1
-1,874,Heartbeat Tempo Mapped-34.L   ,00:05:49:27,00:05:50:04,00:00:00:07,Unmuted,10497,7,0
-1,875,Heartbeat Tempo Mapped-35.L   ,00:05:50:06,00:05:50:23,00:00:00:17,Unmuted,10506,17,1
-1,876,Heartbeat Tempo Mapped-36.L   ,00:05:50:27,00:05:51:04,00:00:00:07,Unmuted,10527,7,0
-1,877,Heartbeat Tempo Mapped-37.L   ,00:05:51:06,00:05:51:24,00:00:00:17,Unmuted,10536,17,1
-1,878,Heartbeat Tempo Mapped-38.L   ,00:05:51:27,00:05:52:05,00:00:00:07,Unmuted,10557,7,0
-1,879,Heartbeat Tempo Mapped-39.L   ,00:05:52:07,00:05:52:24,00:00:00:17,Unmuted,10567,17,1
-1,880,Heartbeat Tempo Mapped-40.L   ,00:05:52:28,00:05:53:06,00:00:00:07,Unmuted,10588,7,0
+1,873,Heartbeat Tempo Mapped-42.L   ,00:05:49:06,00:05:49:23,00:00:00:16,Unmuted,10476,16,0
+1,874,Heartbeat Tempo Mapped-34.L   ,00:05:49:27,00:05:50:04,00:00:00:07,Unmuted,10497,7,1
+1,875,Heartbeat Tempo Mapped-35.L   ,00:05:50:06,00:05:50:23,00:00:00:17,Unmuted,10506,17,0
+1,876,Heartbeat Tempo Mapped-36.L   ,00:05:50:27,00:05:51:04,00:00:00:07,Unmuted,10527,7,1
+1,877,Heartbeat Tempo Mapped-37.L   ,00:05:51:06,00:05:51:24,00:00:00:17,Unmuted,10536,17,0
+1,878,Heartbeat Tempo Mapped-38.L   ,00:05:51:27,00:05:52:05,00:00:00:07,Unmuted,10557,7,1
+1,879,Heartbeat Tempo Mapped-39.L   ,00:05:52:07,00:05:52:24,00:00:00:17,Unmuted,10567,17,0
+1,880,Heartbeat Tempo Mapped-40.L   ,00:05:52:28,00:05:53:06,00:00:00:07,Unmuted,10588,7,1
 1,882,Heartbeat Tempo Mapped-42.L   ,00:05:53:08,00:05:53:25,00:00:00:16,Unmuted,10598,16,0
 1,883,Heartbeat Tempo Mapped-34.L   ,00:05:53:29,00:05:54:06,00:00:00:07,Unmuted,10619,7,1
 1,884,Heartbeat Tempo Mapped-35.L   ,00:05:54:08,00:05:54:25,00:00:00:17,Unmuted,10628,17,0
@@ -791,14 +791,14 @@ CHANNEL,EVENT,CLIP NAME,START TIME,END TIME,DURATION,STATE,Frames,Runtime,Beats
 1,887,Heartbeat Tempo Mapped-38.L   ,00:05:56:00,00:05:56:08,00:00:00:07,Unmuted,10680,7,1
 1,888,Heartbeat Tempo Mapped-39.L   ,00:05:56:10,00:05:56:27,00:00:00:17,Unmuted,10690,17,0
 1,889,Heartbeat Tempo Mapped-40.L   ,00:05:57:00,00:05:57:08,00:00:00:07,Unmuted,10710,7,1
-1,891,Heartbeat Tempo Mapped-65.L   ,00:05:57:10,00:05:57:27,00:00:00:17,Unmuted,10720,17,1
-1,892,Heartbeat Tempo Mapped-34.L   ,00:05:58:01,00:05:58:08,00:00:00:07,Unmuted,10741,7,0
-1,893,Heartbeat Tempo Mapped-35.L   ,00:05:58:10,00:05:58:28,00:00:00:17,Unmuted,10750,17,1
-1,894,Heartbeat Tempo Mapped-36.L   ,00:05:59:02,00:05:59:09,00:00:00:07,Unmuted,10772,7,0
-1,895,Heartbeat Tempo Mapped-37.L   ,00:05:59:11,00:05:59:29,00:00:00:17,Unmuted,10781,17,1
-1,896,Heartbeat Tempo Mapped-38.L   ,00:06:00:02,00:06:00:10,00:00:00:07,Unmuted,10802,7,0
-1,897,Heartbeat Tempo Mapped-39.L   ,00:06:00:13,00:06:01:00,00:00:00:17,Unmuted,10813,17,1
-1,898,Heartbeat Tempo Mapped-40.L   ,00:06:01:03,00:06:01:11,00:00:00:07,Unmuted,10833,7,0
+1,891,Heartbeat Tempo Mapped-65.L   ,00:05:57:10,00:05:57:27,00:00:00:17,Unmuted,10720,17,0
+1,892,Heartbeat Tempo Mapped-34.L   ,00:05:58:01,00:05:58:08,00:00:00:07,Unmuted,10741,7,1
+1,893,Heartbeat Tempo Mapped-35.L   ,00:05:58:10,00:05:58:28,00:00:00:17,Unmuted,10750,17,0
+1,894,Heartbeat Tempo Mapped-36.L   ,00:05:59:02,00:05:59:09,00:00:00:07,Unmuted,10772,7,1
+1,895,Heartbeat Tempo Mapped-37.L   ,00:05:59:11,00:05:59:29,00:00:00:17,Unmuted,10781,17,0
+1,896,Heartbeat Tempo Mapped-38.L   ,00:06:00:02,00:06:00:10,00:00:00:07,Unmuted,10802,7,1
+1,897,Heartbeat Tempo Mapped-39.L   ,00:06:00:13,00:06:01:00,00:00:00:17,Unmuted,10813,17,0
+1,898,Heartbeat Tempo Mapped-40.L   ,00:06:01:03,00:06:01:11,00:00:00:07,Unmuted,10833,7,1
 1,900,Heartbeat Tempo Mapped-66.L   ,00:06:01:13,00:06:02:00,00:00:00:17,Unmuted,10843,17,0
 1,901,Heartbeat Tempo Mapped-34.L   ,00:06:02:04,00:06:02:11,00:00:00:07,Unmuted,10864,7,1
 1,902,Heartbeat Tempo Mapped-35.L   ,00:06:02:13,00:06:03:01,00:00:00:17,Unmuted,10873,17,0
@@ -807,14 +807,14 @@ CHANNEL,EVENT,CLIP NAME,START TIME,END TIME,DURATION,STATE,Frames,Runtime,Beats
 1,905,Heartbeat Tempo Mapped-38.L   ,00:06:04:06,00:06:04:14,00:00:00:07,Unmuted,10926,7,1
 1,906,Heartbeat Tempo Mapped-39.L   ,00:06:04:16,00:06:05:03,00:00:00:17,Unmuted,10936,17,0
 1,907,Heartbeat Tempo Mapped-40.L   ,00:06:05:07,00:06:05:15,00:00:00:07,Unmuted,10957,7,1
-1,909,Heartbeat Tempo Mapped-67.L   ,00:06:05:17,00:06:06:04,00:00:00:17,Unmuted,10967,17,1
-1,910,Heartbeat Tempo Mapped-34.L   ,00:06:06:09,00:06:06:16,00:00:00:07,Unmuted,10989,7,0
-1,911,Heartbeat Tempo Mapped-35.L   ,00:06:06:18,00:06:07:06,00:00:00:17,Unmuted,10998,17,1
-1,912,Heartbeat Tempo Mapped-36.L   ,00:06:07:11,00:06:07:18,00:00:00:07,Unmuted,11021,7,0
-1,913,Heartbeat Tempo Mapped-37.L   ,00:06:07:21,00:06:08:08,00:00:00:17,Unmuted,11031,17,1
-1,914,Heartbeat Tempo Mapped-38.L   ,00:06:08:13,00:06:08:21,00:00:00:07,Unmuted,11053,7,0
-1,915,Heartbeat Tempo Mapped-39.L   ,00:06:08:23,00:06:09:11,00:00:00:17,Unmuted,11063,17,1
-1,916,Heartbeat Tempo Mapped-40.L   ,00:06:09:16,00:06:09:23,00:00:00:07,Unmuted,11086,7,0
+1,909,Heartbeat Tempo Mapped-67.L   ,00:06:05:17,00:06:06:04,00:00:00:17,Unmuted,10967,17,0
+1,910,Heartbeat Tempo Mapped-34.L   ,00:06:06:09,00:06:06:16,00:00:00:07,Unmuted,10989,7,1
+1,911,Heartbeat Tempo Mapped-35.L   ,00:06:06:18,00:06:07:06,00:00:00:17,Unmuted,10998,17,0
+1,912,Heartbeat Tempo Mapped-36.L   ,00:06:07:11,00:06:07:18,00:00:00:07,Unmuted,11021,7,1
+1,913,Heartbeat Tempo Mapped-37.L   ,00:06:07:21,00:06:08:08,00:00:00:17,Unmuted,11031,17,0
+1,914,Heartbeat Tempo Mapped-38.L   ,00:06:08:13,00:06:08:21,00:00:00:07,Unmuted,11053,7,1
+1,915,Heartbeat Tempo Mapped-39.L   ,00:06:08:23,00:06:09:11,00:00:00:17,Unmuted,11063,17,0
+1,916,Heartbeat Tempo Mapped-40.L   ,00:06:09:16,00:06:09:23,00:00:00:07,Unmuted,11086,7,1
 1,918,Heartbeat Tempo Mapped-68.L   ,00:06:09:26,00:06:10:13,00:00:00:17,Unmuted,11096,17,0
 1,919,Heartbeat Tempo Mapped-34.L   ,00:06:10:19,00:06:10:26,00:00:00:07,Unmuted,11119,7,1
 1,920,Heartbeat Tempo Mapped-35.L   ,00:06:10:28,00:06:11:16,00:00:00:17,Unmuted,11128,17,0
@@ -823,14 +823,14 @@ CHANNEL,EVENT,CLIP NAME,START TIME,END TIME,DURATION,STATE,Frames,Runtime,Beats
 1,923,Heartbeat Tempo Mapped-38.L   ,00:06:12:25,00:06:13:03,00:00:00:07,Unmuted,11185,7,1
 1,924,Heartbeat Tempo Mapped-39.L   ,00:06:13:06,00:06:13:23,00:00:00:17,Unmuted,11196,17,0
 1,925,Heartbeat Tempo Mapped-40.L   ,00:06:13:29,00:06:14:07,00:00:00:07,Unmuted,11219,7,1
-1,927,Heartbeat Tempo Mapped-69.L   ,00:06:14:10,00:06:14:28,00:00:00:17,Unmuted,11230,17,1
-1,928,Heartbeat Tempo Mapped-34.L   ,00:06:15:04,00:06:15:11,00:00:00:07,Unmuted,11254,7,0
-1,929,Heartbeat Tempo Mapped-35.L   ,00:06:15:14,00:06:16:02,00:00:00:17,Unmuted,11264,17,1
-1,930,Heartbeat Tempo Mapped-36.L   ,00:06:16:09,00:06:16:16,00:00:00:07,Unmuted,11289,7,0
-1,931,Heartbeat Tempo Mapped-37.L   ,00:06:16:19,00:06:17:07,00:00:00:17,Unmuted,11299,17,1
-1,932,Heartbeat Tempo Mapped-38.L   ,00:06:17:14,00:06:17:22,00:00:00:07,Unmuted,11324,7,0
-1,933,Heartbeat Tempo Mapped-39.L   ,00:06:17:25,00:06:18:12,00:00:00:17,Unmuted,11335,17,1
-1,934,Heartbeat Tempo Mapped-40.L   ,00:06:18:20,00:06:18:27,00:00:00:07,Unmuted,11360,7,0
+1,927,Heartbeat Tempo Mapped-69.L   ,00:06:14:10,00:06:14:28,00:00:00:17,Unmuted,11230,17,0
+1,928,Heartbeat Tempo Mapped-34.L   ,00:06:15:04,00:06:15:11,00:00:00:07,Unmuted,11254,7,1
+1,929,Heartbeat Tempo Mapped-35.L   ,00:06:15:14,00:06:16:02,00:00:00:17,Unmuted,11264,17,0
+1,930,Heartbeat Tempo Mapped-36.L   ,00:06:16:09,00:06:16:16,00:00:00:07,Unmuted,11289,7,1
+1,931,Heartbeat Tempo Mapped-37.L   ,00:06:16:19,00:06:17:07,00:00:00:17,Unmuted,11299,17,0
+1,932,Heartbeat Tempo Mapped-38.L   ,00:06:17:14,00:06:17:22,00:00:00:07,Unmuted,11324,7,1
+1,933,Heartbeat Tempo Mapped-39.L   ,00:06:17:25,00:06:18:12,00:00:00:17,Unmuted,11335,17,0
+1,934,Heartbeat Tempo Mapped-40.L   ,00:06:18:20,00:06:18:27,00:00:00:07,Unmuted,11360,7,1
 1,936,Heartbeat Tempo Mapped-70.L   ,00:06:19:01,00:06:19:18,00:00:00:17,Unmuted,11371,17,0
 1,937,Heartbeat Tempo Mapped-34.L   ,00:06:19:26,00:06:20:03,00:00:00:07,Unmuted,11396,7,1
 1,938,Heartbeat Tempo Mapped-35.L   ,00:06:20:06,00:06:20:24,00:00:00:17,Unmuted,11406,17,0
@@ -839,14 +839,14 @@ CHANNEL,EVENT,CLIP NAME,START TIME,END TIME,DURATION,STATE,Frames,Runtime,Beats
 1,941,Heartbeat Tempo Mapped-38.L   ,00:06:22:09,00:06:22:17,00:00:00:07,Unmuted,11469,7,1
 1,942,Heartbeat Tempo Mapped-39.L   ,00:06:22:21,00:06:23:08,00:00:00:17,Unmuted,11481,17,0
 1,943,Heartbeat Tempo Mapped-40.L   ,00:06:23:16,00:06:23:24,00:00:00:07,Unmuted,11506,7,1
-1,945,Heartbeat Tempo Mapped-71.L   ,00:06:23:28,00:06:24:15,00:00:00:17,Unmuted,11518,17,1
-1,946,Heartbeat Tempo Mapped-34.L   ,00:06:24:24,00:06:25:01,00:00:00:07,Unmuted,11544,7,0
-1,947,Heartbeat Tempo Mapped-35.L   ,00:06:25:06,00:06:25:23,00:00:00:17,Unmuted,11556,17,1
-1,948,Heartbeat Tempo Mapped-36.L   ,00:06:26:02,00:06:26:10,00:00:00:07,Unmuted,11582,7,0
-1,949,Heartbeat Tempo Mapped-37.L   ,00:06:26:14,00:06:27:02,00:00:00:17,Unmuted,11594,17,1
-1,950,Heartbeat Tempo Mapped-38.L   ,00:06:27:11,00:06:27:19,00:00:00:07,Unmuted,11621,7,0
-1,951,Heartbeat Tempo Mapped-39.L   ,00:06:27:24,00:06:28:11,00:00:00:17,Unmuted,11634,17,1
-1,952,Heartbeat Tempo Mapped-40.L   ,00:06:28:20,00:06:28:28,00:00:00:07,Unmuted,11660,7,0
+1,945,Heartbeat Tempo Mapped-71.L   ,00:06:23:28,00:06:24:15,00:00:00:17,Unmuted,11518,17,0
+1,946,Heartbeat Tempo Mapped-34.L   ,00:06:24:24,00:06:25:01,00:00:00:07,Unmuted,11544,7,1
+1,947,Heartbeat Tempo Mapped-35.L   ,00:06:25:06,00:06:25:23,00:00:00:17,Unmuted,11556,17,0
+1,948,Heartbeat Tempo Mapped-36.L   ,00:06:26:02,00:06:26:10,00:00:00:07,Unmuted,11582,7,1
+1,949,Heartbeat Tempo Mapped-37.L   ,00:06:26:14,00:06:27:02,00:00:00:17,Unmuted,11594,17,0
+1,950,Heartbeat Tempo Mapped-38.L   ,00:06:27:11,00:06:27:19,00:00:00:07,Unmuted,11621,7,1
+1,951,Heartbeat Tempo Mapped-39.L   ,00:06:27:24,00:06:28:11,00:00:00:17,Unmuted,11634,17,0
+1,952,Heartbeat Tempo Mapped-40.L   ,00:06:28:20,00:06:28:28,00:00:00:07,Unmuted,11660,7,1
 1,954,Heartbeat Tempo Mapped-72.L   ,00:06:29:03,00:06:29:20,00:00:00:17,Unmuted,11673,17,0
 1,955,Heartbeat Tempo Mapped-34.L   ,00:06:30:00,00:06:30:07,00:00:00:07,Unmuted,11700,7,1
 1,956,Heartbeat Tempo Mapped-35.L   ,00:06:30:12,00:06:31:00,00:00:00:17,Unmuted,11712,17,0
@@ -855,14 +855,14 @@ CHANNEL,EVENT,CLIP NAME,START TIME,END TIME,DURATION,STATE,Frames,Runtime,Beats
 1,959,Heartbeat Tempo Mapped-38.L   ,00:06:32:21,00:06:32:29,00:00:00:07,Unmuted,11781,7,1
 1,960,Heartbeat Tempo Mapped-39.L   ,00:06:33:05,00:06:33:22,00:00:00:17,Unmuted,11795,17,0
 1,961,Heartbeat Tempo Mapped-40.L   ,00:06:34:03,00:06:34:10,00:00:00:07,Unmuted,11823,7,1
-1,963,Heartbeat Tempo Mapped-42.L   ,00:06:34:16,00:06:35:03,00:00:00:16,Unmuted,11836,16,1
-1,964,Heartbeat Tempo Mapped-34.L   ,00:06:35:15,00:06:35:22,00:00:00:07,Unmuted,11865,7,0
-1,965,Heartbeat Tempo Mapped-35.L   ,00:06:35:27,00:06:36:15,00:00:00:17,Unmuted,11877,17,1
-1,966,Heartbeat Tempo Mapped-36.L   ,00:06:36:27,00:06:37:05,00:00:00:07,Unmuted,11907,7,0
-1,967,Heartbeat Tempo Mapped-37.L   ,00:06:37:10,00:06:37:28,00:00:00:17,Unmuted,11920,17,1
-1,968,Heartbeat Tempo Mapped-38.L   ,00:06:38:10,00:06:38:18,00:00:00:07,Unmuted,11950,7,0
-1,969,Heartbeat Tempo Mapped-39.L   ,00:06:38:24,00:06:39:12,00:00:00:17,Unmuted,11964,17,1
-1,970,Heartbeat Tempo Mapped-40.L   ,00:06:39:24,00:06:40:02,00:00:00:07,Unmuted,11994,7,0
+1,963,Heartbeat Tempo Mapped-42.L   ,00:06:34:16,00:06:35:03,00:00:00:16,Unmuted,11836,16,0
+1,964,Heartbeat Tempo Mapped-34.L   ,00:06:35:15,00:06:35:22,00:00:00:07,Unmuted,11865,7,1
+1,965,Heartbeat Tempo Mapped-35.L   ,00:06:35:27,00:06:36:15,00:00:00:17,Unmuted,11877,17,0
+1,966,Heartbeat Tempo Mapped-36.L   ,00:06:36:27,00:06:37:05,00:00:00:07,Unmuted,11907,7,1
+1,967,Heartbeat Tempo Mapped-37.L   ,00:06:37:10,00:06:37:28,00:00:00:17,Unmuted,11920,17,0
+1,968,Heartbeat Tempo Mapped-38.L   ,00:06:38:10,00:06:38:18,00:00:00:07,Unmuted,11950,7,1
+1,969,Heartbeat Tempo Mapped-39.L   ,00:06:38:24,00:06:39:12,00:00:00:17,Unmuted,11964,17,0
+1,970,Heartbeat Tempo Mapped-40.L   ,00:06:39:24,00:06:40:02,00:00:00:07,Unmuted,11994,7,1
 1,972,Heartbeat Tempo Mapped-42.L   ,00:06:40:08,00:06:40:25,00:00:00:16,Unmuted,12008,16,0
 1,973,Heartbeat Tempo Mapped-34.L   ,00:06:41:09,00:06:41:16,00:00:00:07,Unmuted,12039,7,1
 1,974,Heartbeat Tempo Mapped-35.L   ,00:06:41:22,00:06:42:10,00:00:00:17,Unmuted,12052,17,0
@@ -871,14 +871,14 @@ CHANNEL,EVENT,CLIP NAME,START TIME,END TIME,DURATION,STATE,Frames,Runtime,Beats
 1,977,Heartbeat Tempo Mapped-38.L   ,00:06:44:09,00:06:44:17,00:00:00:07,Unmuted,12129,7,1
 1,978,Heartbeat Tempo Mapped-39.L   ,00:06:44:24,00:06:45:11,00:00:00:17,Unmuted,12144,17,0
 1,979,Heartbeat Tempo Mapped-40.L   ,00:06:45:26,00:06:46:03,00:00:00:07,Unmuted,12176,7,1
-1,981,Heartbeat Tempo Mapped-42.L   ,00:06:46:11,00:06:46:28,00:00:00:16,Unmuted,12191,16,1
-1,982,Heartbeat Tempo Mapped-34.L   ,00:06:47:13,00:06:47:20,00:00:00:07,Unmuted,12223,7,0
-1,983,Heartbeat Tempo Mapped-35.L   ,00:06:47:27,00:06:48:15,00:00:00:17,Unmuted,12237,17,1
-1,984,Heartbeat Tempo Mapped-36.L   ,00:06:49:01,00:06:49:08,00:00:00:07,Unmuted,12271,7,0
-1,985,Heartbeat Tempo Mapped-37.L   ,00:06:49:16,00:06:50:03,00:00:00:17,Unmuted,12286,17,1
-1,986,Heartbeat Tempo Mapped-38.L   ,00:06:50:19,00:06:50:27,00:00:00:07,Unmuted,12319,7,0
-1,987,Heartbeat Tempo Mapped-39.L   ,00:06:51:05,00:06:51:22,00:00:00:17,Unmuted,12335,17,1
-1,988,Heartbeat Tempo Mapped-40.L   ,00:06:52:09,00:06:52:16,00:00:00:07,Unmuted,12369,7,0
+1,981,Heartbeat Tempo Mapped-42.L   ,00:06:46:11,00:06:46:28,00:00:00:16,Unmuted,12191,16,0
+1,982,Heartbeat Tempo Mapped-34.L   ,00:06:47:13,00:06:47:20,00:00:00:07,Unmuted,12223,7,1
+1,983,Heartbeat Tempo Mapped-35.L   ,00:06:47:27,00:06:48:15,00:00:00:17,Unmuted,12237,17,0
+1,984,Heartbeat Tempo Mapped-36.L   ,00:06:49:01,00:06:49:08,00:00:00:07,Unmuted,12271,7,1
+1,985,Heartbeat Tempo Mapped-37.L   ,00:06:49:16,00:06:50:03,00:00:00:17,Unmuted,12286,17,0
+1,986,Heartbeat Tempo Mapped-38.L   ,00:06:50:19,00:06:50:27,00:00:00:07,Unmuted,12319,7,1
+1,987,Heartbeat Tempo Mapped-39.L   ,00:06:51:05,00:06:51:22,00:00:00:17,Unmuted,12335,17,0
+1,988,Heartbeat Tempo Mapped-40.L   ,00:06:52:09,00:06:52:16,00:00:00:07,Unmuted,12369,7,1
 1,990,Heartbeat Tempo Mapped-42.L   ,00:06:52:25,00:06:53:12,00:00:00:16,Unmuted,12385,16,0
 1,991,Heartbeat Tempo Mapped-34.L   ,00:06:53:29,00:06:54:06,00:00:00:07,Unmuted,12419,7,1
 1,992,Heartbeat Tempo Mapped-35.L   ,00:06:54:14,00:06:55:02,00:00:00:17,Unmuted,12434,17,0
@@ -887,14 +887,14 @@ CHANNEL,EVENT,CLIP NAME,START TIME,END TIME,DURATION,STATE,Frames,Runtime,Beats
 1,995,Heartbeat Tempo Mapped-38.L   ,00:06:57:12,00:06:57:20,00:00:00:07,Unmuted,12522,7,1
 1,996,Heartbeat Tempo Mapped-39.L   ,00:06:57:29,00:06:58:16,00:00:00:17,Unmuted,12539,17,0
 1,997,Heartbeat Tempo Mapped-40.L   ,00:06:59:05,00:06:59:12,00:00:00:07,Unmuted,12575,7,1
-1,999,Heartbeat Tempo Mapped-42.L   ,00:06:59:22,00:07:00:09,00:00:00:16,Unmuted,12592,16,1
-1,1000,Heartbeat Tempo Mapped-34.L   ,00:07:00:28,00:07:01:06,00:00:00:07,Unmuted,12628,7,0
-1,1001,Heartbeat Tempo Mapped-35.L   ,00:07:01:15,00:07:02:02,00:00:00:17,Unmuted,12645,17,1
-1,1002,Heartbeat Tempo Mapped-36.L   ,00:07:02:23,00:07:03:01,00:00:00:07,Unmuted,12683,7,0
-1,1003,Heartbeat Tempo Mapped-37.L   ,00:07:03:10,00:07:03:27,00:00:00:17,Unmuted,12700,17,1
-1,1004,Heartbeat Tempo Mapped-38.L   ,00:07:04:19,00:07:04:27,00:00:00:07,Unmuted,12739,7,0
-1,1005,Heartbeat Tempo Mapped-39.L   ,00:07:05:07,00:07:05:24,00:00:00:17,Unmuted,12757,17,1
-1,1006,Heartbeat Tempo Mapped-40.L   ,00:07:06:16,00:07:06:23,00:00:00:07,Unmuted,12796,7,0
+1,999,Heartbeat Tempo Mapped-42.L   ,00:06:59:22,00:07:00:09,00:00:00:16,Unmuted,12592,16,0
+1,1000,Heartbeat Tempo Mapped-34.L   ,00:07:00:28,00:07:01:06,00:00:00:07,Unmuted,12628,7,1
+1,1001,Heartbeat Tempo Mapped-35.L   ,00:07:01:15,00:07:02:02,00:00:00:17,Unmuted,12645,17,0
+1,1002,Heartbeat Tempo Mapped-36.L   ,00:07:02:23,00:07:03:01,00:00:00:07,Unmuted,12683,7,1
+1,1003,Heartbeat Tempo Mapped-37.L   ,00:07:03:10,00:07:03:27,00:00:00:17,Unmuted,12700,17,0
+1,1004,Heartbeat Tempo Mapped-38.L   ,00:07:04:19,00:07:04:27,00:00:00:07,Unmuted,12739,7,1
+1,1005,Heartbeat Tempo Mapped-39.L   ,00:07:05:07,00:07:05:24,00:00:00:17,Unmuted,12757,17,0
+1,1006,Heartbeat Tempo Mapped-40.L   ,00:07:06:16,00:07:06:23,00:00:00:07,Unmuted,12796,7,1
 1,1008,Heartbeat Tempo Mapped-42.L   ,00:07:07:04,00:07:07:21,00:00:00:16,Unmuted,12814,16,0
 1,1009,Heartbeat Tempo Mapped-34.L   ,00:07:08:13,00:07:08:21,00:00:00:07,Unmuted,12853,7,1
 1,1010,Heartbeat Tempo Mapped-35.L   ,00:07:09:01,00:07:09:19,00:00:00:17,Unmuted,12871,17,0
@@ -903,14 +903,14 @@ CHANNEL,EVENT,CLIP NAME,START TIME,END TIME,DURATION,STATE,Frames,Runtime,Beats
 1,1013,Heartbeat Tempo Mapped-38.L   ,00:07:12:12,00:07:12:20,00:00:00:07,Unmuted,12972,7,1
 1,1014,Heartbeat Tempo Mapped-39.L   ,00:07:13:02,00:07:13:19,00:00:00:17,Unmuted,12992,17,0
 1,1015,Heartbeat Tempo Mapped-40.L   ,00:07:14:14,00:07:14:21,00:00:00:07,Unmuted,13034,7,1
-1,1017,Heartbeat Tempo Mapped-42.L   ,00:07:15:04,00:07:15:20,00:00:00:16,Unmuted,13054,16,1
-1,1018,Heartbeat Tempo Mapped-34.L   ,00:07:16:16,00:07:16:23,00:00:00:07,Unmuted,13096,7,0
-1,1019,Heartbeat Tempo Mapped-35.L   ,00:07:17:05,00:07:17:23,00:00:00:17,Unmuted,13115,17,1
-1,1020,Heartbeat Tempo Mapped-36.L   ,00:07:18:20,00:07:18:27,00:00:00:07,Unmuted,13160,7,0
-1,1021,Heartbeat Tempo Mapped-37.L   ,00:07:19:10,00:07:19:27,00:00:00:17,Unmuted,13180,17,1
-1,1022,Heartbeat Tempo Mapped-38.L   ,00:07:20:25,00:07:21:03,00:00:00:07,Unmuted,13225,7,0
-1,1023,Heartbeat Tempo Mapped-39.L   ,00:07:21:16,00:07:22:03,00:00:00:17,Unmuted,13246,17,1
-1,1024,Heartbeat Tempo Mapped-40.L   ,00:07:23:02,00:07:23:09,00:00:00:07,Unmuted,13292,7,0
+1,1017,Heartbeat Tempo Mapped-42.L   ,00:07:15:04,00:07:15:20,00:00:00:16,Unmuted,13054,16,0
+1,1018,Heartbeat Tempo Mapped-34.L   ,00:07:16:16,00:07:16:23,00:00:00:07,Unmuted,13096,7,1
+1,1019,Heartbeat Tempo Mapped-35.L   ,00:07:17:05,00:07:17:23,00:00:00:17,Unmuted,13115,17,0
+1,1020,Heartbeat Tempo Mapped-36.L   ,00:07:18:20,00:07:18:27,00:00:00:07,Unmuted,13160,7,1
+1,1021,Heartbeat Tempo Mapped-37.L   ,00:07:19:10,00:07:19:27,00:00:00:17,Unmuted,13180,17,0
+1,1022,Heartbeat Tempo Mapped-38.L   ,00:07:20:25,00:07:21:03,00:00:00:07,Unmuted,13225,7,1
+1,1023,Heartbeat Tempo Mapped-39.L   ,00:07:21:16,00:07:22:03,00:00:00:17,Unmuted,13246,17,0
+1,1024,Heartbeat Tempo Mapped-40.L   ,00:07:23:02,00:07:23:09,00:00:00:07,Unmuted,13292,7,1
 1,1026,Heartbeat Tempo Mapped-42.L   ,00:07:23:23,00:07:24:10,00:00:00:16,Unmuted,13313,16,0
 1,1027,Heartbeat Tempo Mapped-34.L   ,00:07:25:10,00:07:25:17,00:00:00:07,Unmuted,13360,7,1
 1,1028,Heartbeat Tempo Mapped-35.L   ,00:07:26:00,00:07:26:18,00:00:00:17,Unmuted,13380,17,0
@@ -919,14 +919,14 @@ CHANNEL,EVENT,CLIP NAME,START TIME,END TIME,DURATION,STATE,Frames,Runtime,Beats
 1,1031,Heartbeat Tempo Mapped-38.L   ,00:07:30:00,00:07:30:08,00:00:00:07,Unmuted,13500,7,1
 1,1032,Heartbeat Tempo Mapped-39.L   ,00:07:30:24,00:07:31:11,00:00:00:17,Unmuted,13524,17,0
 1,1033,Heartbeat Tempo Mapped-40.L   ,00:07:32:13,00:07:32:21,00:00:00:07,Unmuted,13573,7,1
-1,1035,Heartbeat Tempo Mapped-42.L   ,00:07:33:07,00:07:33:24,00:00:00:16,Unmuted,13597,16,1
-1,1036,Heartbeat Tempo Mapped-34.L   ,00:07:34:28,00:07:35:05,00:00:00:07,Unmuted,13648,7,0
-1,1037,Heartbeat Tempo Mapped-35.L   ,00:07:35:21,00:07:36:09,00:00:00:17,Unmuted,13671,17,1
-1,1038,Heartbeat Tempo Mapped-36.L   ,00:07:37:15,00:07:37:22,00:00:00:07,Unmuted,13725,7,0
-1,1039,Heartbeat Tempo Mapped-37.L   ,00:07:38:09,00:07:38:26,00:00:00:17,Unmuted,13749,17,1
-1,1040,Heartbeat Tempo Mapped-38.L   ,00:07:40:03,00:07:40:11,00:00:00:07,Unmuted,13803,7,0
-1,1041,Heartbeat Tempo Mapped-39.L   ,00:07:40:29,00:07:41:16,00:00:00:17,Unmuted,13829,17,1
-1,1042,Heartbeat Tempo Mapped-40.L   ,00:07:42:24,00:07:43:02,00:00:00:07,Unmuted,13884,7,0
+1,1035,Heartbeat Tempo Mapped-42.L   ,00:07:33:07,00:07:33:24,00:00:00:16,Unmuted,13597,16,0
+1,1036,Heartbeat Tempo Mapped-34.L   ,00:07:34:28,00:07:35:05,00:00:00:07,Unmuted,13648,7,1
+1,1037,Heartbeat Tempo Mapped-35.L   ,00:07:35:21,00:07:36:09,00:00:00:17,Unmuted,13671,17,0
+1,1038,Heartbeat Tempo Mapped-36.L   ,00:07:37:15,00:07:37:22,00:00:00:07,Unmuted,13725,7,1
+1,1039,Heartbeat Tempo Mapped-37.L   ,00:07:38:09,00:07:38:26,00:00:00:17,Unmuted,13749,17,0
+1,1040,Heartbeat Tempo Mapped-38.L   ,00:07:40:03,00:07:40:11,00:00:00:07,Unmuted,13803,7,1
+1,1041,Heartbeat Tempo Mapped-39.L   ,00:07:40:29,00:07:41:16,00:00:00:17,Unmuted,13829,17,0
+1,1042,Heartbeat Tempo Mapped-40.L   ,00:07:42:24,00:07:43:02,00:00:00:07,Unmuted,13884,7,1
 1,1044,Heartbeat Tempo Mapped-42.L   ,00:07:43:20,00:07:44:07,00:00:00:16,Unmuted,13910,16,0
 1,1045,Heartbeat Tempo Mapped-34.L   ,00:07:45:17,00:07:45:24,00:00:00:07,Unmuted,13967,7,1
 1,1046,Heartbeat Tempo Mapped-35.L   ,00:07:46:12,00:07:47:00,00:00:00:17,Unmuted,13992,17,0
@@ -935,14 +935,14 @@ CHANNEL,EVENT,CLIP NAME,START TIME,END TIME,DURATION,STATE,Frames,Runtime,Beats
 1,1049,Heartbeat Tempo Mapped-38.L   ,00:07:51:09,00:07:51:17,00:00:00:07,Unmuted,14139,7,1
 1,1050,Heartbeat Tempo Mapped-39.L   ,00:07:52:08,00:07:52:25,00:00:00:17,Unmuted,14168,17,0
 1,1051,Heartbeat Tempo Mapped-40.L   ,00:07:54:09,00:07:54:17,00:00:00:07,Unmuted,14229,7,1
-1,1053,Heartbeat Tempo Mapped-42.L   ,00:07:55:09,00:07:55:26,00:00:00:16,Unmuted,14259,16,1
-1,1054,Heartbeat Tempo Mapped-34.L   ,00:07:57:12,00:07:57:19,00:00:00:07,Unmuted,14322,7,0
-1,1055,Heartbeat Tempo Mapped-35.L   ,00:07:58:11,00:07:58:28,00:00:00:17,Unmuted,14351,17,1
-1,1056,Heartbeat Tempo Mapped-36.L   ,00:08:00:18,00:08:00:26,00:00:00:07,Unmuted,14418,7,0
-1,1057,Heartbeat Tempo Mapped-37.L   ,00:08:01:18,00:08:02:05,00:00:00:17,Unmuted,14448,17,1
-1,1058,Heartbeat Tempo Mapped-38.L   ,00:08:03:26,00:08:04:04,00:00:00:07,Unmuted,14516,7,0
-1,1059,Heartbeat Tempo Mapped-39.L   ,00:08:04:29,00:08:05:17,00:00:00:17,Unmuted,14549,17,1
-1,1060,Heartbeat Tempo Mapped-40.L   ,00:08:07:09,00:08:07:16,00:00:00:07,Unmuted,14619,7,0
+1,1053,Heartbeat Tempo Mapped-42.L   ,00:07:55:09,00:07:55:26,00:00:00:16,Unmuted,14259,16,0
+1,1054,Heartbeat Tempo Mapped-34.L   ,00:07:57:12,00:07:57:19,00:00:00:07,Unmuted,14322,7,1
+1,1055,Heartbeat Tempo Mapped-35.L   ,00:07:58:11,00:07:58:28,00:00:00:17,Unmuted,14351,17,0
+1,1056,Heartbeat Tempo Mapped-36.L   ,00:08:00:18,00:08:00:26,00:00:00:07,Unmuted,14418,7,1
+1,1057,Heartbeat Tempo Mapped-37.L   ,00:08:01:18,00:08:02:05,00:00:00:17,Unmuted,14448,17,0
+1,1058,Heartbeat Tempo Mapped-38.L   ,00:08:03:26,00:08:04:04,00:00:00:07,Unmuted,14516,7,1
+1,1059,Heartbeat Tempo Mapped-39.L   ,00:08:04:29,00:08:05:17,00:00:00:17,Unmuted,14549,17,0
+1,1060,Heartbeat Tempo Mapped-40.L   ,00:08:07:09,00:08:07:16,00:00:00:07,Unmuted,14619,7,1
 1,1062,Heartbeat Tempo Mapped-42.L   ,00:08:08:12,00:08:08:29,00:00:00:16,Unmuted,14652,16,0
 1,1063,Heartbeat Tempo Mapped-34.L   ,00:08:10:25,00:08:11:02,00:00:00:07,Unmuted,14725,7,1
 1,1064,Heartbeat Tempo Mapped-35.L   ,00:08:11:27,00:08:12:15,00:00:00:17,Unmuted,14757,17,0
@@ -951,14 +951,14 @@ CHANNEL,EVENT,CLIP NAME,START TIME,END TIME,DURATION,STATE,Frames,Runtime,Beats
 1,1067,Heartbeat Tempo Mapped-38.L   ,00:08:18:07,00:08:18:15,00:00:00:07,Unmuted,14947,7,1
 1,1068,Heartbeat Tempo Mapped-39.L   ,00:08:19:15,00:08:20:02,00:00:00:17,Unmuted,14985,17,0
 1,1069,Heartbeat Tempo Mapped-40.L   ,00:08:22:05,00:08:22:13,00:00:00:07,Unmuted,15065,7,1
-1,1071,Heartbeat Tempo Mapped-42.L   ,00:08:23:14,00:08:24:01,00:00:00:16,Unmuted,15104,16,1
-1,1072,Heartbeat Tempo Mapped-34.L   ,00:08:26:08,00:08:26:15,00:00:00:07,Unmuted,15188,7,0
-1,1073,Heartbeat Tempo Mapped-35.L   ,00:08:27:16,00:08:28:03,00:00:00:17,Unmuted,15226,17,1
-1,1074,Heartbeat Tempo Mapped-36.L   ,00:08:30:16,00:08:30:23,00:00:00:07,Unmuted,15316,7,0
-1,1075,Heartbeat Tempo Mapped-37.L   ,00:08:31:26,00:08:32:13,00:00:00:17,Unmuted,15356,17,1
-1,1076,Heartbeat Tempo Mapped-38.L   ,00:08:34:28,00:08:35:06,00:00:00:07,Unmuted,15448,7,0
-1,1077,Heartbeat Tempo Mapped-39.L   ,00:08:36:13,00:08:37:00,00:00:00:17,Unmuted,15493,17,1
-1,1078,Heartbeat Tempo Mapped-40.L   ,00:08:39:18,00:08:39:25,00:00:00:07,Unmuted,15588,7,0
+1,1071,Heartbeat Tempo Mapped-42.L   ,00:08:23:14,00:08:24:01,00:00:00:16,Unmuted,15104,16,0
+1,1072,Heartbeat Tempo Mapped-34.L   ,00:08:26:08,00:08:26:15,00:00:00:07,Unmuted,15188,7,1
+1,1073,Heartbeat Tempo Mapped-35.L   ,00:08:27:16,00:08:28:03,00:00:00:17,Unmuted,15226,17,0
+1,1074,Heartbeat Tempo Mapped-36.L   ,00:08:30:16,00:08:30:23,00:00:00:07,Unmuted,15316,7,1
+1,1075,Heartbeat Tempo Mapped-37.L   ,00:08:31:26,00:08:32:13,00:00:00:17,Unmuted,15356,17,0
+1,1076,Heartbeat Tempo Mapped-38.L   ,00:08:34:28,00:08:35:06,00:00:00:07,Unmuted,15448,7,1
+1,1077,Heartbeat Tempo Mapped-39.L   ,00:08:36:13,00:08:37:00,00:00:00:17,Unmuted,15493,17,0
+1,1078,Heartbeat Tempo Mapped-40.L   ,00:08:39:18,00:08:39:25,00:00:00:07,Unmuted,15588,7,1
 1,1080,Heartbeat Tempo Mapped-73.L   ,00:08:41:03,00:08:41:21,00:00:00:17,Unmuted,15633,17,0
 1,1081,Heartbeat Tempo Mapped-34.L   ,00:08:44:14,00:08:44:21,00:00:00:07,Unmuted,15734,7,1
 1,1082,Heartbeat Tempo Mapped-35.L   ,00:08:45:29,00:08:46:17,00:00:00:17,Unmuted,15779,17,0
@@ -967,14 +967,14 @@ CHANNEL,EVENT,CLIP NAME,START TIME,END TIME,DURATION,STATE,Frames,Runtime,Beats
 1,1085,Heartbeat Tempo Mapped-38.L   ,00:08:54:27,00:08:55:05,00:00:00:07,Unmuted,16047,7,1
 1,1086,Heartbeat Tempo Mapped-39.L   ,00:08:56:22,00:08:57:09,00:00:00:17,Unmuted,16102,17,0
 1,1087,Heartbeat Tempo Mapped-40.L   ,00:09:00:18,00:09:00:26,00:00:00:07,Unmuted,16218,7,1
-1,1089,Heartbeat Tempo Mapped-74.L   ,00:09:02:14,00:09:03:02,00:00:00:17,Unmuted,16274,17,1
-1,1090,Heartbeat Tempo Mapped-34.L   ,00:09:06:16,00:09:06:23,00:00:00:07,Unmuted,16396,7,0
-1,1091,Heartbeat Tempo Mapped-35.L   ,00:09:08:07,00:09:08:25,00:00:00:17,Unmuted,16447,17,1
-1,1092,Heartbeat Tempo Mapped-36.L   ,00:09:12:04,00:09:12:11,00:00:00:07,Unmuted,16564,7,0
-1,1093,Heartbeat Tempo Mapped-37.L   ,00:09:13:23,00:09:14:10,00:00:00:17,Unmuted,16613,17,1
-1,1094,Heartbeat Tempo Mapped-38.L   ,00:09:17:10,00:09:17:18,00:00:00:07,Unmuted,16720,7,0
-1,1095,Heartbeat Tempo Mapped-39.L   ,00:09:19:00,00:09:19:17,00:00:00:17,Unmuted,16770,17,1
-1,1096,Heartbeat Tempo Mapped-40.L   ,00:09:22:09,00:09:22:17,00:00:00:07,Unmuted,16869,7,0
+1,1089,Heartbeat Tempo Mapped-74.L   ,00:09:02:14,00:09:03:02,00:00:00:17,Unmuted,16274,17,0
+1,1090,Heartbeat Tempo Mapped-34.L   ,00:09:06:16,00:09:06:23,00:00:00:07,Unmuted,16396,7,1
+1,1091,Heartbeat Tempo Mapped-35.L   ,00:09:08:07,00:09:08:25,00:00:00:17,Unmuted,16447,17,0
+1,1092,Heartbeat Tempo Mapped-36.L   ,00:09:12:04,00:09:12:11,00:00:00:07,Unmuted,16564,7,1
+1,1093,Heartbeat Tempo Mapped-37.L   ,00:09:13:23,00:09:14:10,00:00:00:17,Unmuted,16613,17,0
+1,1094,Heartbeat Tempo Mapped-38.L   ,00:09:17:10,00:09:17:18,00:00:00:07,Unmuted,16720,7,1
+1,1095,Heartbeat Tempo Mapped-39.L   ,00:09:19:00,00:09:19:17,00:00:00:17,Unmuted,16770,17,0
+1,1096,Heartbeat Tempo Mapped-40.L   ,00:09:22:09,00:09:22:17,00:00:00:07,Unmuted,16869,7,1
 1,1098,Heartbeat Tempo Mapped-75.L   ,00:09:23:25,00:09:24:12,00:00:00:17,Unmuted,16915,17,0
 1,1099,Heartbeat Tempo Mapped-34.L   ,00:09:27:00,00:09:27:07,00:00:00:07,Unmuted,17010,7,1
 1,1100,Heartbeat Tempo Mapped-35.L   ,00:09:28:10,00:09:28:28,00:00:00:17,Unmuted,17050,17,0
@@ -983,14 +983,14 @@ CHANNEL,EVENT,CLIP NAME,START TIME,END TIME,DURATION,STATE,Frames,Runtime,Beats
 1,1103,Heartbeat Tempo Mapped-38.L   ,00:09:35:18,00:09:35:26,00:00:00:07,Unmuted,17268,7,1
 1,1104,Heartbeat Tempo Mapped-39.L   ,00:09:36:28,00:09:37:15,00:00:00:17,Unmuted,17308,17,0
 1,1105,Heartbeat Tempo Mapped-40.L   ,00:09:39:19,00:09:39:27,00:00:00:07,Unmuted,17389,7,1
-1,1107,Heartbeat Tempo Mapped-76.L   ,00:09:40:26,00:09:41:13,00:00:00:17,Unmuted,17426,17,1
-1,1108,Heartbeat Tempo Mapped-34.L   ,00:09:43:14,00:09:43:21,00:00:00:07,Unmuted,17504,7,0
-1,1109,Heartbeat Tempo Mapped-35.L   ,00:09:44:17,00:09:45:05,00:00:00:17,Unmuted,17537,17,1
-1,1110,Heartbeat Tempo Mapped-36.L   ,00:09:47:04,00:09:47:11,00:00:00:07,Unmuted,17614,7,0
-1,1111,Heartbeat Tempo Mapped-37.L   ,00:09:48:07,00:09:48:24,00:00:00:17,Unmuted,17647,17,1
-1,1112,Heartbeat Tempo Mapped-38.L   ,00:09:50:19,00:09:50:27,00:00:00:07,Unmuted,17719,7,0
-1,1113,Heartbeat Tempo Mapped-39.L   ,00:09:51:22,00:09:52:09,00:00:00:17,Unmuted,17752,17,1
-1,1114,Heartbeat Tempo Mapped-40.L   ,00:09:54:00,00:09:54:08,00:00:00:07,Unmuted,17820,7,0
+1,1107,Heartbeat Tempo Mapped-76.L   ,00:09:40:26,00:09:41:13,00:00:00:17,Unmuted,17426,17,0
+1,1108,Heartbeat Tempo Mapped-34.L   ,00:09:43:14,00:09:43:21,00:00:00:07,Unmuted,17504,7,1
+1,1109,Heartbeat Tempo Mapped-35.L   ,00:09:44:17,00:09:45:05,00:00:00:17,Unmuted,17537,17,0
+1,1110,Heartbeat Tempo Mapped-36.L   ,00:09:47:04,00:09:47:11,00:00:00:07,Unmuted,17614,7,1
+1,1111,Heartbeat Tempo Mapped-37.L   ,00:09:48:07,00:09:48:24,00:00:00:17,Unmuted,17647,17,0
+1,1112,Heartbeat Tempo Mapped-38.L   ,00:09:50:19,00:09:50:27,00:00:00:07,Unmuted,17719,7,1
+1,1113,Heartbeat Tempo Mapped-39.L   ,00:09:51:22,00:09:52:09,00:00:00:17,Unmuted,17752,17,0
+1,1114,Heartbeat Tempo Mapped-40.L   ,00:09:54:00,00:09:54:08,00:00:00:07,Unmuted,17820,7,1
 1,1116,Heartbeat Tempo Mapped-77.L   ,00:09:55:02,00:09:55:19,00:00:00:17,Unmuted,17852,17,0
 1,1117,Heartbeat Tempo Mapped-34.L   ,00:09:57:08,00:09:57:15,00:00:00:07,Unmuted,17918,7,1
 1,1118,Heartbeat Tempo Mapped-35.L   ,00:09:58:06,00:09:58:24,00:00:00:17,Unmuted,17946,17,0
@@ -999,14 +999,14 @@ CHANNEL,EVENT,CLIP NAME,START TIME,END TIME,DURATION,STATE,Frames,Runtime,Beats
 1,1121,Heartbeat Tempo Mapped-38.L   ,00:10:03:11,00:10:03:19,00:00:00:07,Unmuted,18101,7,1
 1,1122,Heartbeat Tempo Mapped-39.L   ,00:10:04:10,00:10:04:27,00:00:00:17,Unmuted,18130,17,0
 1,1123,Heartbeat Tempo Mapped-40.L   ,00:10:06:09,00:10:06:17,00:00:00:07,Unmuted,18189,7,1
-1,1125,Heartbeat Tempo Mapped-78.L   ,00:10:07:06,00:10:07:23,00:00:00:17,Unmuted,18216,17,1
-1,1126,Heartbeat Tempo Mapped-34.L   ,00:10:09:03,00:10:09:11,00:00:00:07,Unmuted,18273,7,0
-1,1127,Heartbeat Tempo Mapped-35.L   ,00:10:09:28,00:10:10:16,00:00:00:17,Unmuted,18298,17,1
-1,1128,Heartbeat Tempo Mapped-36.L   ,00:10:11:25,00:10:12:03,00:00:00:07,Unmuted,18355,7,0
-1,1129,Heartbeat Tempo Mapped-37.L   ,00:10:12:20,00:10:13:07,00:00:00:17,Unmuted,18380,17,1
-1,1130,Heartbeat Tempo Mapped-38.L   ,00:10:14:14,00:10:14:22,00:00:00:07,Unmuted,18434,7,0
-1,1131,Heartbeat Tempo Mapped-39.L   ,00:10:15:09,00:10:15:26,00:00:00:17,Unmuted,18459,17,1
-1,1132,Heartbeat Tempo Mapped-40.L   ,00:10:17:01,00:10:17:09,00:00:00:07,Unmuted,18511,7,0
+1,1125,Heartbeat Tempo Mapped-78.L   ,00:10:07:06,00:10:07:23,00:00:00:17,Unmuted,18216,17,0
+1,1126,Heartbeat Tempo Mapped-34.L   ,00:10:09:03,00:10:09:11,00:00:00:07,Unmuted,18273,7,1
+1,1127,Heartbeat Tempo Mapped-35.L   ,00:10:09:28,00:10:10:16,00:00:00:17,Unmuted,18298,17,0
+1,1128,Heartbeat Tempo Mapped-36.L   ,00:10:11:25,00:10:12:03,00:00:00:07,Unmuted,18355,7,1
+1,1129,Heartbeat Tempo Mapped-37.L   ,00:10:12:20,00:10:13:07,00:00:00:17,Unmuted,18380,17,0
+1,1130,Heartbeat Tempo Mapped-38.L   ,00:10:14:14,00:10:14:22,00:00:00:07,Unmuted,18434,7,1
+1,1131,Heartbeat Tempo Mapped-39.L   ,00:10:15:09,00:10:15:26,00:00:00:17,Unmuted,18459,17,0
+1,1132,Heartbeat Tempo Mapped-40.L   ,00:10:17:01,00:10:17:09,00:00:00:07,Unmuted,18511,7,1
 1,1134,Heartbeat Tempo Mapped-42.L   ,00:10:17:25,00:10:18:12,00:00:00:16,Unmuted,18535,16,0
 1,1135,Heartbeat Tempo Mapped-34.L   ,00:10:19:15,00:10:19:23,00:00:00:07,Unmuted,18585,7,1
 1,1136,Heartbeat Tempo Mapped-35.L   ,00:10:20:07,00:10:20:25,00:00:00:17,Unmuted,18607,17,0
@@ -1015,14 +1015,14 @@ CHANNEL,EVENT,CLIP NAME,START TIME,END TIME,DURATION,STATE,Frames,Runtime,Beats
 1,1139,Heartbeat Tempo Mapped-38.L   ,00:10:24:08,00:10:24:16,00:00:00:07,Unmuted,18728,7,1
 1,1140,Heartbeat Tempo Mapped-39.L   ,00:10:25:01,00:10:25:18,00:00:00:17,Unmuted,18751,17,0
 1,1141,Heartbeat Tempo Mapped-40.L   ,00:10:26:17,00:10:26:24,00:00:00:07,Unmuted,18797,7,1
-1,1143,Heartbeat Tempo Mapped-42.L   ,00:10:27:08,00:10:27:25,00:00:00:16,Unmuted,18818,16,1
-1,1144,Heartbeat Tempo Mapped-34.L   ,00:10:28:23,00:10:29:01,00:00:00:07,Unmuted,18863,7,0
-1,1145,Heartbeat Tempo Mapped-35.L   ,00:10:29:13,00:10:30:01,00:00:00:17,Unmuted,18883,17,1
-1,1146,Heartbeat Tempo Mapped-36.L   ,00:10:30:28,00:10:31:06,00:00:00:07,Unmuted,18928,7,0
-1,1147,Heartbeat Tempo Mapped-37.L   ,00:10:31:18,00:10:32:05,00:00:00:17,Unmuted,18948,17,1
-1,1148,Heartbeat Tempo Mapped-38.L   ,00:10:33:01,00:10:33:09,00:00:00:07,Unmuted,18991,7,0
-1,1149,Heartbeat Tempo Mapped-39.L   ,00:10:33:22,00:10:34:09,00:00:00:17,Unmuted,19012,17,1
-1,1150,Heartbeat Tempo Mapped-40.L   ,00:10:35:03,00:10:35:11,00:00:00:07,Unmuted,19053,7,0
+1,1143,Heartbeat Tempo Mapped-42.L   ,00:10:27:08,00:10:27:25,00:00:00:16,Unmuted,18818,16,0
+1,1144,Heartbeat Tempo Mapped-34.L   ,00:10:28:23,00:10:29:01,00:00:00:07,Unmuted,18863,7,1
+1,1145,Heartbeat Tempo Mapped-35.L   ,00:10:29:13,00:10:30:01,00:00:00:17,Unmuted,18883,17,0
+1,1146,Heartbeat Tempo Mapped-36.L   ,00:10:30:28,00:10:31:06,00:00:00:07,Unmuted,18928,7,1
+1,1147,Heartbeat Tempo Mapped-37.L   ,00:10:31:18,00:10:32:05,00:00:00:17,Unmuted,18948,17,0
+1,1148,Heartbeat Tempo Mapped-38.L   ,00:10:33:01,00:10:33:09,00:00:00:07,Unmuted,18991,7,1
+1,1149,Heartbeat Tempo Mapped-39.L   ,00:10:33:22,00:10:34:09,00:00:00:17,Unmuted,19012,17,0
+1,1150,Heartbeat Tempo Mapped-40.L   ,00:10:35:03,00:10:35:11,00:00:00:07,Unmuted,19053,7,1
 1,1152,Heartbeat Tempo Mapped-42.L   ,00:10:35:23,00:10:36:10,00:00:00:16,Unmuted,19073,16,0
 1,1153,Heartbeat Tempo Mapped-34.L   ,00:10:37:04,00:10:37:11,00:00:00:07,Unmuted,19114,7,1
 1,1154,Heartbeat Tempo Mapped-35.L   ,00:10:37:22,00:10:38:09,00:00:00:17,Unmuted,19132,17,0
@@ -1031,14 +1031,14 @@ CHANNEL,EVENT,CLIP NAME,START TIME,END TIME,DURATION,STATE,Frames,Runtime,Beats
 1,1157,Heartbeat Tempo Mapped-38.L   ,00:10:41:00,00:10:41:08,00:00:00:07,Unmuted,19230,7,1
 1,1158,Heartbeat Tempo Mapped-39.L   ,00:10:41:19,00:10:42:06,00:00:00:17,Unmuted,19249,17,0
 1,1159,Heartbeat Tempo Mapped-40.L   ,00:10:42:27,00:10:43:04,00:00:00:07,Unmuted,19287,7,1
-1,1161,Heartbeat Tempo Mapped-42.L   ,00:10:43:15,00:10:44:02,00:00:00:16,Unmuted,19305,16,1
-1,1162,Heartbeat Tempo Mapped-34.L   ,00:10:44:22,00:10:44:29,00:00:00:07,Unmuted,19342,7,0
-1,1163,Heartbeat Tempo Mapped-35.L   ,00:10:45:08,00:10:45:26,00:00:00:17,Unmuted,19358,17,1
-1,1164,Heartbeat Tempo Mapped-36.L   ,00:10:46:16,00:10:46:23,00:00:00:07,Unmuted,19396,7,0
-1,1165,Heartbeat Tempo Mapped-37.L   ,00:10:47:02,00:10:47:20,00:00:00:17,Unmuted,19412,17,1
-1,1166,Heartbeat Tempo Mapped-38.L   ,00:10:48:08,00:10:48:16,00:00:00:07,Unmuted,19448,7,0
-1,1167,Heartbeat Tempo Mapped-39.L   ,00:10:48:26,00:10:49:13,00:00:00:17,Unmuted,19466,17,1
-1,1168,Heartbeat Tempo Mapped-40.L   ,00:10:50:00,00:10:50:08,00:00:00:07,Unmuted,19500,7,0
+1,1161,Heartbeat Tempo Mapped-42.L   ,00:10:43:15,00:10:44:02,00:00:00:16,Unmuted,19305,16,0
+1,1162,Heartbeat Tempo Mapped-34.L   ,00:10:44:22,00:10:44:29,00:00:00:07,Unmuted,19342,7,1
+1,1163,Heartbeat Tempo Mapped-35.L   ,00:10:45:08,00:10:45:26,00:00:00:17,Unmuted,19358,17,0
+1,1164,Heartbeat Tempo Mapped-36.L   ,00:10:46:16,00:10:46:23,00:00:00:07,Unmuted,19396,7,1
+1,1165,Heartbeat Tempo Mapped-37.L   ,00:10:47:02,00:10:47:20,00:00:00:17,Unmuted,19412,17,0
+1,1166,Heartbeat Tempo Mapped-38.L   ,00:10:48:08,00:10:48:16,00:00:00:07,Unmuted,19448,7,1
+1,1167,Heartbeat Tempo Mapped-39.L   ,00:10:48:26,00:10:49:13,00:00:00:17,Unmuted,19466,17,0
+1,1168,Heartbeat Tempo Mapped-40.L   ,00:10:50:00,00:10:50:08,00:00:00:07,Unmuted,19500,7,1
 1,1170,Heartbeat Tempo Mapped-42.L   ,00:10:50:17,00:10:51:04,00:00:00:16,Unmuted,19517,16,0
 1,1171,Heartbeat Tempo Mapped-34.L   ,00:10:51:21,00:10:51:28,00:00:00:07,Unmuted,19551,7,1
 1,1172,Heartbeat Tempo Mapped-35.L   ,00:10:52:06,00:10:52:24,00:00:00:17,Unmuted,19566,17,0
@@ -1047,14 +1047,14 @@ CHANNEL,EVENT,CLIP NAME,START TIME,END TIME,DURATION,STATE,Frames,Runtime,Beats
 1,1175,Heartbeat Tempo Mapped-38.L   ,00:10:54:29,00:10:55:07,00:00:00:07,Unmuted,19649,7,1
 1,1176,Heartbeat Tempo Mapped-39.L   ,00:10:55:15,00:10:56:02,00:00:00:17,Unmuted,19665,17,0
 1,1177,Heartbeat Tempo Mapped-40.L   ,00:10:56:18,00:10:56:25,00:00:00:07,Unmuted,19698,7,1
-1,1179,Heartbeat Tempo Mapped-42.L   ,00:10:57:03,00:10:57:20,00:00:00:16,Unmuted,19713,16,1
-1,1180,Heartbeat Tempo Mapped-34.L   ,00:10:58:05,00:10:58:12,00:00:00:07,Unmuted,19745,7,0
-1,1181,Heartbeat Tempo Mapped-35.L   ,00:10:58:18,00:10:59:06,00:00:00:17,Unmuted,19758,17,1
-1,1182,Heartbeat Tempo Mapped-36.L   ,00:10:59:21,00:10:59:28,00:00:00:07,Unmuted,19791,7,0
-1,1183,Heartbeat Tempo Mapped-37.L   ,00:11:00:05,00:11:00:22,00:00:00:17,Unmuted,19805,17,1
-1,1184,Heartbeat Tempo Mapped-38.L   ,00:11:01:06,00:11:01:14,00:00:00:07,Unmuted,19836,7,0
-1,1185,Heartbeat Tempo Mapped-39.L   ,00:11:01:20,00:11:02:08,00:00:00:17,Unmuted,19850,17,1
-1,1186,Heartbeat Tempo Mapped-40.L   ,00:11:02:20,00:11:02:28,00:00:00:07,Unmuted,19880,7,0
+1,1179,Heartbeat Tempo Mapped-42.L   ,00:10:57:03,00:10:57:20,00:00:00:16,Unmuted,19713,16,0
+1,1180,Heartbeat Tempo Mapped-34.L   ,00:10:58:05,00:10:58:12,00:00:00:07,Unmuted,19745,7,1
+1,1181,Heartbeat Tempo Mapped-35.L   ,00:10:58:18,00:10:59:06,00:00:00:17,Unmuted,19758,17,0
+1,1182,Heartbeat Tempo Mapped-36.L   ,00:10:59:21,00:10:59:28,00:00:00:07,Unmuted,19791,7,1
+1,1183,Heartbeat Tempo Mapped-37.L   ,00:11:00:05,00:11:00:22,00:00:00:17,Unmuted,19805,17,0
+1,1184,Heartbeat Tempo Mapped-38.L   ,00:11:01:06,00:11:01:14,00:00:00:07,Unmuted,19836,7,1
+1,1185,Heartbeat Tempo Mapped-39.L   ,00:11:01:20,00:11:02:08,00:00:00:17,Unmuted,19850,17,0
+1,1186,Heartbeat Tempo Mapped-40.L   ,00:11:02:20,00:11:02:28,00:00:00:07,Unmuted,19880,7,1
 1,1188,Heartbeat Tempo Mapped-42.L   ,00:11:03:05,00:11:03:22,00:00:00:16,Unmuted,19895,16,0
 1,1189,Heartbeat Tempo Mapped-34.L   ,00:11:04:04,00:11:04:11,00:00:00:07,Unmuted,19924,7,1
 1,1190,Heartbeat Tempo Mapped-35.L   ,00:11:04:17,00:11:05:05,00:00:00:17,Unmuted,19937,17,0
@@ -1063,14 +1063,14 @@ CHANNEL,EVENT,CLIP NAME,START TIME,END TIME,DURATION,STATE,Frames,Runtime,Beats
 1,1193,Heartbeat Tempo Mapped-38.L   ,00:11:06:29,00:11:07:07,00:00:00:07,Unmuted,20009,7,1
 1,1194,Heartbeat Tempo Mapped-39.L   ,00:11:07:13,00:11:08:00,00:00:00:17,Unmuted,20023,17,0
 1,1195,Heartbeat Tempo Mapped-40.L   ,00:11:08:11,00:11:08:19,00:00:00:07,Unmuted,20051,7,1
-1,1197,Heartbeat Tempo Mapped-42.L   ,00:11:08:24,00:11:09:11,00:00:00:16,Unmuted,20064,16,1
-1,1198,Heartbeat Tempo Mapped-34.L   ,00:11:09:22,00:11:09:29,00:00:00:07,Unmuted,20092,7,0
-1,1199,Heartbeat Tempo Mapped-35.L   ,00:11:10:04,00:11:10:22,00:00:00:17,Unmuted,20104,17,1
-1,1200,Heartbeat Tempo Mapped-36.L   ,00:11:11:02,00:11:11:10,00:00:00:07,Unmuted,20132,7,0
-1,1201,Heartbeat Tempo Mapped-37.L   ,00:11:11:15,00:11:12:02,00:00:00:17,Unmuted,20145,17,1
-1,1202,Heartbeat Tempo Mapped-38.L   ,00:11:12:12,00:11:12:20,00:00:00:07,Unmuted,20172,7,0
-1,1203,Heartbeat Tempo Mapped-39.L   ,00:11:12:25,00:11:13:12,00:00:00:17,Unmuted,20185,17,1
-1,1204,Heartbeat Tempo Mapped-40.L   ,00:11:13:21,00:11:13:29,00:00:00:07,Unmuted,20211,7,0
+1,1197,Heartbeat Tempo Mapped-42.L   ,00:11:08:24,00:11:09:11,00:00:00:16,Unmuted,20064,16,0
+1,1198,Heartbeat Tempo Mapped-34.L   ,00:11:09:22,00:11:09:29,00:00:00:07,Unmuted,20092,7,1
+1,1199,Heartbeat Tempo Mapped-35.L   ,00:11:10:04,00:11:10:22,00:00:00:17,Unmuted,20104,17,0
+1,1200,Heartbeat Tempo Mapped-36.L   ,00:11:11:02,00:11:11:10,00:00:00:07,Unmuted,20132,7,1
+1,1201,Heartbeat Tempo Mapped-37.L   ,00:11:11:15,00:11:12:02,00:00:00:17,Unmuted,20145,17,0
+1,1202,Heartbeat Tempo Mapped-38.L   ,00:11:12:12,00:11:12:20,00:00:00:07,Unmuted,20172,7,1
+1,1203,Heartbeat Tempo Mapped-39.L   ,00:11:12:25,00:11:13:12,00:00:00:17,Unmuted,20185,17,0
+1,1204,Heartbeat Tempo Mapped-40.L   ,00:11:13:21,00:11:13:29,00:00:00:07,Unmuted,20211,7,1
 1,1206,Heartbeat Tempo Mapped-42.L   ,00:11:14:03,00:11:14:20,00:00:00:16,Unmuted,20223,16,0
 1,1207,Heartbeat Tempo Mapped-34.L   ,00:11:15:00,00:11:15:07,00:00:00:07,Unmuted,20250,7,1
 1,1208,Heartbeat Tempo Mapped-35.L   ,00:11:15:11,00:11:15:29,00:00:00:17,Unmuted,20261,17,0
@@ -1079,88 +1079,88 @@ CHANNEL,EVENT,CLIP NAME,START TIME,END TIME,DURATION,STATE,Frames,Runtime,Beats
 1,1211,Heartbeat Tempo Mapped-38.L   ,00:11:17:15,00:11:17:23,00:00:00:07,Unmuted,20325,7,1
 1,1212,Heartbeat Tempo Mapped-39.L   ,00:11:17:27,00:11:18:14,00:00:00:17,Unmuted,20337,17,0
 1,1213,Heartbeat Tempo Mapped-40.L   ,00:11:18:21,00:11:18:29,00:00:00:07,Unmuted,20361,7,1
-1,1215,Heartbeat Tempo Mapped-42.L   ,00:11:19:03,00:11:19:20,00:00:00:16,Unmuted,20373,16,1
-1,1216,Heartbeat Tempo Mapped-34.L   ,00:11:19:28,00:11:20:05,00:00:00:07,Unmuted,20398,7,0
-1,1217,Heartbeat Tempo Mapped-79.L   ,00:11:20:08,00:11:20:26,00:00:00:17,Unmuted,20408,17,1
-1,1218,Heartbeat Tempo Mapped-36.L   ,00:11:21:04,00:11:21:11,00:00:00:07,Unmuted,20434,7,0
-1,1219,Nu Heartbeat.01_01-52.L       ,00:11:21:15,00:11:22:01,00:00:00:16,Unmuted,20445,16,1
-1,1220,Nu Heartbeat.01_01-54.L       ,00:11:22:08,00:11:22:16,00:00:00:07,Unmuted,20468,7,0
-1,1221,Nu Heartbeat.01_01-56.L       ,00:11:22:20,00:11:23:07,00:00:00:16,Unmuted,20480,16,1
-1,1222,Nu Heartbeat.01_01-58.L       ,00:11:23:13,00:11:23:21,00:00:00:07,Unmuted,20503,7,0
-1,1223,Nu Heartbeat.01_01-60.L       ,00:11:23:25,00:11:24:11,00:00:00:16,Unmuted,20515,16,1
-1,1224,Nu Heartbeat.01_01-62.L       ,00:11:24:17,00:11:24:25,00:00:00:07,Unmuted,20537,7,0
-1,1225,Nu Heartbeat.01_01-44.L       ,00:11:24:29,00:11:25:15,00:00:00:16,Unmuted,20549,16,1
-1,1226,Nu Heartbeat.01_01-02.L       ,00:11:25:21,00:11:25:29,00:00:00:07,Unmuted,20571,7,0
-1,1227,Nu Heartbeat.01_01-04.L       ,00:11:26:03,00:11:26:19,00:00:00:16,Unmuted,20583,16,1
-1,1228,Nu Heartbeat.01_01-06.L       ,00:11:26:25,00:11:27:03,00:00:00:07,Unmuted,20605,7,0
-1,1229,Nu Heartbeat.01_01-08.L       ,00:11:27:06,00:11:27:22,00:00:00:16,Unmuted,20616,16,1
-1,1230,Nu Heartbeat.01_01-10.L       ,00:11:27:28,00:11:28:06,00:00:00:07,Unmuted,20638,7,0
-1,1231,Nu Heartbeat.01_01-12.L       ,00:11:28:09,00:11:28:25,00:00:00:16,Unmuted,20649,16,1
-1,1232,Nu Heartbeat.01_01-14.L       ,00:11:29:00,00:11:29:08,00:00:00:07,Unmuted,20670,7,0
-1,1233,Nu Heartbeat.01_01-16.L       ,00:11:29:11,00:11:29:28,00:00:00:16,Unmuted,20681,16,1
-1,1234,Nu Heartbeat.01_01-18.L       ,00:11:30:02,00:11:30:10,00:00:00:07,Unmuted,20702,7,0
-1,1235,Nu Heartbeat.01_01-20.L       ,00:11:30:13,00:11:31:00,00:00:00:16,Unmuted,20713,16,1
-1,1236,Nu Heartbeat.01_01-22.L       ,00:11:31:04,00:11:31:12,00:00:00:07,Unmuted,20734,7,0
-1,1237,Nu Heartbeat.01_01-24.L       ,00:11:31:15,00:11:32:01,00:00:00:16,Unmuted,20745,16,1
-1,1238,Nu Heartbeat.01_01-26.L       ,00:11:32:06,00:11:32:13,00:00:00:07,Unmuted,20766,7,0
-1,1239,Nu Heartbeat.01_01-28.L       ,00:11:32:16,00:11:33:02,00:00:00:16,Unmuted,20776,16,1
-1,1240,Nu Heartbeat.01_01-30.L       ,00:11:33:06,00:11:33:14,00:00:00:07,Unmuted,20796,7,0
-1,1241,Nu Heartbeat.01_01-32.L       ,00:11:33:17,00:11:34:03,00:00:00:16,Unmuted,20807,16,1
-1,1242,Nu Heartbeat.01_01-34.L       ,00:11:34:07,00:11:34:15,00:00:00:07,Unmuted,20827,7,0
-1,1243,Nu Heartbeat.01_01-36.L       ,00:11:34:17,00:11:35:04,00:00:00:16,Unmuted,20837,16,1
-1,1244,Nu Heartbeat.01_01-38.L       ,00:11:35:07,00:11:35:15,00:00:00:07,Unmuted,20857,7,0
-1,1245,Nu Heartbeat.01_01-40.L       ,00:11:35:17,00:11:36:04,00:00:00:16,Unmuted,20867,16,1
-1,1246,Nu Heartbeat.01_01-42.L       ,00:11:36:07,00:11:36:15,00:00:00:07,Unmuted,20887,7,0
-1,1247,Nu Heartbeat.01_01-44.L       ,00:11:36:17,00:11:37:04,00:00:00:16,Unmuted,20897,16,1
-1,1248,Nu Heartbeat.01_01-46.L       ,00:11:37:07,00:11:37:15,00:00:00:07,Unmuted,20917,7,0
-1,1249,Nu Heartbeat.01_01-48.L       ,00:11:37:16,00:11:38:03,00:00:00:16,Unmuted,20926,16,1
-1,1250,Nu Heartbeat.01_01-50.L       ,00:11:38:06,00:11:38:14,00:00:00:07,Unmuted,20946,7,0
-1,1251,Nu Heartbeat.01_01-52.L       ,00:11:38:16,00:11:39:02,00:00:00:16,Unmuted,20956,16,1
-1,1252,Nu Heartbeat.01_01-54.L       ,00:11:39:05,00:11:39:13,00:00:00:07,Unmuted,20975,7,0
-1,1253,Nu Heartbeat.01_01-56.L       ,00:11:39:14,00:11:40:01,00:00:00:16,Unmuted,20984,16,1
-1,1254,Nu Heartbeat.01_01-58.L       ,00:11:40:03,00:11:40:11,00:00:00:07,Unmuted,21003,7,0
-1,1255,Nu Heartbeat.01_01-60.L       ,00:11:40:13,00:11:40:29,00:00:00:16,Unmuted,21013,16,1
-1,1256,Nu Heartbeat.01_01-62.L       ,00:11:41:02,00:11:41:10,00:00:00:07,Unmuted,21032,7,0
-1,1257,Nu Heartbeat.01_01-44.L       ,00:11:41:11,00:11:41:27,00:00:00:16,Unmuted,21041,16,1
-1,1258,Nu Heartbeat.01_01-02.L       ,00:11:41:29,00:11:42:07,00:00:00:07,Unmuted,21059,7,0
-1,1259,Nu Heartbeat.01_01-04.L       ,00:11:42:09,00:11:42:25,00:00:00:16,Unmuted,21069,16,1
-1,1260,Nu Heartbeat.01_01-06.L       ,00:11:42:27,00:11:43:05,00:00:00:07,Unmuted,21087,7,0
-1,1261,Nu Heartbeat.01_01-08.L       ,00:11:43:06,00:11:43:23,00:00:00:16,Unmuted,21096,16,1
-1,1262,Nu Heartbeat.01_01-10.L       ,00:11:43:24,00:11:44:02,00:00:00:07,Unmuted,21114,7,0
-1,1263,Nu Heartbeat.01_01-12.L       ,00:11:44:03,00:11:44:20,00:00:00:16,Unmuted,21123,16,1
-1,1264,Nu Heartbeat.01_01-14.L       ,00:11:44:21,00:11:44:29,00:00:00:07,Unmuted,21141,7,0
-1,1265,Nu Heartbeat.01_01-16.L       ,00:11:45:00,00:11:45:17,00:00:00:16,Unmuted,21150,16,1
-1,1266,Nu Heartbeat.01_01-213.L      ,00:11:45:18,00:11:45:25,00:00:00:07,Unmuted,21168,7,0
-1,1267,Nu Heartbeat.01_01-20.L       ,00:11:45:27,00:11:46:14,00:00:00:16,Unmuted,21177,16,1
-1,1268,Nu Heartbeat.01_01-22.L       ,00:11:46:15,00:11:46:23,00:00:00:07,Unmuted,21195,7,0
-1,1269,Nu Heartbeat.01_01-24.L       ,00:11:46:23,00:11:47:10,00:00:00:16,Unmuted,21203,16,1
-1,1270,Nu Heartbeat.01_01-26.L       ,00:11:47:11,00:11:47:19,00:00:00:07,Unmuted,21221,7,0
-1,1271,Nu Heartbeat.01_01-60.L       ,00:11:47:19,00:11:48:06,00:00:00:16,Unmuted,21229,16,1
-1,1272,Nu Heartbeat.01_01-190.L      ,00:11:48:07,00:11:48:14,00:00:00:07,Unmuted,21247,7,0
-1,1273,Nu Heartbeat.01_01-189.L      ,00:11:48:14,00:11:49:02,00:00:00:17,Unmuted,21254,17,1
-1,1274,Nu Heartbeat.01_01-191.L      ,00:11:49:02,00:11:49:20,00:00:00:17,Unmuted,21272,17,0
-1,1275,Nu Heartbeat.01_01-10.L       ,00:11:50:07,00:11:50:15,00:00:00:07,Unmuted,21307,7,1
-1,1276,Nu Heartbeat.01_01-194.L      ,00:11:50:16,00:11:51:02,00:00:00:15,Unmuted,21316,15,0
-1,1277,Nu Heartbeat.01_01-195.L      ,00:11:51:02,00:11:51:09,00:00:00:06,Unmuted,21332,6,1
-1,1278,Nu Heartbeat.01_01-196.L      ,00:11:51:09,00:11:51:16,00:00:00:06,Unmuted,21339,6,0
-1,1279,Nu Heartbeat.01_01-198.L      ,00:11:51:16,00:11:51:22,00:00:00:06,Unmuted,21346,6,1
-1,1280,Nu Heartbeat.01_01-199.L      ,00:11:51:22,00:11:52:05,00:00:00:12,Unmuted,21352,12,0
-1,1281,Nu Heartbeat.01_01-200.L      ,00:11:52:05,00:11:52:12,00:00:00:06,Unmuted,21365,6,1
-1,1282,Nu Heartbeat.01_01-201.L      ,00:11:52:12,00:11:52:25,00:00:00:13,Unmuted,21372,13,0
-1,1283,Nu Heartbeat.01_01-76.L       ,00:11:52:26,00:11:53:04,00:00:00:08,Unmuted,21386,8,1
-1,1284,Nu Heartbeat.01_01-60.L       ,00:11:53:12,00:11:53:29,00:00:00:16,Unmuted,21402,16,0
-1,1285,Nu Heartbeat.01_01-202.L      ,00:11:54:05,00:11:54:11,00:00:00:06,Unmuted,21425,6,1
-1,1286,Nu Heartbeat.01_01-203.L      ,00:11:54:12,00:11:54:27,00:00:00:14,Unmuted,21432,14,0
-1,1287,Nu Heartbeat.01_01-171.L      ,00:11:54:27,00:11:55:04,00:00:00:07,Unmuted,21447,7,1
-1,1288,Nu Heartbeat.01_01-170.L      ,00:11:55:04,00:11:55:22,00:00:00:17,Unmuted,21454,17,0
-1,1289,Nu Heartbeat.01_01-204.L      ,00:11:55:24,00:11:55:29,00:00:00:04,Unmuted,21474,4,1
-1,1290,Nu Heartbeat.01_01-205.L      ,00:11:55:29,00:11:56:06,00:00:00:07,Unmuted,21479,7,0
-1,1291,Nu Heartbeat.01_01-172.L      ,00:11:56:07,00:11:56:12,00:00:00:05,Unmuted,21487,5,1
-1,1292,Nu Heartbeat.01_01-207.L      ,00:11:56:13,00:11:56:22,00:00:00:08,Unmuted,21493,8,0
-1,1293,Nu Heartbeat.01_01-208.L      ,00:11:56:22,00:11:56:28,00:00:00:06,Unmuted,21502,6,1
-1,1294,Nu Heartbeat.01_01-209.L      ,00:11:56:29,00:11:57:09,00:00:00:10,Unmuted,21509,10,0
-1,1295,Nu Heartbeat.01_01-210.L      ,00:11:57:09,00:11:57:16,00:00:00:06,Unmuted,21519,6,1
-1,1296,Nu Heartbeat.01_01-211.L      ,00:11:57:17,00:11:57:26,00:00:00:09,Unmuted,21527,9,0
-1,1297,Nu Heartbeat.01_01-22.L       ,00:11:57:27,00:11:58:05,00:00:00:08,Unmuted,21537,8,1
-1,1298,Nu Heartbeat.01_01-212.L      ,00:11:58:06,00:11:58:16,00:00:00:09,Unmuted,21546,9,0
-1,1299,Nu Heartbeat.01_01-174.L      ,00:11:58:16,00:11:58:25,00:00:00:08,Unmuted,21556,8,1
+1,1215,Heartbeat Tempo Mapped-42.L   ,00:11:19:03,00:11:19:20,00:00:00:16,Unmuted,20373,16,0
+1,1216,Heartbeat Tempo Mapped-34.L   ,00:11:19:28,00:11:20:05,00:00:00:07,Unmuted,20398,7,1
+1,1217,Heartbeat Tempo Mapped-79.L   ,00:11:20:08,00:11:20:26,00:00:00:17,Unmuted,20408,17,0
+1,1218,Heartbeat Tempo Mapped-36.L   ,00:11:21:04,00:11:21:11,00:00:00:07,Unmuted,20434,7,1
+1,1219,Nu Heartbeat.01_01-52.L       ,00:11:21:15,00:11:22:01,00:00:00:16,Unmuted,20445,16,0
+1,1220,Nu Heartbeat.01_01-54.L       ,00:11:22:08,00:11:22:16,00:00:00:07,Unmuted,20468,7,1
+1,1221,Nu Heartbeat.01_01-56.L       ,00:11:22:20,00:11:23:07,00:00:00:16,Unmuted,20480,16,0
+1,1222,Nu Heartbeat.01_01-58.L       ,00:11:23:13,00:11:23:21,00:00:00:07,Unmuted,20503,7,1
+1,1223,Nu Heartbeat.01_01-60.L       ,00:11:23:25,00:11:24:11,00:00:00:16,Unmuted,20515,16,0
+1,1224,Nu Heartbeat.01_01-62.L       ,00:11:24:17,00:11:24:25,00:00:00:07,Unmuted,20537,7,1
+1,1225,Nu Heartbeat.01_01-44.L       ,00:11:24:29,00:11:25:15,00:00:00:16,Unmuted,20549,16,0
+1,1226,Nu Heartbeat.01_01-02.L       ,00:11:25:21,00:11:25:29,00:00:00:07,Unmuted,20571,7,1
+1,1227,Nu Heartbeat.01_01-04.L       ,00:11:26:03,00:11:26:19,00:00:00:16,Unmuted,20583,16,0
+1,1228,Nu Heartbeat.01_01-06.L       ,00:11:26:25,00:11:27:03,00:00:00:07,Unmuted,20605,7,1
+1,1229,Nu Heartbeat.01_01-08.L       ,00:11:27:06,00:11:27:22,00:00:00:16,Unmuted,20616,16,0
+1,1230,Nu Heartbeat.01_01-10.L       ,00:11:27:28,00:11:28:06,00:00:00:07,Unmuted,20638,7,1
+1,1231,Nu Heartbeat.01_01-12.L       ,00:11:28:09,00:11:28:25,00:00:00:16,Unmuted,20649,16,0
+1,1232,Nu Heartbeat.01_01-14.L       ,00:11:29:00,00:11:29:08,00:00:00:07,Unmuted,20670,7,1
+1,1233,Nu Heartbeat.01_01-16.L       ,00:11:29:11,00:11:29:28,00:00:00:16,Unmuted,20681,16,0
+1,1234,Nu Heartbeat.01_01-18.L       ,00:11:30:02,00:11:30:10,00:00:00:07,Unmuted,20702,7,1
+1,1235,Nu Heartbeat.01_01-20.L       ,00:11:30:13,00:11:31:00,00:00:00:16,Unmuted,20713,16,0
+1,1236,Nu Heartbeat.01_01-22.L       ,00:11:31:04,00:11:31:12,00:00:00:07,Unmuted,20734,7,1
+1,1237,Nu Heartbeat.01_01-24.L       ,00:11:31:15,00:11:32:01,00:00:00:16,Unmuted,20745,16,0
+1,1238,Nu Heartbeat.01_01-26.L       ,00:11:32:06,00:11:32:13,00:00:00:07,Unmuted,20766,7,1
+1,1239,Nu Heartbeat.01_01-28.L       ,00:11:32:16,00:11:33:02,00:00:00:16,Unmuted,20776,16,0
+1,1240,Nu Heartbeat.01_01-30.L       ,00:11:33:06,00:11:33:14,00:00:00:07,Unmuted,20796,7,1
+1,1241,Nu Heartbeat.01_01-32.L       ,00:11:33:17,00:11:34:03,00:00:00:16,Unmuted,20807,16,0
+1,1242,Nu Heartbeat.01_01-34.L       ,00:11:34:07,00:11:34:15,00:00:00:07,Unmuted,20827,7,1
+1,1243,Nu Heartbeat.01_01-36.L       ,00:11:34:17,00:11:35:04,00:00:00:16,Unmuted,20837,16,0
+1,1244,Nu Heartbeat.01_01-38.L       ,00:11:35:07,00:11:35:15,00:00:00:07,Unmuted,20857,7,1
+1,1245,Nu Heartbeat.01_01-40.L       ,00:11:35:17,00:11:36:04,00:00:00:16,Unmuted,20867,16,0
+1,1246,Nu Heartbeat.01_01-42.L       ,00:11:36:07,00:11:36:15,00:00:00:07,Unmuted,20887,7,1
+1,1247,Nu Heartbeat.01_01-44.L       ,00:11:36:17,00:11:37:04,00:00:00:16,Unmuted,20897,16,0
+1,1248,Nu Heartbeat.01_01-46.L       ,00:11:37:07,00:11:37:15,00:00:00:07,Unmuted,20917,7,1
+1,1249,Nu Heartbeat.01_01-48.L       ,00:11:37:16,00:11:38:03,00:00:00:16,Unmuted,20926,16,0
+1,1250,Nu Heartbeat.01_01-50.L       ,00:11:38:06,00:11:38:14,00:00:00:07,Unmuted,20946,7,1
+1,1251,Nu Heartbeat.01_01-52.L       ,00:11:38:16,00:11:39:02,00:00:00:16,Unmuted,20956,16,0
+1,1252,Nu Heartbeat.01_01-54.L       ,00:11:39:05,00:11:39:13,00:00:00:07,Unmuted,20975,7,1
+1,1253,Nu Heartbeat.01_01-56.L       ,00:11:39:14,00:11:40:01,00:00:00:16,Unmuted,20984,16,0
+1,1254,Nu Heartbeat.01_01-58.L       ,00:11:40:03,00:11:40:11,00:00:00:07,Unmuted,21003,7,1
+1,1255,Nu Heartbeat.01_01-60.L       ,00:11:40:13,00:11:40:29,00:00:00:16,Unmuted,21013,16,0
+1,1256,Nu Heartbeat.01_01-62.L       ,00:11:41:02,00:11:41:10,00:00:00:07,Unmuted,21032,7,1
+1,1257,Nu Heartbeat.01_01-44.L       ,00:11:41:11,00:11:41:27,00:00:00:16,Unmuted,21041,16,0
+1,1258,Nu Heartbeat.01_01-02.L       ,00:11:41:29,00:11:42:07,00:00:00:07,Unmuted,21059,7,1
+1,1259,Nu Heartbeat.01_01-04.L       ,00:11:42:09,00:11:42:25,00:00:00:16,Unmuted,21069,16,0
+1,1260,Nu Heartbeat.01_01-06.L       ,00:11:42:27,00:11:43:05,00:00:00:07,Unmuted,21087,7,1
+1,1261,Nu Heartbeat.01_01-08.L       ,00:11:43:06,00:11:43:23,00:00:00:16,Unmuted,21096,16,0
+1,1262,Nu Heartbeat.01_01-10.L       ,00:11:43:24,00:11:44:02,00:00:00:07,Unmuted,21114,7,1
+1,1263,Nu Heartbeat.01_01-12.L       ,00:11:44:03,00:11:44:20,00:00:00:16,Unmuted,21123,16,0
+1,1264,Nu Heartbeat.01_01-14.L       ,00:11:44:21,00:11:44:29,00:00:00:07,Unmuted,21141,7,1
+1,1265,Nu Heartbeat.01_01-16.L       ,00:11:45:00,00:11:45:17,00:00:00:16,Unmuted,21150,16,0
+1,1266,Nu Heartbeat.01_01-213.L      ,00:11:45:18,00:11:45:25,00:00:00:07,Unmuted,21168,7,1
+1,1267,Nu Heartbeat.01_01-20.L       ,00:11:45:27,00:11:46:14,00:00:00:16,Unmuted,21177,16,0
+1,1268,Nu Heartbeat.01_01-22.L       ,00:11:46:15,00:11:46:23,00:00:00:07,Unmuted,21195,7,1
+1,1269,Nu Heartbeat.01_01-24.L       ,00:11:46:23,00:11:47:10,00:00:00:16,Unmuted,21203,16,0
+1,1270,Nu Heartbeat.01_01-26.L       ,00:11:47:11,00:11:47:19,00:00:00:07,Unmuted,21221,7,1
+1,1271,Nu Heartbeat.01_01-60.L       ,00:11:47:19,00:11:48:06,00:00:00:16,Unmuted,21229,16,0
+1,1272,Nu Heartbeat.01_01-190.L      ,00:11:48:07,00:11:48:14,00:00:00:07,Unmuted,21247,7,1
+1,1273,Nu Heartbeat.01_01-189.L      ,00:11:48:14,00:11:49:02,00:00:00:17,Unmuted,21254,17,0
+1,1274,Nu Heartbeat.01_01-191.L      ,00:11:49:02,00:11:49:20,00:00:00:17,Unmuted,21272,17,1
+1,1275,Nu Heartbeat.01_01-10.L       ,00:11:50:07,00:11:50:15,00:00:00:07,Unmuted,21307,7,0
+1,1276,Nu Heartbeat.01_01-194.L      ,00:11:50:16,00:11:51:02,00:00:00:15,Unmuted,21316,15,1
+1,1277,Nu Heartbeat.01_01-195.L      ,00:11:51:02,00:11:51:09,00:00:00:06,Unmuted,21332,6,0
+1,1278,Nu Heartbeat.01_01-196.L      ,00:11:51:09,00:11:51:16,00:00:00:06,Unmuted,21339,6,1
+1,1279,Nu Heartbeat.01_01-198.L      ,00:11:51:16,00:11:51:22,00:00:00:06,Unmuted,21346,6,0
+1,1280,Nu Heartbeat.01_01-199.L      ,00:11:51:22,00:11:52:05,00:00:00:12,Unmuted,21352,12,1
+1,1281,Nu Heartbeat.01_01-200.L      ,00:11:52:05,00:11:52:12,00:00:00:06,Unmuted,21365,6,0
+1,1282,Nu Heartbeat.01_01-201.L      ,00:11:52:12,00:11:52:25,00:00:00:13,Unmuted,21372,13,1
+1,1283,Nu Heartbeat.01_01-76.L       ,00:11:52:26,00:11:53:04,00:00:00:08,Unmuted,21386,8,0
+1,1284,Nu Heartbeat.01_01-60.L       ,00:11:53:12,00:11:53:29,00:00:00:16,Unmuted,21402,16,1
+1,1285,Nu Heartbeat.01_01-202.L      ,00:11:54:05,00:11:54:11,00:00:00:06,Unmuted,21425,6,0
+1,1286,Nu Heartbeat.01_01-203.L      ,00:11:54:12,00:11:54:27,00:00:00:14,Unmuted,21432,14,1
+1,1287,Nu Heartbeat.01_01-171.L      ,00:11:54:27,00:11:55:04,00:00:00:07,Unmuted,21447,7,0
+1,1288,Nu Heartbeat.01_01-170.L      ,00:11:55:04,00:11:55:22,00:00:00:17,Unmuted,21454,17,1
+1,1289,Nu Heartbeat.01_01-204.L      ,00:11:55:24,00:11:55:29,00:00:00:04,Unmuted,21474,4,0
+1,1290,Nu Heartbeat.01_01-205.L      ,00:11:55:29,00:11:56:06,00:00:00:07,Unmuted,21479,7,1
+1,1291,Nu Heartbeat.01_01-172.L      ,00:11:56:07,00:11:56:12,00:00:00:05,Unmuted,21487,5,0
+1,1292,Nu Heartbeat.01_01-207.L      ,00:11:56:13,00:11:56:22,00:00:00:08,Unmuted,21493,8,1
+1,1293,Nu Heartbeat.01_01-208.L      ,00:11:56:22,00:11:56:28,00:00:00:06,Unmuted,21502,6,0
+1,1294,Nu Heartbeat.01_01-209.L      ,00:11:56:29,00:11:57:09,00:00:00:10,Unmuted,21509,10,1
+1,1295,Nu Heartbeat.01_01-210.L      ,00:11:57:09,00:11:57:16,00:00:00:06,Unmuted,21519,6,0
+1,1296,Nu Heartbeat.01_01-211.L      ,00:11:57:17,00:11:57:26,00:00:00:09,Unmuted,21527,9,1
+1,1297,Nu Heartbeat.01_01-22.L       ,00:11:57:27,00:11:58:05,00:00:00:08,Unmuted,21537,8,0
+1,1298,Nu Heartbeat.01_01-212.L      ,00:11:58:06,00:11:58:16,00:00:00:09,Unmuted,21546,9,1
+1,1299,Nu Heartbeat.01_01-174.L      ,00:11:58:16,00:11:58:25,00:00:00:08,Unmuted,21556,8,0
