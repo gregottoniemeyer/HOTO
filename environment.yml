@@ -32,6 +32,7 @@ dependencies:
   - h5netcdf
   - scipy
   - xmitgcm
-- pip:
-  - nexradaws
+  - pip
+  - pip:
+      - nexradaws
 prefix: C:\Users\gentemann\Miniconda3\envs\heart
