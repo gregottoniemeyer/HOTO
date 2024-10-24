@@ -3,32 +3,34 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - bottleneck
-  - boto3
-  - cartopy
-  - dask
-  - distributed
-  - fsspec
-  - h5netcdf
-  - h5py
-  - jupyter
-  - jupyterlab
-  - lxml
-  - matplotlib
-  - netcdf4
-  - numpy
-  - obspy
-  - pandas
-  - python
-  - seaborn
-  - s3fs
-  - toml
-  - xarray
-  - zarr
   - arm_pyart
+  - cartopy
   - earthaccess
   - ephem
+  - jupyter
+  - jupyterlab
+  - holoviews
+  - geopandas
   - goes2go
+  - numpy
+  - pandas
+  - python
+  - xarray
+  - netcdf4
+  - dask
+  - lxml
+  - bottleneck
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - h5py
+  - fsspec
+  - s3fs
+  - toml
+  - zarr
+  - distributed
+  - h5netcdf
+  - scipy
   - xmitgcm
   - pip
   - pip:
