@@ -1,0 +1,58 @@
+CHANNEL 	EVENT   	CLIP NAME                     	START TIME    	END TIME      	DURATION      	STATE
+1       	1       	Hoto2vyymZPTXxrpzBCHY.wav-01  	   00:08:31:28	   00:08:37:22	   00:00:05:24	Unmuted
+1       	2       	Hoto2hmcsBJTXxrpzBCHY.wav-01  	   00:08:43:23	   00:09:10:29	   00:00:27:06	Unmuted
+1       	3       	Morgan Vocal Pads 2	00:09:17:29	   00:09:33:21	   00:00:15:22	Unmuted
+1       	1       	P3 Alien Fish Chatter Ab-Mldy-01.L	   00:03:12:14	   00:03:13:20	   00:00:01:05	Unmuted
+1       	2       	P3 Alien Fish Chatter Ab-Mldy-02.L	   00:03:17:12	   00:03:19:05	   00:00:01:23	Unmuted
+1       	3       	P3 Alien Fish Chatter Ab-Mldy-03.L	   00:03:26:12	   00:03:28:06	   00:00:01:24	Unmuted
+1       	4       	P3 Alien Fish Chatter Ab-Mldy-04.L	   00:03:28:06	   00:03:31:11	   00:00:03:05	Unmuted
+1       	5       	P3 Alien Fish Chatter Ab-Mldy-05.L	   00:03:37:27	   00:03:38:16	   00:00:00:19	Unmuted
+1       	6       	P3 Alien Fish Chatter Ab-Mldy-06.L	   00:03:48:29	   00:03:50:21	   00:00:01:21	Unmuted
+1       	7       	P3 Alien Fish Chatter Ab-Mldy-07.L	   00:03:59:14	   00:04:03:13	   00:00:03:28	Unmuted
+1       	8       	SFX LFO Sparkles Ab-Mldy-02.L 	   00:06:32:04	   00:06:36:04	   00:00:03:29	Unmuted
+1       	9       	SFX Water Comb-Mldy-05.L      	   00:06:52:23	   00:06:54:18	   00:00:01:25	Unmuted
+1       	10      	SFX Water Comb-Mldy-06.L      	   00:07:04:00	   00:07:07:12	   00:00:03:11	Unmuted
+1       	11      	SFX Water Comb-Mldy-07.L      	   00:07:36:17	   00:07:39:28	   00:00:03:11	Unmuted
+1       	1       	Rising Crystal Bubbles 3 mins Ab-04.L	   00:10:18:11	   00:10:20:06	   00:00:01:24	Unmuted
+1       	1       	Squid moving in water-09.L    	   00:05:17:24	   00:05:23:01	   00:00:05:06	Unmuted
+1       	2       	Squid moving in water-10.L    	   00:05:25:05	   00:05:29:01	   00:00:03:25	Unmuted
+1       	3       	Squid moving in water-03.L    	   00:05:35:27	   00:05:39:03	   00:00:03:05	Unmuted
+1       	4       	Squid moving in water-05.L    	   00:05:43:02	   00:05:46:08	   00:00:03:06	Unmuted
+1       	5       	Squid moving in water-07.L    	   00:05:53:20	   00:05:57:00	   00:00:03:10	Unmuted
+1       	6       	Squid moving in water-08.L    	   00:06:20:22	   00:06:30:19	   00:00:09:27	Unmuted
+1       	7       	Squid moving in water-03.L    	   00:06:45:00	   00:06:48:06	   00:00:03:05	Unmuted
+1       	9       	Squid moving in water-07.L    	   00:07:10:13	   00:07:13:23	   00:00:03:10	Unmuted
+1       	1       	SFX Squid-20.L                	   00:09:16:27	   00:09:20:07	   00:00:03:10	Unmuted
+1       	2       	SFX Squid-19.L                	   00:09:24:04	   00:09:27:20	   00:00:03:16	Unmuted
+1       	3       	SFX Squid-21.L                	   00:09:34:18	   00:09:38:06	   00:00:03:18	Unmuted
+1       	4       	SFX Squid-18.L                	   00:09:44:10	   00:09:47:16	   00:00:03:06	Unmuted
+1       	1       	Modular Creature 4-12.L       	   00:04:19:03	   00:04:19:13	   00:00:00:10	Unmuted
+1       	2       	Modular Creature 4-13.L       	   00:04:30:21	   00:04:31:28	   00:00:01:07	Unmuted
+1       	3       	Modular Creature 4-15.L       	   00:04:39:12	   00:04:40:18	   00:00:01:06	Unmuted
+1       	4       	Modular Creature 4-14.L       	   00:04:41:18	   00:04:42:26	   00:00:01:08	Unmuted
+1       	5       	Modular Creature 4-11.L       	   00:04:53:09	   00:04:53:23	   00:00:00:13	Unmuted
+1       	6       	Modular Creature 4-10.L       	   00:05:02:17	   00:05:03:25	   00:00:01:08	Unmuted
+1       	7       	Modular Creature 4-PnTPro_01-01.L	 00:05:25:13	   00:05:26:06	   00:00:00:23	Unmuted
+1       	8       	Modular Creature 4-PnTPro_02-01.L	00:05:30:28	   00:05:31:26	   00:00:00:28	Unmuted
+1       	9       	Modular Creature 4-PnTPro_03-01.L	00:05:34:10	   00:05:35:09	   00:00:00:28	Unmuted
+1       	10      	Modular Creature 4-PnTPro_04-01.L	00:05:51:08	   00:05:52:09	   00:00:01:00	Unmuted
+1       	11      	Modular Creature 4-PnTPro_05-01.L	00:05:58:08	   00:05:59:14	   00:00:01:05	Unmuted
+1       	12      	Modular Creature 4-PnTPro_06-02.L	00:06:09:23	   00:06:11:09	   00:00:01:16	Unmuted
+1       	13      	Modular Creature 4-PnTPro_07-01.L	00:06:11:12	   00:06:13:07	   00:00:01:24	Unmuted
+1       	1       	Clang Inst.02-cm_01-02.L      	   00:00:50:00	   00:00:53:25	   00:00:03:24	Unmuted
+1       	2       	Clang Inst.02-cm_01-04.L      	   00:01:20:29	   00:01:24:21	   00:00:03:22	Unmuted
+1       	3       	Clang Inst.02-cm_01-06.L      	   00:01:44:24	   00:01:48:16	   00:00:03:22	Unmuted
+1       	4       	Clang Inst.02-cm_01-08.L      	   00:01:55:19	   00:01:59:14	   00:00:03:24	Unmuted
+1       	5       	Clang Inst.02-cm_01-10.L      	   00:02:16:09	   00:02:20:00	   00:00:03:21	Unmuted
+1       	6       	Clang Inst.02-cm_01-12.L      	   00:02:27:18	   00:02:31:12	   00:00:03:24	Unmuted
+1       	7       	Clang Inst.02-cm_01-14.L      	   00:02:50:11	   00:02:53:29	   00:00:03:18	Unmuted
+1       	8       	Clang Inst.02-cm_01-16.L      	   00:03:26:08	   00:03:30:03	   00:00:03:24	Unmuted
+1       	9       	Clang Inst.02-cm_01-18.L      	   00:04:05:23	   00:04:09:12	   00:00:03:18	Unmuted
+1       	10      	Clang Inst.02-cm_01-20.L      	   00:04:28:29	   00:04:32:17	   00:00:03:18	Unmuted
+1       	11      	Clang Inst.02-cm_01-22.L      	   00:04:49:29	   00:04:53:20	   00:00:03:20	Unmuted
+1       	12      	Clang Inst.02-cm_01-24.L      	   00:05:35:26	   00:05:39:15	   00:00:03:19	Unmuted
+1       	13      	Clang Inst.02-cm_01-26.L      	   00:10:31:14	   00:10:35:09	   00:00:03:25	Unmuted
+1       	14      	Clang Inst.02-cm_01-28.L      	   00:10:54:00	   00:10:57:20	   00:00:03:20	Unmuted
+1       	15      	Clang Inst.02-cm_01-30.L      	   00:11:26:23	   00:11:30:12	   00:00:03:19	Unmuted
+1       	16      	Clang Inst.02-cm_01-32.L      	   00:11:37:00	   00:11:40:18	   00:00:03:18	Unmuted
+1       	17      	Clang Inst.02-cm_01-33.L      	   00:11:50:15	   00:11:54:05	   00:00:03:20	Unmuted

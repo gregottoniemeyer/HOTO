@@ -1,0 +1,11 @@
+#!/bin/bash
+while :; do
+   jupyter nbconvert --to notebook --execute buoy_San_Juan_nrt.ipynb
+   jupyter nbconvert --to notebook --execute nexrad_data_nrt.ipynb
+   jupyter nbconvert --to notebook --execute Milwaukee_seismic_nrt.ipynb
+   jupyter nbconvert --to notebook --execute GOES_create_data_step1.ipynb
+   jupyter nbconvert --to notebook --execute GOES_create_data_step2.ipynb
+   jupyter nbconvert --to notebook --execute GOES_create_data_step3.ipynb
+   jupyter nbconvert --to notebook --execute MergeData_v03_nrt.ipynb
+   //sleep 1m # Waits 1 minutes
+done
